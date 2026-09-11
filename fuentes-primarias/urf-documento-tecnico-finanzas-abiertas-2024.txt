@@ -1,0 +1,1297 @@
+   
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sistema de finanzas abiertas 
+obligatorio 
+Unidad de Proyección 
+Normativa y Estudios 
+de Regulación 
+Financiera - URF  
+ 
+Subdirección de 
+desarrollo de mercados 
+(SDM) 
+ 
+Bogotá – Colombia 
+Diciembre 2024 
+Mariana Aya Guerrero  
+Subdirectora  
+ 
+Paola Peña Rodríguez  
+Asesora 
+ 
+Andrés Felipe Clavijo 
+Bolaños 
+Asesor 
+ 
+Martín Quiñones Mogollón 
+Asesor 
+Palabras Clave:  
+ 
+Sistema de finanzas abiertas 
+ 
+Esquema obligatorio 
+ 
+Gobernanza 
+ 
+Directorio 
+ 
+Costos de acceso 
+ 
+Terceros de confianza 
+ 
+Documento técnico 
+   
+ 
+2 
+ 
+ 
+Resumen 
+ 
+Este documento técnico sustenta las propuestas consignadas en el proyecto de decreto “ Por 
+medio del cual se modifica el Decreto 2555 de 2010 en lo relacionado con el sistema de finanzas 
+abiertas” , el cual se publica a comentarios del público. 
+ 
+El proyecto de decreto propone un nuevo marco normativo para el sistema de finanzas abiertas, 
+que transita de un esquema voluntario a uno de carácter obligatorio en virtud del artículo 89 de la 
+Ley 2294 de 2023. El proyecto de decreto aborda los siguientes elementos: i) ámbito de aplicación, 
+objetivos y principios del sistema de finanzas abiertas; ii) alcance de la obligatoriedad, iii) roles y 
+responsabilidades de los participantes , i v) costos de acceso, v) principio de reciprocidad, v i) 
+esquema de gobernan za, vi i) directorio de participantes, vii i) actividades de los terceros de 
+confianza, y ix) indicadores de seguimiento y monitoreo del sistema de finanzas abiertas. 
+ 
+Estas disposiciones tienen como objetivo consolidar un sistema de finanzas abiertas que habilite 
+el acceso a nuevas fuentes de información para promover la inclusión financiera y el desarrollo de 
+nuevos modelos de negocio  en beneficio de los consumidores financieros. Asimismo,  estas 
+disposiciones contribuyen al cumplimiento de los objetivos de política pública propuestos por el 
+Gobierno nacional relacionados con el acceso, uso y aprovechamiento de datos para impulsar la 
+transformación social, el empoderamiento de las personas y el desarrollo de la economía popular 
+y comunitaria. 
+  
+   
+ 
+3 
+ 
+ 
+Tabla de contenido 
+Resumen ................................ ................................ ................................ .............................  2 
+Introducción ................................ ................................ ................................ ........................  4 
+1. Ámbito de aplicación, objetivos y principios del sistema de finanzas abiertas ..................... 5 
+2. Obligatoriedad ................................ ................................ ................................ ............... 7 
+3. Costos de acceso ................................ ................................ ................................ ........ 12 
+4. Principio de reciprocidad ................................ ................................ ..............................  13 
+5. Gobernanza ................................ ................................ ................................ ................ 15 
+6. Directorio de participantes ................................ ................................ ...........................  21 
+7. Terceros de Confianza ................................ ................................ ................................ .. 25 
+8. Seguimiento al sistema de finanzas abiertas ................................ ................................ .. 28 
+Bibliografía ................................ ................................ ................................ .........................  30 
+ 
+ 
+ 
+  
+   
+ 
+4 
+ 
+ 
+Introducción 
+ 
+El Banco Interamericano de Desarrollo ha definido las finanzas abiertas como un ecosistema de 
+servicios financieros donde los datos personales de los consumidores se comparten, con su 
+consentimiento previo e informado, entre las instituciones financieras que ofrecen servicios y 
+productos financieros a la medida y basados en información (BID, 2023).  Su principal objetivo es 
+brindar un mayor control a los consumidores financieros sobre sus datos personales y facilitar un 
+acceso más inclusivo y competitivo al sistema financiero. A través de esta política se promueve el 
+desarrollo de un mercado de servicios financieros más transparente , innovador y accesible, con 
+productos mejor adaptados a las necesidades individuales y empresariales de los consumidores.  
+ 
+Los sistemas de finanzas abiertas experimentan una rápida evolución a nivel global, 
+desarrollándose bajo tres enfoques principales según el grado de intervención regulatoria1. Estos 
+enfoques incluyen: i) modelos obligatorios, implementados mediante disposiciones imperativas 
+en países como Brasil, el Reino Unido y la Unión Europea; ii) modelos voluntarios, donde la 
+participación es opcional, como en Hong Kong, Japón y Singapur; y iii) modelos impulsados por el 
+mercado, en los cuales la dinámica es liderada por actores privados, como ocurre en Argentina y 
+Estados Unidos (BID, 2023). 
+ 
+En América Latina, Brasil ha sido pionero en la consolidación de un esquema de finanzas abiertas, 
+implementando un marco regulatorio de carácter obligatorio orientado a impulsar la competencia 
+y facilitar la adopción de  productos y servicios financieros . Con más de 30 millones de 
+consentimientos únicos y activos, su sistema de finanzas abiertas ha facilitado el desarrollo de 
+casos de uso como la agregación y gestión de cuentas, el análisis crediticio,  las alertas 
+personalizadas para la asignación de recurso s y la vinculación de clientes (Zetta, 2024). Por su 
+parte, países como México y Chile han avanzado también en la definición de marcos normativos 
+orientados a la aplicación de un esquema de carácter obligatorio y estandarizado. 
+ 
+Colombia, por su parte, tuvo un primer avance con la expedición del Decreto 1297 de 2022 , 
+incorporado en el Decreto 2555 de 2010 , que estableció un esquema de finanzas abiertas de 
+carácter voluntario. Este marco normativo brindó seguridad jurídica sobre la facultad de las 
+entidades financieras para tratar los datos personales de sus consumidores, habilitó la 
+comercialización de información como un mecanismo para promover la exposición de protocolos 
+de intercambio automático de información y encargó a la Sup erintendencia Financiera de 
+Colombia (SFC) la definición de los estándares requeridos para promover el desarrollo de la 
+arquitectura financiera abierta. 
+ 
+ 
+1 A febrero de 2023, más de 40 jurisdicciones a nivel global han desarrollado un esquema de banca o finanzas abiertas. 
+(https://www.konsentus.com/wp-content/uploads/The_World_of_Open_Banking_February_2023.pdf) 
+   
+ 
+5 
+ 
+ 
+Posteriormente, ante la relevancia del acceso a la información para alcanzar los objetivos de 
+política pública del Gobierno nacional, el artículo 89 la Ley  2294 de 2023 (Plan Nacional de 
+Desarrollo 2022-2026) estableció que todas las entidades públicas y privadas deberán brindar 
+acceso y suministrar toda aquella información que pueda ser utilizada para facilitar el acceso a 
+productos y servicios financieros. Esto implicó un cambio de aproximación frente al esquema de 
+finanzas abiertas que se venía implement ando en Colombia y la necesidad de contar con un 
+nuevo marco normativo que permita transitar de un esquema voluntario a uno de carácter 
+obligatorio. 
+ 
+El proyecto de decreto que acompaña el presente documento técnico plantea un nuevo marco 
+normativo para la adopción de un sistema de finanzas abiertas de carácter obligatorio  en 
+Colombia. La propuesta regulatoria aborda, entre otros aspectos,  los siguientes elementos: i) 
+ámbito de aplicación, objetivos y principios; ii) alcance de la obligatoriedad, iii) roles y 
+responsabilidades de los participantes, iv) costos de acceso, v) principio de reciprocidad, vi) 
+esquema de gobernanza, vii) directori o de participantes, viii) actividades de los terceros de 
+confianza, y ix) indicadores de seguimiento y monitoreo del sistema de finanzas abiertas.  Cada 
+uno de estos elementos es abordado en el presente documento técnico que se publica para 
+comentarios del público. 
+ 
+Las propuestas planteadas consideran la experiencia internacional de diversas jurisdicciones que 
+cuentan con un modelo obligatorito de banca, finanzas o datos abiertos. Asimismo, considera las 
+particularidades del sistema financiero colombiano, las necesidades de los consumidores 
+financieros, la relevancia de garantizar que el tratamiento de datos personales se realice un marco 
+adecuado de seguridad y los avances que ha n desarrollado diferentes entidades públicas y 
+privadas en materia de finanzas abiertas. 
+1. Ámbito de aplicación, objetivos y principios del 
+sistema de finanzas abiertas 
+ 
+El Proyecto de Decreto que acompaña este documento técnico actualiza la regulación contenida 
+en el Título 8 del Libro 35 de la Parte 2 del Decreto 2555 de 2010 mediante la incorporación de un 
+conjunto de disposiciones que establecen las bases normativas para la consolidación de un 
+sistema de finanzas abiertas de carácter obligatorio. Para el efecto,  la propuesta normativa 
+establece que se entenderá por sistema de finanzas abiertas el conjunto de normas, estándares, 
+infraestructuras y participantes que inter actúan entre sí para permitir el acceso y suministro 
+estandarizado de datos personales que reposan en las entidades financieras, previa autorización 
+de su titular.  
+ 
+   
+ 
+6 
+ 
+ 
+La estructuración de un sistema de finanzas abiertas requiere de una definición clara de los 
+objetivos de política pública que se buscan alcanzar con su implementación (CGAP , 2024). En este 
+sentido, y de conformidad con lo establecido en el artículo 89 de la Ley 2294 de 2023, el Proyecto 
+de Decreto establece que el acceso a la información y la prestación de servicios en el sistema de 
+finanzas abiertas tendrá como objetivo promover la inclusión, la inno vación y la competencia en 
+el sistema financiero. Con la  consecución de estos objetivos se busca promover el bienestar 
+financiero de la población, entendido como su capacidad para gestionar adecuadamente sus 
+finanzas de corto plazo, absorber y recuperarse de choques financieros, estar encaminado hacia 
+el cumplimiento de objetivos financieros y sentirse en control de sus finanzas personales2. 
+ 
+Por otra parte, el Proyecto de Decreto cuenta con un acápite de definiciones orientado a facilitar 
+el entendimiento de la arquitectura propuesta para el sistema de finanzas abiertas. Los conceptos 
+incluidos permiten identificar a los participantes del sistema, sus funciones y la calidad que 
+ostentan en el marco definido por las leyes estatuarias en materia de protección de datos 
+personales3. Esto último, con el objetivo de brindar claridad frente al rol de cada participante 
+como responsable o encargado del tratamiento y, por lo tanto, de los deberes y responsabilidades 
+que le corresponden a cada uno de estos en el marco del sistema de finanzas abiertas. 
+ 
+Finalmente, el primer capítulo del Proyecto de Decreto incorpora un catálogo de principios 
+orientados a dotar de confianza, transparencia y seguridad al sistema de finanzas abiertas. Estos 
+principios son fundamentales para consolidar un sistema financiero abierto, sostenible y 
+resiliente, que pueda adaptarse a las necesidades de una economía digital en constante 
+evolución y que permita obtener  los beneficios derivados de su implementación . Los principios 
+incorporados buscan , entre otros aspectos,  orientar la conducta de sus participantes de tal 
+manera que: 
+ 
+i) el acceso a los datos personales obedezca a una finalidad legitima acorde con los 
+objetivos del sistema;  
+ii) los datos personales objeto de tratamiento sean protegidos mediante mecanismos 
+robustos de seguridad de la información y ciberseguridad, que eviten su consulta o uso no 
+autorizado; 
+iii) los datos objeto de intercambio sean precisos, completos, actualizados y pertinentes para 
+el cumplimiento de los objetivos del sistema;  
+iv) el acceso y suministro de datos personales en el sistema se preste en igualdad de 
+condiciones para todos los participantes a través de mecanismos que permitan una 
+interacción eficiente, segura y transparente.  
+ 
+2 Categorías definidas por la Oficina Asesora Especial del Secretario General de la ONU (UNSGSA, 2021). 
+3 El tratamiento de los datos personales se regirá en todo caso por lo establecido en las Leyes Estatutarias 1712 de 
+2014, 1266 de 2008, 1581 de 2012, 2157 de 2021, así como sus normas reglamentarias y aquellas que las modifiquen 
+o sustituyan.   
+   
+ 
+7 
+ 
+ 
+ 
+Entre los principios incluidos en el proyecto de decreto se destaca el principio de reciprocidad, 
+cuyo análisis y justificación se encuentra en la sección 4 del presente documento técnico.  
+ 
+2. Obligatoriedad 
+ 
+El artículo 89 de la Ley 2294 de 2023 establece que la totalidad de las entidad públicas y privadas 
+deberán dar acceso y suministrar toda aquella información que pueda ser empleada para facilitar 
+el acceso a productos y servicios financieros. El carácter imperativo de esta norma representa un 
+cambio de aproximación frente a l modelo voluntario de finanzas abiertas que se venía 
+implementando en el país a partir de disposiciones de carácter facultativo.  
+ 
+Por una parte, la Circular Externa 029 de 2019 de l a Superintendencia Financiera de Colombia 
+estableció que las entidades financieras “(…) pueden suministrar y recibir la información que los 
+consumidores financieros autoricen expresamente .”. Asimismo, indicó que “ La información 
+actualizada de los productos, canales, puntos de atención, servicios y tarifas, puede ser puesta a 
+disposición de terceros desarrolladores de API (Application Programming Interface) o cualquie r 
+otro mecanismo que permita el intercambio automático de información, en las condiciones que 
+cada entidad determine y con la debida gestión de los riesgos asociados a este intercambio. ” 
+(resaltados fuera de texto). 
+ 
+Por otra parte, el Decreto 1297 de 2022, incorporado en el Decreto 2555 de 2010, estableció  que 
+“Las entidades vigiladas por la Superintendencia Financiera de Colombia podrán tratar la 
+información que los consumidores financieros autoricen de manera previa, expresa e informada.” 
+(resaltado fuera de texto). Lo anterior, bajo un cumplimiento estricto de las normas relacionadas 
+con protección de datos personales y habeas data de las que tratan las Leyes 1266 de 2008 y 1581 
+de 2012. 
+ 
+La transición de un esquema voluntario a un o obligatorio requiere una revisión de las 
+disposiciones actuales y el diseño de un nuevo marco normativo que brinde c laridad sobre su 
+estructura y operatividad. En particular, el cambio de modelo requiere que la regulación brinde 
+claridad sobre los siguientes elementos: ¿ qué entidades les aplicará la obligatoriedad?; ii) ¿Cuál 
+es el alcance de la obligatoriedad ?; y iii) ¿Cómo se graduará la obligatoriedad? Estos elementos 
+son abordados en el Proyecto de Decreto que acompaña este documento técnico y su desarrollo 
+se presenta a continuación. 
+   
+ 
+8 
+ 
+ 
+• ¿A qué entidades les aplicará la obligatoriedad? 
+El artículo 89  de la Ley 2294 de 2023 indica que los sujetos obligados a cumplir con sus 
+disposiciones son “(…) las entidades estatales que conforman las ramas del poder público y todas 
+las personas jurídicas de naturaleza privada, (…)” . Asimismo, establece que el Gobierno nacional 
+deberá reglamentar los aspectos que sean necesarios para cumplir con el propósito de la norma, 
+incluyendo, entre otros elementos, la definición de los participantes. 
+ 
+El Proyecto de Decreto que acompaña este documento técnico tiene como objetivo definir un 
+marco regulatorio para el desarrollo un sistema obligatorio de finanzas abiertas. En este sentido, 
+su aplicación se circunscribe a las entidades que desarrollan actividad financiera, bursátil, 
+aseguradora y cualquier otra relacionada con el aprovechamiento, manejo e inversión de recursos 
+captados del público. En particular, las entidades que estarán obligadas a participar en el sistema 
+de finanzas abiertas son:  
+1. Los establecimientos bancarios 
+2. Las compañías de financiamiento 
+3. Las cooperativas financieras 
+4. Las sociedades especializadas en depósitos y pagos electrónicos 
+5. Las sociedades fiduciarias 
+6. Las sociedades comisionistas de bolsa 
+7. Las sociedades administradoras de inversión 
+8. Las sociedades administradoras de fondos de pensiones y cesantías 
+9. Las entidades aseguradoras 
+10. Las entidades con regímenes especiales de las que trata la Parte Décima del Decreto 663 
+de 1993 que desarrollan actividades propias de los establecimientos de crédito; y 
+11. Las instituciones oficiales e speciales que fueron definidas como un establecimiento de 
+crédito en su acto de creación. 
+ 
+La propuesta normativa no contempla una segregación de los participantes por volumen de 
+activos o número de clientes como ocurre en otras jurisdicciones como Brasil4 o el Reino Unido5. 
+Por el contrario, establece una participación obligatoria para todas las entidades que operan bajo 
+una misma licencia financiera. Esta aproximación se fundamenta en el artículo 89 de la Ley 2294 
+de 2023 que exige la participación de to das las entidades  públicas o privadas que cuenten con 
+información que pueda ser utilizada para facilitar el acceso a productos y servicios financieros. Lo 
+ 
+4 Artículo 6 de la Resolución Conjunta 1 de 2020 del Banco Central de Brasil y la Consejo Monetario Nacional. 
+5 Numerales 3.1.1 y 12.1 de la Retail Banking Investigation Order de 2017. 
+   
+ 
+9 
+ 
+ 
+anterior, en línea con la aproximación obligatoria implementada en países como Chile6, México7 e 
+India8. 
+• ¿Cuál es el alcance de la obligatoriedad? 
+El artículo 89 de la Ley 2294 de 2023 establece que las entidades sujetas a su aplicación “(…) 
+deberán dar acceso y suministrar toda aquella información que pueda ser empleada para facilitar 
+el acceso a productos y servicios financieros, (...) ” . En este sentido, las entidades obligadas 
+deberán participar en  el sistema de finanzas abiertas en  calidad de  proveedores de datos y 
+cumplir con la totalidad de las disposiciones que le aplican a este tipo de participantes. 
+ 
+Las obligaciones de los proveedores de datos están orientadas a implementar protocolos de 
+intercambio automático de información que les permitan atender solicitudes de información por 
+parte de los terceros receptores de datos, previa autorización de su titular, de una forma segura, 
+expedita y estandarizada. El esquema de finanzas abiertas de carácter obligatorio se apalancará 
+en los estándares de seguridad  y tecnología, así como en los lineamientos en materia de 
+tratamiento de datos personales  y revelación de información , que ya fueron definidos en la  
+Circular Externa 004 de 2024 de la Superintendencia Financiera de Colombia. 
+ 
+Los proveedores de datos también deberán inscribirse en el directorio de participantes del 
+sistema de finanzas abierta s y divulgar la información que la SFC requiera en calidad de 
+administrador del directorio. El detalle sobre la estructura del directorio, su función, su 
+administrador y la información requerida, entre otros aspectos, es detallada en la sección 6 de 
+este documento técnico. 
+ 
+Por otra parte, el proyecto de decreto brinda claridad sobre la información que deberán exponer 
+los proveedores de datos del esquema de finanzas abiertas  obligatorio. En particular, e sta 
+información corresponderá a datos personales semiprivados de los consumidores financieros y a 
+datos personales públicos y semiprivados de las entidades financieras9.  
+ 
+Los datos personales semiprivados de los consumidores financieros incluyen aquellos otorgados 
+por el titular de la información a la entidad financiera y aquellos que se generan por la interacción 
+del consumidor financiero con l os productos y servicios ofrecidos por las entidades financieras. 
+ 
+6 Artículo 18 de la Ley 21521 de 2022. 
+7 Artículo 76 de la Ley para Regular Instituciones de Tecnología Financiera de 2018. 
+8  Artículo 3.1.xi de la Master Direction – Non Banking Financial Company – Account Aggregator 2016 del Banco Central 
+de India. 
+9 Conforme al literal g) del artículo 3 de la Ley 1266 de 2008, se considera dato semi -privado al dato que no tiene 
+naturaleza íntima, reservada, ni pública y cuyo conocimiento o divulgación puede interesar no sólo a su titular sino a 
+cierto sector o grupo de personas o a la sociedad en general.  
+   
+ 
+10 
+ 
+ 
+Esta categoría no incluye aquellos datos enriquecidos sobre los cuales se ha realizado  un 
+tratamiento que genere un derecho de propiedad intelectual.  
+ 
+Por su parte, los datos personales públicos y semiprivados de las entidades financieras incluyen 
+aquellos relacionados con las características generales de los productos y servicios financieros 
+que estos ofrecen.  Esta información puede ser utilizada para el desarrollo de casos de uso 
+orientados a la comparación de productos y la gestión de finanzas personales que generen 
+eficiencias económicas y promuevan el bienestar financiero de la población. 
+ 
+Considerando lo anterior, el Proyecto de Decreto establece que el alcance del sistema de finanzas 
+abiertas comprenderá la circulación de la información y la prestación de los servicios que se 
+detallan a continuación: 
+  
+1. Información sobre el uso de productos y servicios financieros por parte del consumidor 
+financiero, incluyendo, entre otros,  productos de depósito, crédito, aseguramiento e 
+inversión. 
+2. Información de vinculación otorgada por el Titular para acceder a productos y servicios 
+financieros. 
+3. Información sobre las características generales de los productos y servicios 
+financieros ofrecidos por las entidades financieras. 
+4. El servicio de iniciación de pagos. 
+ 
+Los elementos particulares de cada una de las categorías de  información que deberán exponer 
+los proveedores de datos serán definidos y estandarizad os en el marco del esquema de 
+gobernanza del que trata la sección 5 de este documento técnico. Asimismo, la SFC podrá incluir 
+nuevas categorías de información  o servicios , siempre y cuando su uso  o ejecución permita 
+promover la inclusión, innovación o competencia en el sistema financiero. 
+ 
+Sin perjuicio de lo anterior, y con el objetivo de brindar celeridad a la implementación práctica del 
+esquema de finanzas abiertas, el Proyecto de Decreto define lineamientos puntuales sobre la 
+información relacionada con el uso de productos de depósito a la vista. En particular, la propuesta 
+establece que los proveedores de datos que conforme a la naturaleza de sus operaciones 
+autorizadas ofrezcan productos de depósito a la vista deberán permitir, como mínimo, el acceso 
+consentido al historial transaccional de los últimos 12 meses. 
+ 
+Esta información fue identificada a través de una encuesta realizada por la Unidad de Regulación 
+Financiera en febrero de 2024 como uno de los principales insumos que podrían ser utilizados por 
+los agentes colocadores de crédito para estimar la capacidad de pago de un potencial cliente . 
+   
+ 
+11 
+ 
+ 
+Asimismo, considerando su relevancia,  jurisdicciones como Brasil 10  y Chile 11 han estab lecido 
+explícitamente en su marco regulatorio la obligación de permitir el acceso a la información 
+transaccional generada durante los últimos 12 meses. 
+• ¿Cómo se graduará la obligatoriedad? 
+Los esquemas de finanzas abiertas son reformas complejas que requieren no solo de un marco 
+regulatorio robusto, sino también de inversiones tecnológicas y de capital humano considerables. 
+Estimaciones del Banco Mundial  (2024), indican que, en promedio, la consolidación de estos 
+sistemas puede tomar entre tres a cinco años desde su concepción normativa. 
+ 
+En Colombia, los actores públicos y privados llevan aproximadamente 5 años coordinando 
+esfuerzos para consolidar un sistema de finanzas abiertas. Los primeros pasos se dieron a finales 
+de 2019 con una serie de consultorías y discusiones público-privadas lideradas por la Unidad de 
+Regulación Financiera. Estos esfuerzos se consolidaron dos años después con la expedición del 
+Decreto 1297 de 2022 que definió un marco normativo para el desarrollo de un esquema de 
+carácter voluntario. Posteriormente, en febrero de 2024, la SFC definió estándares en materia de 
+seguridad y tecnología que deberán ser atendidos por las entidades vigiladas que participarán en 
+modelos de finanzas abiertas en un plazo máximo de 18 meses.  
+ 
+En este contexto la industria financiera, y principalmente el sector bancario, viene adelantando 
+esfuerzos para implementar protocolos de intercambio automático de información que les 
+permitan participar en el esquema de finanzas abiertas. Asimismo, el programa de inclusión 
+financiera “Banca de las Oportunidades” , en alianza con la Corporación Internacional de Fomento 
+(IFC) del Banco Mundial, vienen adelantando programas con el fin de acelerar las capacidades de 
+entidades financieras de menor tamaño para pa rticipar en el ecosistema de finanzas abiertas. 
+Este programa ha beneficiado el desarrollo tecnológico de bancos , cooperativas financieras y 
+cooperativas de ahorro y crédito. 
+ 
+Teniendo en cuenta lo anterior, y considerando que actualmente existen amplias diferencias en 
+materia de desarrollo tecnológico, capacidades de inversión  y relevancia de la información 
+almacenada, el Proyecto de Decreto propone una implementación gradual de la obligatoriedad 
+por tipo de licencia financiera. En particular, se establece que los establecimientos bancarios y 
+las demás entidades financieras deberán exponer la información objeto del esquema de finanzas 
+abiertas en un plazo máximo de 6 y 1 2 meses, respectivamente, contados a partir de la 
+publicación de los estándares de información que serán definidos por el esquema de gobernanza.  
+ 
+ 
+10 Artículo 5 de la Resolución Conjunta 1 de 2020 del Banco Central de Brasil y la Consejo Monetario Nacional. 
+11 Literal A de la sección IV de la Norma de Carácter General 514 de 2024 de la Comisión para el Mercado Financiero. 
+   
+ 
+12 
+ 
+ 
+3. Costos de acceso 
+  
+Las tarifas de acceso y suministro de datos personales son un elemento que influye de manera 
+directa, y en ocasiones contrapuestas, en la consolidación de un esquema de finanzas abiertas. 
+Por una parte, la viabilidad de establecer tarifas de acceso promueve y acelera la exposición de 
+Interfaces de Programación de Aplicaciones ( API) por parte de los proveedores de datos para el 
+consumo de terceros receptores de datos en beneficio del consumidor. Asimismo, l a 
+consecuente capacidad de recuperar costos de infraestructura está asociada con una mayor 
+calidad del dato y con una mayor disponibilidad de las interfaces dispuestas para su acceso e 
+intercambio (CGAP , 2024). 
+  
+Por otra parte, la monetización de la información puede ir en detrimento de la innovación y la 
+competencia. Si las tarifas de acceso son demasiado altas, la participación de nuevos 
+competidores y el desarrollo de nuevos casos de uso se pueden ver limitados . Los esquemas de 
+tarifación por volumen o la necesidad de incurrir en negociaciones bilaterales para pactar un 
+precio suponen una barrera o  una desventaja para los participantes de menor tamaño (CGAP , 
+2024).  
+  
+La aproximación regulatoria frente a la comercialización de información depende del modelo de 
+finanzas abiertas que se busque implementar. Bajo un modelo voluntario, como el definido en el 
+Decreto 1297 de 2022, la monetización del dato supone un incentivo para la exposición de 
+información y una nueva fuente de ingresos ante la consolidación de un mercado más 
+competitivo. Bajo un modelo obligatorio, como el definido en artículo 89 de la Ley 2294 de 2023 , 
+cobrar por el acceso a la información es concebido com o una barrera que limita el derecho del 
+consumidor para decidir con quién comparte su información. 
+  
+En jurisdicciones como el Reino Unido y los Estados Unidos, en dónde existe un modelo de 
+finanzas abiertas de carácter obligatorio, se encuentra prohibido cobrar por el acceso a la 
+información12,13. De manera similar, la regulación en Chile y Brasil prioriza la gratuidad en el acceso 
+a la información y únicamente permite solicitar el reembolso de gastos incrementales cuando se 
+supera un umbral de llamados API medidos de manera mensual por cliente y por entidad14,15. Bajo 
+estos esquemas, la generación de ingresos por parte de los participantes se deriva de la 
+prestación de nuevos o mejores productos o servicios financieros; y no de viabilizar el intercambio 
+de los datos del consumidor. 
+ 
+12 Artículo 12.1 de la Retail Banking Market Investigation Order 2017 del Reino Unido. 
+13 Sección 1033.301 (C) de la Consumer Financial Protection Act of 2010 de los Estados Unidos. 
+14 Artículo 23 y 43 de la Resolución Conjunta 1 de 2020 del Banco Central y la Consejo Monetario Nacional de Brasil. 
+15 Artículo 25 de la Ley 21521 de 2022 y sección III.E.2 de la Norma de Carácter General 514 de 2024 de la Comisión 
+para el Mercado Financiero de Chile. 
+   
+ 
+13 
+ 
+ 
+  
+Sin perjuicio de lo anterior, diversos organismos multilaterales recomiendan que la regulación no 
+desconozca lo costos asociados al desarrollo de infraestructuras tecnológicas que deben asumir 
+las entidades financieras para participar en un esquema de fina nzas abiertas (CGAP , 2024). Esta 
+recomendación toma relevancia en un mercado  financiero como el de Colombia, en el que el 
+grado de apificación de las entidades para interactuar con actores externos es relativamente bajo. 
+No obstante, la aplicación de esta recomendación requiere de un justo balance para que el costo 
+por acceder a la información no limite el derecho de su titular y no suponga una barrera de acceso 
+para los demás participantes. 
+  
+Considerando lo anterior , y en virtud de las facultades establecidas en el segundo inciso del 
+artículo 89 de la Ley 2294 de 2023 y el inciso primero del artículo 62 de la Ley 1430 de 2010 , el 
+Proyecto de Decreto establece que los Proveedores de Datos podrán cobrar tarifas de acceso 
+orientadas a remunerar únicamente el costo incurrido para habilitar el intercambio de datos 
+personales en el sistema de finanzas abiertas. Las tarifas de acceso deberán fijarse con base en 
+factores objetivos, medibles y verificables que garanticen que estas no buscan limitar el acceso 
+de los Terceros Receptores de Datos. En todo caso, los Proveedores de datos deberán considerar 
+el volumen esperado de consultas y los ingresos percibidos por este concepto en periodos 
+anteriores para la fijación de tarifas de acceso. 
+  
+El criterio de volumen esperado de consultas tiene como objetivo que los Proveedores de Datos 
+reconozcan las economías de escala asociadas al suministro de información y se definan tarifas 
+más bajas en los proveedores con un mayor número de clientes. Por su parte, la consideración de 
+ingresos previos se deriva reconocer que las tarifas de acceso únicamente pueden remunerar los 
+costos de exposición y que parte de estos se irán cubriendo con el tiempo. En particular, se espera 
+que las tarifas de acceso conver jan al costo marginal de brindar acceso o suministrar la 
+información y que estos estén asociados al mantenimiento de la infraestructura que viabiliza un 
+acceso seguro y eficiente. 
+ 
+4. Principio de reciprocidad 
+  
+Los esquemas de finanzas abiertas requieren de una adecuada estructura de incentivos para 
+promover una amplia participación de los proveedores y receptores de datos en beneficio del 
+consumidor financiero. Esta participación se puede ver limitada cuando el marco normativo no 
+brinda un tratamiento equitativo entre los participantes o no garantiza condiciones mínimas para 
+el desarrollo de un mercado competitivo. Entre los factores que pueden afectar la libre 
+competencia, se encuentra la participación de actores que buscan beneficiarse del consumo de 
+   
+ 
+14 
+ 
+ 
+información, pero no contribuir al esquema de finanzas abiertas mediante la exposición de datos 
+para el consumo autorizado de terceros. 
+  
+La ausencia de reciprocidad entre el consumo y la exposición de información genera una 
+dinámica anti-competitiva que limita el derecho de los consumidores para suministrar acceso a 
+su información personal. Ante este desbalance, las entidades financieras pu eden percibir su 
+participación en calidad de proveedores de datos como un riesgo relativamente mayor a su 
+potencial beneficio (OECD, 2023). Consecuentemente, entre menor sea el número de 
+proveedores de datos, menor será la capacidad del consumidor financie ro para autorizar el 
+acceso a su información personal.  
+  
+Ante este escenario, jurisdicciones como Brasil y Australia han incorporado en su marco 
+normativo el principio de reciprocidad, que exige a todos los  terceros receptores de datos 
+participar también en calidad de proveedores de información 16,17. Este principio, además de 
+garantizar igualdad de condiciones, aumenta el número de proveedores de datos, incrementa el 
+volumen de información en circulación y expande el número de consumidores que se benefician 
+del esquema de finanzas abiertas. Lo anterior genera un círculo virtuoso para la consolidación del 
+sistema y un escenario propicio para la innovación y la competencia en beneficio del consumidor 
+financiero. 
+  
+No obstante lo anterior, el principio de reciprocidad tiene un alcance limitado dado que cada 
+proveedor de datos cuenta con diferentes tipos y volúmenes de información; y en todo caso su 
+intercambio requiere autorización previa del titular. Asimismo, exist en terceros receptores de 
+datos de base tecnológica, como aquellos que ofrecen servicios de agregación de cuentas, 
+gestión de finanzas personales o comparación de productos, que no necesariamente cuentan con 
+información personal de los consumidores financieros que puedan compartir con terceros. Ante 
+esta realidad, jurisdicciones como Australia han aclarado en su marco normativo que la 
+obligación de actuar en calidad de proveedor de datos, en virtud del principio de reciprocidad, 
+está sujeta a que el tercero receptor de datos cuente con información que haga parte del alcance 
+del esquema de datos abiertos18.  
+  
+Considerando lo anterior, el Proyecto de Decreto propone incorporar el principio de reciprocidad 
+al marco normativo, de tal manera que todo tercero receptor de datos que cuente con información 
+comprendida en el alcance del sistema de finanzas abiertas deberá participar también en calidad 
+de proveedor de datos. Lo anterior, siempre y cuando exista un estándar con la información 
+específica que se deberá exponer por cada categoría de información. 
+ 
+16 Artículo 4 de la Resolución Conjunta 1 de 2020 del Banco Central y la Consejo Monetario Nacional de Brasil. 
+17 Artículo 4.7A de la “Competition and Consumer (Consumer Data Right) Rules 2020” de Australia. 
+18 Ibidem. 
+   
+ 
+15 
+ 
+ 
+  
+Bajo un esquema de carácter obligatorio, el principio de reciprocidad únicamente resulta 
+aplicable en dos escenarios. El primero corresponde al periodo que transcurre entre que se expide 
+un estándar de información y el plazo máximo que las entidades obligadas tienen para adoptarlo. 
+Pasado este plazo, las entidades financieras deberán exponer la información estandarizada en 
+virtud del mandato de obligatoriedad y no necesariamente por el principio de reciprocidad.  
+  
+El segundo escenario comprende la participación de terceros receptores de datos que no se 
+encuentran dentro del alcance de la obligatoriedad del esquema de finanzas abiertas, pero que 
+cuentan con información relacionada que haya sido objeto de estandarización. Este es el caso, 
+por ejemplo, de los agentes colocadores de crédito co n recursos propios o las entidades de la 
+economía solidaria que ejercen actividad financiera o aseguradora sin estar sujetos a la 
+inspección, control y vigilancia de la SFC. La part icipación de estas entidades como terceros 
+receptores de datos en el esquema de finanzas abiertas requerirá que, además de dar 
+cumplimiento a los requisitos técnicos en materia de seguridad, tecnología y tratamiento de datos 
+personales, participen en calidad de proveedores de datos y brinden acceso autorizado a la 
+información que haya sido objeto de estandarización.   
+ 
+5. Gobernanza 
+ 
+Los esquemas de gobernanza son instancias de coordinación público-privadas que tienen como 
+objetivo definir, mantener y actualizar estándares comunes para el adecuado funcionamiento de 
+los sistemas de banca, finanzas o datos abiertos. Los estándares aborda n elementos técnicos, 
+tecnológicos, funcionales y operacionales que por su especificidad y dinamismo se incorporan al 
+marco normativo a través de instrumentos de regulación secundaria (ver gráfica 1). Asimismo, su 
+diseño se caracteriza por una participació n amplia y activa de los diferentes grupos de interés a 
+través de instancias de construcción, discusión y aprobación. 
+ 
+Gráfico 1. Alcance de los esquemas de gobernanza. 
+   
+ 
+16 
+ 
+ 
+ 
+Fuente: Banco Mundial 
+ 
+Los esquemas de gobernanza varían dependiendo de quién lidera el proceso de estandarización. 
+La experiencia internacional evidencia que este liderazgo puede ser ejercido por el sector público, 
+por un esquema de coordinación público -privado o por el sector privado. En todo caso, el 
+responsable de la gobernanza debe contar con recursos adecuados y suficientes para el 
+desarrollo de su labor (SFC, 2023). 
+ 
+Jurisdicciones como la de Australia han definido un esquema de gobernanza liderado por el sector 
+público, en el que una agencia gubernamental (Data Standards Body) diseña una propuesta y la 
+somete a consulta pública. En esta etapa de discusión participa la  autoridad australiana de 
+competencia19, el regulador de la privacidad de la información 20, un comité asesor para la 
+estandarización de los datos21 y cualquier otro actor interesado en remitir sus comentarios22. Una 
+vez ajustada, la propuesta de estandarización es sometida a aprobación de una autoridad pública 
+(Data Standards Chair) y posteriormente es publicada para conocimiento y aplicación de los 
+participantes del esquema de datos abiertos. 
+ 
+Por otra parte, jurisdicciones como la de Brasil han optado por delegar parcialmente  en la 
+industria el desarrollo de los estándares técnicos. En particular, el Banco Central de Brasil (BCB) 
+definió una estructura de gobernanza independiente23, financiada por las entidades participantes 
+ 
+19 Australian Competition and Consumer Commission. 
+20 Office of the Australian Information Commissioner. 
+21 Instancia actualmente conformada por 19 representantes de los consumidores y diferentes actores de la industria, 
+los cuales son designados por el Data Standards Chair. 
+22 Competition and Consumer (Consumer Data Right) Rules 2020: Part 8, Division 8.3, Article 8.9.  
+23 https://openfinancebrasil.org.br/governanca/ 
+
+   
+ 
+17 
+ 
+ 
+y basada en tres niveles de operación 24: La primera corresponde a un consejo deliberativo que 
+está encargado de aprobar las propuestas de estandarización. La segunda corresponde a una 
+secretaría técnica que coordina la gestión de los grupos de trabajo y las sesiones del consejo 
+deliberativo. La tercera corresponde a grupos de trabajo, conformados por expertos de diferentes 
+entidades participantes, que están encargados de desarrollar los estándares técnicos que serán 
+sometidos a aprobación del consejo deliberativo.  
+ 
+Los estándares aprobados por el consejo deliberativo son posteriormente sometidos a 
+consideración del BCB, quien decide si los incorpora, en todo o en parte, en el marco normativo25. 
+En este sentido, el enfoque adoptado en Brasil conlleva a la construcción de una posición única 
+del mercado que posteriormente se somete a aprobación del regulador (Zetta, 2024). Los 
+funcionarios del BCB participan adicionalmente en los grupos de trabajo  y en el consejo 
+deliberativo, con el objetivo de garantizar de manera previa que las decisiones adoptadas estén 
+en línea con los objetivos y principios definidos en la regulación.  
+ 
+Finalmente, Jurisdicciones como la del Reino Unido optaron por exigir que los 9 bancos más 
+grandes financiaran la constitución de una entidad independiente que, en representación de la 
+Autoridad de Competencia, definiera, implementara y mantuviera estándar es comunes para el 
+adecuado funcionamiento del esquema de banca abierta26. La entidad de implementación contó 
+con el apoyo de cinco grupos asesores representantes de la industria Fintech, proveedores de 
+servicios de pago, terceros receptores de datos, bancos competidores y de otros actores 
+relacionados con la implementación de la segunda directiva europea de servicios de pago (PSD2). 
+La aprobación de los estándares es atribución de un consejo directivo conformado por 
+representantes de cada una de las 9 entidades obligadas, los 5 grupos asesores y 2 
+representantes de los consumidores. En este consejo, participan además 4 representantes de las 
+autoridades del sector público en calidad de observadores. 
+ 
+En Colombia, el Decreto 1297 de 2022 definió un esquema de gobernanza liderado por el sector 
+público bajo la concepción de un modelo voluntario. La SFC fue la entidad encargada de definir 
+los estándares tecnológicos, de seguridad y demás aspectos necesarios para el desarrollo de la 
+arquitectura financiera abierta en Colombia 27. Para el cumplimiento de esta labor, la SFC fue 
+facultada para crear una instancia con la participación del sector privado y otras autoridades del 
+sector público. 
+ 
+ 
+24 Artículo 2 y 15 del Reglamento Anexo a la Circular 4032 de 2020 del BCB, posteriormente modificados por la 
+Resolución 400 de 2024 del BCB. 
+25 Artículo 3 de la Circular 4032 de 2020 del BCB  
+26 Artículo 10.1 de la Retail Banking Market Investigation Order 2017. 
+27 Artículo 2.35.10.1.1del Decreto 2555 de 2010. 
+   
+ 
+18 
+ 
+ 
+Con base en esta disposición, la SFC expidió la Circular Externa 004 de 2024 con un primer grupo 
+de estándares para garantizar el adecuado funcionamiento del esquema de finanzas abiertas. En 
+particular, la SFC estableció estándares de arquitectura, seguridad, mensajería y tecnología para 
+la implementación de protocolos de intercambio automático de información (API); asimismo, 
+definió los requisitos que deben cumplir los Terceros Receptores de Datos para participar en el 
+ecosistema y estableció lineamientos asociados al tratamiento de datos personales. La industria 
+participo en la construcción de los estándares a través de 4 rondas de publicación a comentarios, 
+en las que la SFC recibió más de 1.000 comentarios del público. 
+ 
+Si bien la expedición de la Circular Externa 004 de 2024 representó un hito en la estandarización 
+de la arquitectura financiera abierta en Colombia, aún existen aspectos adicionales que requieren 
+surtir un proceso de estandarización. Por una parte, resulta necesario estandarizar los flujos y la  
+arquitectura de las API de lectura y escritura requeridas para garantizar interoperabilidad en el 
+servicio de iniciación de pagos. Por otra parte, resulta fundamental estandarizar los datos y 
+arquitectura de  las API que deberán exponer los proveedores de datos para cada una de las 
+categorías y subcategorías de información incluidas en el alcance del sistema de finanzas 
+abiertas. 
+ 
+Frente al primer objetivo, el 26 de octubre de 2024 , el Banco de la República anunció que la 
+iniciación de pagos hace parte de su agenda de escalabilidad del esquema interoperable de 
+órdenes de pago y transferencias de fondos inmediatas “Bre-B” . El Comité de Interoperabilidad de 
+los Pagos Inmediatos (CIPI) servirá como foro para adelantar las discusiones técnicas y 
+normativas asociadas a la estandarización del servicio de iniciación de pagos, en lo necesario 
+para asegurar su adecuada interoperabilidad e imp lementación. Considerando lo anterior, el 
+Proyecto de Decreto no aborda la estandarización del servicio de iniciación de pagos que será 
+adelantada por el Banco de la República.  
+ 
+Frente al segundo objetivo, el Proyecto de Decreto propone la creación de grupos de trabajo y una 
+secretaría técnica que facilite una coordinación público -privada para la posterior expedición de 
+los estándares por parte de la SFC. En este sentido, la inici ativa busca que sea la industria, y no 
+necesariamente el supervisor, la que a través un trabajo colaborativo identifique los datos que 
+requiere de cada categoría de información para desarrollar los casos de uso que permitirán 
+promover la inclusión financiera en el país. 
+ 
+La secretaria técnica, que será ejercida por la SFC, definirá los grupos de trabajo y su cronograma 
+de actividades. No obstante, considerando los objetivos de política pública definidos en el artículo 
+89 de la ley 2294 de 2023 , el Proyecto de Decreto requiere priorizar la creación de los grupos de 
+trabajo que definirán las especificaciones técnicas para estandarizar la exposición de datos 
+asociados al uso de productos de depósitos a la vista.  
+ 
+   
+ 
+19 
+ 
+ 
+Cada grupo de trabajo será responsable de plantear una propuesta para estandarizar la 
+información que deberán exponer los Proveedores de Datos y estructurar técnicamente los 
+respectivos protocolos para el intercambio automático de información vía API. En este sentido, 
+los grupos de trabajo deberán proponer un diccionario de datos 28, un archivo swagger 29, un 
+diagrama UML 30 y un manual del desarrollador 31 para cada categoría o subcategoría de 
+información comprendida en el alcance del sistema de finanzas abiertas.  
+ 
+Los grupos de trabajo estarán conformados por funcionarios técnicos de los diferentes 
+participantes del sistema de finanzas abiertas. Esto permitirá adelantar un trabajo colaborativo, 
+que reconozca el grado de madurez tecnológico de los diferentes participantes y permita 
+identificar la información requerida para promover la inclusión financiera, la innovación y la 
+competencia en el país. En este sentido, los grupos de trabajo estarán conformados, previa 
+solicitud de vinculación a la secretaría técnica, por expertos representantes de los: i) proveedores 
+de datos, ii) iniciadores de pago, iii) Terceros de Confianza, iv) proveedores de servicio de acceso; 
+y v) de cualquier otro actor público o privado cuya participación sea considerada pertinente por 
+parte de la secretaría técnica. 
+ 
+ 
+28 Los diccionarios de datos son documentos que describen de manera detallada los datos que maneja una API. En 
+este sentido, facilita la comprensión de los recursos, los campos incorporados y las relaciones entre ellos. Los 
+diccionarios de datos típicamente incluyen los siguientes componentes: i) nombre del campo; ii) tipo de dato; iii) 
+descripción; iv) obligatoriedad; v) valores permitidos, vi) longitud o formato; vii) ejemplo; y viii) relaciones con otros 
+recursos de la API. 
+29 El documento Swagger especifica la lista de recursos que están disponibles en la API REST y las operaciones que 
+se pueden llamar en esos recursos. El documento  Swagger también especifica la lista de parámetros de una 
+operación, incluido el nombre y el tipo  de los parámetros, si los parámetros son necesarios o opcionales, e 
+información sobre los valores aceptables para dichos parámetros. Además, el documento  Swagger puede incluir el 
+esquema JSON que describe la estructura del cuerpo de solicitud que se envía a una operación en una API REST, y el 
+esquema JSON describe la estructura de los cuerpos de respuesta que se devuelven de una operación.  Mayor 
+información en https://www.ibm.com/docs/es/integration-bus/10.0?topic=apis-swagger. 
+30 Un diagrama UML es una forma de visualizar sistemas y software utilizando el Lenguaje Unificado de Modelado 
+(UML). Los ingenieros de software crean diagramas UML online  para comprender los diseños, la arquitectura del 
+código y la implementación propuesta de sistemas de software complejos. Los diagramas UML también se utilizan 
+para modelar flujos de trabajo y procesos empresariales. Mayor información en: https://miro.com/es/diagrama/que-
+es-diagrama-uml/.  
+31 El manual del desarrollador es un documento que proporciona instrucciones detalladas sobre cómo utilizar e 
+integrar la API en aplicaciones o servicios. Está diseñado para facilitar el trabajo de los desarrolladores que desean 
+consumir la API, proporcionando toda la información para realizar peticiones exitosas y manejar las respuestas. Por 
+lo general, los manuales del desarrollador contienen: i) introducción a la API (descripción y casos de uso), ii) 
+información de acceso, iii) formato de peticiones y respuestas, iv) endpoints disponibles, v) parámetros de consulta 
+y cuerpo de peticiones, vi) códigos de respuesta, vii) ejemplos de uso, viii) manejo de errores, ix) buenas prácticas y 
+recomendaciones; x) versión de la API; y xi) recursos adicionales. 
+   
+ 
+20 
+ 
+ 
+En línea con la experiencia internacional, especialmente la del Reino Unido 32, el Proyecto de 
+Decreto requiere que las entidades financieras que participen en los grupos de trabajo brinden su 
+mejor esfuerzo para consolidar una propuesta de estandarización en los cronogramas que sean 
+definidos por la secretaría técnica. En el evento en que los grupos de trabajo no logren llegar a un 
+acuerdo, será facultad de la SFC definir y expedir los estándares requeridos. 
+ 
+Asimismo, en línea con la experiencia internacional, el Proyecto de Decreto propone un proceso 
+de estandarización por etapas que garantice una implementación técnica, segura y ordenada. En 
+particular, se establece que la SFC deberá expedir los estándares para la exposición de datos 
+asociados al uso de productos de depósito a la vista en un plazo máximo de 9 meses posteriores 
+a la expedición del Proyecto de Decreto. Por su parte, los proveedores de datos, que por virtud de 
+la naturaleza de sus operaciones autorizadas les resulte aplicable, deberán acoger el estándar en 
+un plazo máximo de 6 o 1 2 meses, dependiendo de si son un establecimiento bancario o no, 
+contados a partir de su expedición. 
+ 
+Culminado el proceso anterior, la secretaría técnica definirá un cronograma y conformará los 
+grupos de trabajo necesarios para estandarizar la exposición de los datos asociados con las 
+demás categorías de información definidas en el alcance de la obligatoriedad  del sistema de 
+finanzas abiertas. 
+ 
+Finalmente, es preciso mencionar que los esquemas de gobernanza se complementan con 
+espacios controlados de prueba que fomentan la estandarización y el desarrollo de nuevos casos 
+de uso. En jurisdicciones como el Reino Unido, estos ambientes son dispuestos por la entidad de 
+implementación para comprobar la f uncionalidad de las API expuestas por los participantes, así 
+como para validar la correcta vinculación de los participantes con el directorio 33. En el Reino de 
+Arabia Saudita, este espacio es provisto por el Banco Central y tiene como finalidad permitir que 
+los bancos y las fintechs prueben nuevos desarrollos basados en el acceso a la información y 
+certifiquen el cumplimiento de los requisitos normativos a partir de simulaciones con API reales 
+que exponen información sintética34. 
+ 
+Considerando lo anterior, el Proyecto de Decreto complementa el esquema de gobernanza 
+propuesto con un espacio controlado de prueba para la estandarización del sistema de finanzas 
+abiertas. En particular, la iniciativa establece que la SFC podrá habilitar un espacio controlado de 
+pruebas para evaluar propuestas de estandarización, validar la correcta aplicación de los 
+estándares por parte de los Participantes, evaluar la pertinencia de incorporar nuevas categorías 
+ 
+32 Artículo 10.4 de la Retail Banking Investigation Order 2017.  
+33 https://www.openbanking.org.uk/glossary/directory-sandbox/ 
+34 https://openbanking.sa/index-en.html 
+   
+ 
+21 
+ 
+ 
+de información y ejecutar las demás pruebas que considere necesarias para promover el 
+adecuado desarrollo y funcionamiento del sistema de finanzas abiertas. 
+ 
+6. Directorio de participantes 
+ 
+La obligación de las entidades vigiladas por la SFC de vincular y verificar que los terceros 
+receptores de datos  cumplen con los estándares técnicos y de seguridad establecidos en la 
+Circular 004  de 2024, aunque busca garantizar la seguridad y confiabilidad del sistema,  ha 
+generado cargas operativas que dificultan la participación de nuevos actores 35. La industria ha 
+manifestado la necesidad  de revisar este esquema  en reuniones con la URF porque, desde su 
+perspectiva, dichas labores exceden la naturaleza de sus operaciones . Si bien esta medida se 
+sustenta en principios legítimos de protección y debida diligencia, su implementación práctica ha 
+obstaculizado el crecimiento del sistema de finanzas abiertas que la regulación pretende 
+impulsar. 
+El modelo actual de validación individual de los terceros receptores de datos, donde cada entidad 
+vigilada realiza sus propias verificaciones, presenta limitaciones significativas para el desarrollo 
+del sistema de finanzas abiertas. La ausencia de procesos estandarizados genera duplicidad de 
+esfuerzos y criterios heterogéneos de evaluación entre las diferentes entidades vigiladas  por la 
+SFC. Esta fragmentación en las validaciones no solo dificulta la vinculación eficiente de nuevos 
+participantes al sistema,  sino que también compromete la escalabilidad necesaria para el 
+crecimiento sostenible del sistema. 
+Esta situación cobra especial relevancia ante el desarrollo del esquema obligatorio de finanzas 
+abiertas propuesto. Por ello, es necesario establecer un marco regulatorio que permita reconocer 
+e identificar el rol de cada participante en el sistema, particularmente de aquellos receptores de 
+datos que cumplan con los requisitos necesarios para acceder a la información de los 
+consumidores financieros. 
+El desarrollo seguro y ordenado del sistema de finanzas abiertas requiere un mecanismo que 
+permita verificar la identidad y el cumplimiento de los requisitos de sus participantes. En 
+consecuencia, el proyecto de decreto establece la creación y administración de un directorio a 
+cargo de la SFC que tiene como propósitos: i) publicitar las entidades que cumplen  con los 
+requisitos necesarios para participar en el sistema, ii) dar acceso a los datos de contacto de los 
+participantes, y iii) dotar de seguridad y confianza al sistema de finanzas abiertas. 
+Este directorio servirá como un sistema de consulta a través de una plataforma digital de carácter 
+público que permitirá identificar a los participantes que cumplan con los requisitos exigidos en el 
+ 
+35 Artículo 2 de la Circular Externa 004 de 2024 de la Superintendencia Financiera de Colombia. 
+   
+ 
+22 
+ 
+ 
+sistema de finanzas abiertas  y proporcionar á información actualizada y confiable sobre las 
+entidades habilitadas para participar en este sistema por cumplir con los requisitos establecidos, 
+facilitando así la consulta y verificación de los participantes en el sistema de finanzas abiertas. 
+La experiencia internacional , en países como Gran Bretaña y Chile 36, demuestra que los 
+directorios o registros centralizados son convenientes para implementar esquemas de finanzas 
+abiertas. Estos directorios actúan como mecanismos que validan la identidad y capacidades 
+técnicas de los participantes, almacenan y exponen información como certificados digitales, 
+endpoints de API y datos de contacto, permiten realizar consultas públicas para verificar 
+credenciales y facilitan el establecimiento de conexiones técnicas seguras entre participantes. 
+Los administradores de estos directorios mantienen la información actualizada y accesible, 
+garantizando así la seguridad y confianza del sistema de finanzas abiertas por lo que resulta 
+primordial combinar requisitos estrictos de registro con procesos ágile s de verificación y 
+actualización.  
+Este directorio operará como una interfaz tecnológica centralizada que brindará transparencia y 
+publicidad sobre los participantes del sistema de finanzas abiertas, permitiendo verificar tanto su 
+rol como el cumplimiento de los requisitos establecidos para  su participación . El directorio 
+contendrá la información esencial de cada participante, incluyendo su identidad y características 
+principales, siempre que cumplan con los requisitos correspondientes a su rol en el sistema. La 
+información se actualizará constantemente para reflejar cualquier cambio en la situación de los 
+participantes, quienes serán responsables de garantizar la veracidad y exactitud de los datos 
+proporcionados. 
+Adicionalmente, el directorio proporcionará la documentación técnica necesaria para acceder a 
+la información almacenada por los proveedores de datos, detallando los puntos de conexión y 
+cumpliendo con los protocolos de seguridad y requisitos tecnológicos establecidos. También 
+mantendrá un registro histórico de las fechas de incorporación, modificac ión y retiro  de las 
+entidades participantes. 
+• Deberes del administrador del directorio de participantes 
+Por otro lado, la Superintendencia Financiera de Colombia  velará por el cumplimiento de estos 
+lineamientos en la implementación y administración del directorio. Frente a lo que tendrá 
+esencialmente las siguientes funciones: 
+• Mantener actualizada la información que los participantes brinden en cada uno de sus 
+módulos. Esto incluye la gestión de información sobre proveedores de datos, terceros 
+ 
+36 Norma de Carácter General 514 de 2024 de la Comisión Para el Mercado Financiero. 
+ 
+   
+ 
+23 
+ 
+ 
+receptores de datos, iniciadores de pagos, prestadores de servicios de acceso  y terceros 
+de confianza. 
+ 
+• Asegurar la disponibilidad permanente para consulta pública de la información sobre los 
+participantes incluidos en cada módulo, incluyendo datos relevantes como su rol, 
+servicios ofrecidos, puntos de contacto y mecanismos de acceso a la información . Esta 
+función es esencial para generar confianza en el sistema y facilitar la interacción entre los 
+diferentes actores. 
+ 
+• Mantener un registro histórico detallado que comprenda las fechas de inclusión inicial de 
+los participantes y los retiros procesados. Esta trazabilidad es fundamental para para 
+garantizar la integridad, transparencia y seguridad del sistema. 
+ 
+• Tramitar de manera eficiente las solicitudes relacionadas con la inclusión de participantes, 
+modificación de información existente  o retiro del directorio , asegurando la integridad y 
+actualidad de la información contenida en el directorio. 
+ 
+• Establecer mecanismos para publicitar en el directorio los participantes que presente n 
+situaciones que afecten su capacidad para brindar acceso o acceder a la información , 
+entre otros aspectos que pueda limitar el adecuado funcionamiento normal del sistema. 
+ 
+• Verificación de requisitos 
+La verificación de requisitos y registro en el directorio se estructurará según la naturaleza de los 
+participantes. Para las entidades vigiladas por la SFC, esta entidad será la encargada de verificar 
+el cumplimiento de los requisitos, mientras que los participantes podrán gestionar directamente 
+ante el directorio su inscripción, modificaciones y retiro. 
+En el caso de los participantes no vigilados por la SFC, tanto la verificación de requisitos como las 
+gestiones ante el directorio serán realizadas a través de Terceros de Confianza. Esta estructura 
+dual permite mantener un control efectivo sobre los requisitos de participación, respetando el 
+ámbito natural de  supervisión de la SFC, a la vez que establece un mecanismo alternativo y 
+confiable de verificación para aquellas entidades que no están bajo su supervisión. 
+• Estructura del directorio 
+El directorio del sistema de finanzas abiertas se organizará en tres módulos que permitirán 
+identificar y clasificar a los diferentes participantes, verificar el cumplimiento de sus requisitos y 
+facilitar su interacción dentro del sistema. 
+ 
+   
+ 
+24 
+ 
+ 
+El módulo de proveedores de datos constituye el primer componente del directorio y contendrá la 
+información necesaria para identificar la ubicación del protocolo automático de intercambio de 
+información. Este módulo resulta fundamental pues permite la operación técnica del sistema de 
+intercambio de datos. 
+ 
+El segundo componente corresponde al Módulo de Receptores de Datos, que agrupa a las 
+entidades autorizadas para acceder y utilizar la información custodiada por los proveedores de 
+datos. Este módulo integra tres tipos de participantes: los Terceros Receptores de Datos, los 
+Prestadores de Servicios de Acceso y los Iniciadores de Pagos. La participación de estas 
+entidades está condicionada al cumplimiento de requisitos específicos que gara ntizan el uso 
+adecuado de la información dentro del sistema de finanzas abiertas. 
+ 
+Finalmente, el módulo de terceros de confianza incorpora a las entidades que desarrollan esta 
+operación especializada, incluyendo su información de identificación y contacto. El administrador 
+del directorio tiene la responsabilidad de verificar que estas entidades cumplan con los requisitos 
+establecidos antes de su inclusión en este módulo, dada la importancia de su rol en el sistema. 
+ 
+• Deberes de los participantes frente al directorio 
+ 
+Igualmente, el sistema de finanzas abiertas requiere que los participantes cumplan con ciertas 
+obligaciones fundamentales frente al directorio que son necesarias para garantizar su correcto 
+funcionamiento. Estas obligaciones se han estructurado considerando la naturaleza de los 
+participantes y las necesidades operativas del sistema. 
+ 
+El primer deber se refiere a la inscripción y mantenimiento de información en el directorio  por 
+parte de los participantes. Esto responde a la necesidad de mantener un directorio centralizado y 
+confiable que permita la adecuada identificación y control de todos los participantes del sistema. 
+ 
+El segundo deber establece una obligación de reporte de incidentes que puedan afectar el 
+funcionamiento del sistema. Esta obligación es crucial para mantener la estabilidad y 
+confiabilidad del sistema de finanzas abiertas, permitiendo una respuesta oportuna ante eventos 
+que puedan comprometer su operación. La norma reconoce que los incidentes pueden afectar 
+tanto el acceso como el suministro de información, cubriendo así los diferentes roles que pueden 
+tener los participantes. 
+ 
+Finalmente, el tercer deber requiere la designación de un contacto operativo, lo cual facilita la 
+comunicación efectiva entre participantes para resolver problemas relacionados con el 
+intercambio de información. Esta disposición reconoce la naturaleza técn ica y operativa del 
+   
+ 
+25 
+ 
+ 
+sistema de finanzas abiertas y la necesidad de contar con canales de comunicación claros y 
+eficientes entre los participantes. 
+ 
+Estas obligaciones, en conjunto, crean un marco de responsabilidades que promueve la 
+transparencia, la coordinación y la estabilidad del sistema; los cuales son elementos esenciales 
+para el éxito del sistema de finanzas abiertas. 
+ 
+7. Terceros de Confianza 
+ 
+La participación en el sistema de finanzas abiertas requiere verificar que los participantes 
+cumplan requisitos técnicos, de seguridad y demás establecidos para ello. Esta verificación es 
+fundamental para garantizar la integridad del sistema y generar confianza entre los participantes 
+y usuarios. 
+Como se indicó en el apartado anterior, la SFC establece en la Circular Externa 004 de 2024  que 
+cada entidad vigilada debe vincular y verificar individualmente los requisitos técnicos y de 
+seguridad de los terceros receptores de datos que soliciten acceso a los datos que custodian . 
+Para hacer más eficiente este proceso, se propone un mecanismo en el que el directorio pueda 
+apoyarse en terceros especializados que realicen esta validación técnica  para entidades no 
+vigiladas por la SFC, evitando así la duplicidad de esfuerzos. 
+La experiencia internacional demuestra que la verificación de requisitos para participar en 
+sistemas de finanzas abiertas puede realizarse efectivamente a través de entidades 
+especializadas. Países como Chile 37, Brasil 38 y Australia 39 han implementado modelos donde 
+terceros independientes, con experiencia comprobada en auditoría de sistemas, seguridad 
+informática y estándares tecnológicos, asumen esta función verificadora. 
+Esta aproximación presenta múltiples ventajas para el sistema. Por un lado, promueve la 
+competencia entre verificadores especializados, lo que tiende a mejorar la calidad del servicio y 
+optimizar costos. Por otro lado, permite aprovechar el conocimiento específico de entidades que 
+se dedican exclusivamente a evaluar aspectos técnicos y de seguridad, facilitando una 
+verificación más rigurosa y actualizada frente a las mejores prácticas internacionales. 
+Específicamente, en el caso de  Chile40, la regulación expresamente faculta a terceros 
+certificadores para verificar los mecanismos de acceso  y la correcta implementación de los 
+ 
+37 Resolución Exenta 514 del 3 de julio de 2024 de la Comisión Para el Mercado Financiero. 
+38 Sección IV del “Joint Resolution No. 1 of May 4th, 2020” del Banco Central de Brasil. 
+39 Parte 5. del “Competition and Consumer (Consumer Data Right) Rules 2020” 
+40 Resolución Exenta 6004 del 2 de julio de 2024 de la Comisión Para el Mercado Financiero. 
+ 
+   
+ 
+26 
+ 
+ 
+esquemas de seguridad exigidos. Lo anterior como requisito para ser incluidos en el registro y 
+participar en el Sistema de Finanzas Abiertas de Chile. 
+Sin embargo, la participación de estos terceros verificadores debe estar sujeta a un marco de 
+control robusto. Es fundamental que cumplan con criterios objetivos de idoneidad, definidos y 
+supervisados por el administrador del directorio. Esta supervisión busca garantizar que su 
+actuación sea consistente con los objetivos del sistema de finanzas abiertas y mantenga altos 
+estándares de calidad. 
+Con el fin de  garantizar la idoneidad y eficiencia en la verificación de los requisitos establecidos 
+para participar en el sistema de finanzas abiertas , el proyecto de decreto que acompaña este 
+documento propone la creación de la actividad de «Tercero de Confianza »41. Los terceros de 
+confianza cumplirán dos funciones esenciales en el sistema : en primer lugar, verificarán que los 
+participantes no vigilados cumplan con los requisitos establecidos para operar en el sistema de 
+finanzas abiertas. En segundo lugar, actuarán como intermediarios ante el directorio de 
+participantes, gestionando la inclusión, modificación o retiro de estos participantes no vigilados 
+por la SFC. 
+Adicionalmente, los terceros de confianza podrán mantener réplicas sincronizadas del directorio 
+administrado por la SFC. Este modelo híbrido permite aprovechar las ventajas de un directorio 
+centralizado que facilita la transparencia del sistema, al tiempo que habilita copias locales que 
+optimizan la velocidad de consultas y validaciones en el sistema por parte de los participantes. 
+El proyecto de decreto establece que las Entidades Administradoras de Sistemas de Pago de Bajo 
+Valor (EASPBV)42 son las únicas entidades autorizadas para desarrollar la actividad de Tercero de 
+Confianza, previa su inscripción en el módulo correspondiente del Directorio. Esta designación 
+exclusiva se fundamenta en las características únicas que poseen estas entidades como 
+ 
+41 Fundamentado en el literal a) del numeral 1 del artículo 48 del Estatuto Orgánico del Sistema Financiero, que faculta 
+al Gobierno nacional para autorizar nuevas operaciones a las entidades objeto de intervención:  
+ 
+“Facultades del Gobierno Nacional. En desarrollo de lo previsto en el artículo 46 del presente Estatuto, el Gobierno 
+Nacional tendrá las siguientes funciones de intervención en relación con las entidades financieras y aseguradoras 
+sujetas al control y vigi lancia de la Superintendencia Bancaria y, en general, respecto de las entidades cuyas 
+actividades consistan en el manejo, aprovechamiento y la inversión de recursos captados del público: 
+ 
+a. Autorizar las operaciones que puedan realizar las entidades objeto de intervención en desarrollo de su objeto 
+principal permitido en la ley. En desarrollo de las facultades consagradas en este literal no podrán reducirse los tipos 
+de operaciones actualm ente autorizadas por las normas vigentes a las entidades objeto de intervención, ni 
+autorizarse operaciones que correspondan al objeto principal de entidades especializadas. Además, las facultades 
+aquí consagradas se ejercerán, previa información a la Junt a Directiva del Banco de la República, a fin de que este 
+organismo pueda pronunciarse sobre su incidencia en las políticas a su cargo. ” 
+ 
+42 De las que trata el Título 2 del Libro 17 de la Parte 2 del Decreto 2555 de 2010. 
+   
+ 
+27 
+ 
+ 
+proveedores de infraestructura y su idoneidad para desempeñar este rol crítico dentro del sistema 
+de finanzas abiertas. 
+ 
+Las EASPBV han demostrado históricamente su capacidad para desarrollar y mantener 
+infraestructuras tecnológicas complejas para el sistema financiero. Esta experiencia les ha 
+permitido acumular no solo el conocimiento técnico necesario, sino también una com prensión 
+profunda de los requerimientos de seguridad y eficiencia que demanda el sector financiero. 
+ 
+Un factor determinante para esta designación es que las EASPBV ya se encuentran bajo la 
+supervisión de la SFC. Esta circunstancia facilita la inspección, vigilancia y control de la actividad 
+de Tercero de Confianza, asegurando que se mantengan los estándares necesarios para la 
+operación segura del sistema. Adicionalmente, estas entidades han demostrado su compromiso 
+con el desarrollo del sistema de finanzas abiertas al implementar proactivamente servicios de 
+infraestructura tecnológica que incluyen la verificación de requisitos técnicos y de seguridad para 
+terceros receptores de datos. 
+ 
+Los Terceros de Confianza, además de sus funciones esenciales, deben cumplir con un conjunto 
+de obligaciones específicas que garantizan la integridad y efectividad del sistema. Un elemento 
+fundamental es la validación semestral del cumplimiento de requisitos por parte de los 
+participantes no vigilados, asegurando que mantienen las condiciones necesarias para operar en 
+el sistema de finanzas abiertas. 
+ 
+Como parte de su rol de monitoreo, estos actores tienen la obligación de notificar oportunamente 
+al administrador del directorio sobre cualquier situación que pueda afectar el funcionamiento del 
+sistema. Esto incluye casos donde un participante no vigilado  deje de cumplir con los requisitos 
+establecidos, presente incidentes que impidan el acceso a la información bajo su custodia, o 
+enfrente situaciones que comprometan la operación normal del sistema. 
+ 
+Para garantizar la transparencia y trazabilidad de su gestión, los Terceros de Confianza deben 
+mantener un archivo detallado de los soportes que evidencien el cumplimiento de requisitos por 
+parte de los participantes no vigilados. Esta documentación result a fundamental para los 
+procesos de verificación y auditoría del sistema. 
+ 
+En el ejercicio de sus funciones, los Terceros de Confianza  deben mantener una actuación 
+objetiva e imparcial, evitando cualquier práctica que pueda restringir o limitar injustificadamente 
+el acceso o permanencia de los participantes no vigilados en el sistema. Cuando identifiquen 
+incumplimientos, tienen la obliga ción de comunicar claramente al participante las razones 
+específicas por las cuales no satisface los requisitos para participar en el sistema de finanzas 
+abiertas. 
+ 
+   
+ 
+28 
+ 
+ 
+La SFC mantiene la facultad de ampliar o complementar estas funciones según evolucionen las 
+necesidades del ecosistema, asegurando que el rol de los Terceros de Confianza se adapte 
+efectivamente a los requerimientos del sistema 
+ 
+Por otro lado, las EASPBV han desarrollado un conjunto de capacidades técnicas y operativas que 
+trascienden la mera verificación de requisitos de los participantes, permitiéndoles aportar 
+significativamente a la eficiencia del Sistema de Finanzas Abiertas . La experiencia de estas 
+entidades en el desarrollo de soluciones de negocio se ha materializado en servicios de 
+infraestructura, tecnología, asesoría y soporte que impulsan activamente la implementación del 
+sistema de finanzas abiertas.  
+ 
+En reconocimiento de esta capacidad, el proyecto de Decreto introduce el concepto de "Servicios 
+Conexos" , que podrán ser prestados por los Terceros de Confianza. Estos servicios incluyen un 
+amplio espectro de actividades: desde la provisión de servicios de acceso y autenticación de 
+participantes, hasta la facilitación de infraestructura mediante API hubs, el diseño y desarrollo de 
+API, y el soporte técnico integral. Adicionalmente, pueden facilitar procesos tarifación o neteo de 
+tarifas de acceso por el uso de API, así como el acompañamiento en procesos de integración tanto 
+para terceros receptores como para proveedores de datos. 
+ 
+Para asegurar que estos servicios conexos se presten de manera transparente y competitiva, la 
+propuesta normativa establece tres principios fundamentales: primero, la desagregación de 
+servicios, que exige que cada servicio se ofrezca de manera independiente con tarifas individuales 
+claramente establecidas; segundo, la prohibición de condicionamiento, que imp ide vincular la 
+prestación de un servicio a la contratación de otros; y tercero, la garantía de libre competencia, 
+que asegura que los clientes puedan c ontratar servicios con diferentes proveedores sin 
+restricciones. 
+ 
+Este marco normativo reconoce el rol de las EASPBV como proveedores de infraestructura, 
+mientras establece salvaguardas para promover un sistema competitivo y eficiente. La SFC 
+mantiene la facultad de complementar o adicionar los requisitos para el desarrollo de estos 
+servicios conexos, asegurando su evolución ordenada y segura. 
+ 
+8. Seguimiento al sistema de finanzas abiertas 
+ 
+El seguimiento a la implementación de políticas públicas, como las establecidas en el artículo 89 
+de la Ley 2294 de 2023 , es crucial para evaluar la efectividad de sus disposiciones y realizar los 
+ajustes necesarios para alcanzar los objetivos previstos por la intervención. Frente al sistema de 
+   
+ 
+29 
+ 
+ 
+finanzas abi ertas, este enfoque de seguimiento y montero resulta esencial para evaluar su 
+impacto en los objetivos de inclusión, innovación y competencia en el sistema financiero. 
+Este seguimiento se materializa  en la recopilación periódica de datos y la construcción de 
+indicadores específicos. Estos indicadores proporcionan a los responsables de las políticas 
+públicas y a las partes interesadas información clave sobre los avances y logros de la iniciativa, 
+facilitando así la planificación y la toma de decisiones informadas. 
+El Decreto 1297 de 2022, incorporado en el Decreto 2555 de 2010, estableció la obligación de las 
+entidades vigiladas de informar a la SFC sobre los avances en la implementación de la 
+arquitectura financiera abierta. Esta obligación debe cumplirse utilizando los formatos y 
+mecanismos definidos por la SFC. El proyecto de decreto que acompaña este documento técnico 
+mantiene esta obligación de reporte y asigna a la SFC el deber de definir, calcular y publicar 
+indicadores que permitan monitorear la implementació n y el desarrollo del sistema de finanzas 
+abiertas;  
+Será la SFC quien defina indicadores, tales como , el número de participantes, el número de 
+personas que han otorgado su consentimiento, el número de consultas realizadas por cada 
+Tercero Receptor de Datos, el número de solicitudes de acceso recibidas por cada Proveedor de 
+Datos, la disponibilidad de los protocolos de intercambio automático de información, el número 
+de órdenes de pago y transferencias de fondos generadas a través de un iniciador de pagos , el 
+número de servicios financieros habilitados mediante el acceso de información comprendida en 
+el marco del sistema de finanzas abiertas  y las tarifas de acceso que cobren los Proveedores de 
+Datos por brindar acceso y suministrar datos personales. 
+La creación y el suministro de estos indicadores tienen como propósito evaluar el impacto de la 
+implementación del sistema de finanzas abiertas y generar evidencia que sustente posibles 
+ajustes regulatorios. Estos ajustes buscan fortalecer los objetivos de  inclusión financiera y 
+crediticia, así como fomentar mayor competencia e innovación en el sistema financiero. 
+  
+   
+ 
+30 
+ 
+ 
+Bibliografía 
+ 
+Banco Mundial (2024). Enablers for an Open Data Framework for financial inclusion. Documento 
+interno de trabajo para Colombia. 
+ 
+CGAP (2024). Key considerations for Open Finance . Disponible en:  
+https://www.cgap.org/sites/default/files/publications/KP_Open%20Finance%20Report.pdf 
+Circular Externa 029 de 2019 de la Superintendencia Financiera de Colombia “Modificación de la 
+Circular Básica Jurídica en materia de requerimientos mínimos de seguridad y calidad para la 
+realización de operaciones y acceso e información al consumidor financiero y uso de factores 
+biométricos.” 
+Circular Externa 004 de 2024 de la Superintendencia Financiera de Colombia. “ Instrucciones 
+relativas a las finanzas abiertas y comercialización de tecnología e infraestructura a terceros”. 
+Circular 4032 de 2020 del Banco Central de Brasil. 
+Consumer Financial Protection Act of 2010 - Estados Unidos. 
+ 
+Competition and Consumer (Consumer Data Right) Rules 2020 - Australia. 
+Decreto 2555 de 2010 “ por el cual se recogen y reexpiden las normas en materia del sector 
+financiero, asegurador y del mercado de valores y se dictan otras disposiciones”. 
+Decreto 1297 de 2022 “Por medio del cual se modifica el Decreto 2555 de 2010 en lo relacionado 
+con la regulación de las finanzas abiertas en Colombia y se dictan otras disposiciones”. 
+Herrera, D., Pereira, W., Volochen, L., & Zárate Moreno, A. M. (2023). Las finanzas abiertas en 
+América Latina y el Caribe: grandes oportunidades, grandes desafíos . Banco Interamericano de 
+Desarrollo -BID. 
+Ley 1266 de 2008 “Por la cual se dictan las disposiciones generales del hábeas data y se regula el 
+manejo de la información contenida en bases de datos personales, en especial la financiera, 
+crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras 
+disposiciones”. 
+Ley 1430 de 2010 “ Por medio de la cual se dictan normas tributarias para el control y la 
+competitividad” 
+   
+ 
+31 
+ 
+ 
+Ley 1581 de 2012 “ Por la cual se dictan disposiciones generales para la protección de datos 
+personales”. 
+Ley 2294 de 2023. « Por la cual se expide el Plan Nacional de Desarrollo 2022 – 2026 “Colombia 
+potencia mundial de la vida” .» 
+ 
+Ley 21521 de 2022 de la República de Chile. “ promueve la competencia e inclusión financiera a 
+través de la innovación y tecnología en la prestación de servicios financieros, ley fintec”. 
+ 
+Ley para Regular Instituciones de Tecnología Financiera de 2018. Estados Unidos Méxicanos.  
+ 
+Master Direction – Non Banking Financial Company – Account Aggregator 2016 del Banco Central 
+de India. 
+ 
+Norma de Carácter General 514 de 2024 de la Comisión para el Mercado Financiero de Chile. 
+ 
+OECD (2023). “ Open Finance Policy Considerations ” . Disponible en: 
+https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/open-finance-policy-
+considerations_932ba548/19ef3608-en.pdf 
+ 
+Resolución Conjunta 1 del 4 de mayo de 2020 del Banco Central y el Consejo Monetario Nacional 
+de Brasil. 
+ 
+Retail Banking Investigation Order 2017 – Competition and Markets Authority del Reino Unido. 
+ 
+Superintendencia Financiera de Colombia (2023). Hoja de Ruta Finanzas SFC: Consolidando un 
+ecosistema financiero abierto, incluyente, seguro e innovador. 
+Zetta (2024). Open Finance: Lecciones para el futuro del Open Finance . Disponible en: 
+https://somoszetta.org.br/wp-content/uploads/2024/07/Zetta_OpenFinance_DESKTOP .pdf 
+ 

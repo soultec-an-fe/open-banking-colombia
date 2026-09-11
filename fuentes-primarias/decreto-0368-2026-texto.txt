@@ -1,0 +1,288 @@
+ 
+ Normograma COL - Decreto 368 de 2026 
+ Buscar 
+ Transparencia y acceso a la información pública 
+ Atención y servicios a la ciudadanía 
+ Participa 
+ Transparencia y acceso a la información pública 
+ Atención y servicios a la ciudadanía 
+ Participa 
+ Inicio 
+ Documento 
+ Decreto 368 de 2026
+ Anotaciones 
+ BUSCAR 
+ ÍNDICE 
+ DECRETO 0368 DE 2026 
+ (abril 7) 
+ Diario Oficial No. 53.453 de 9 de abril de 2026 
+ <Rige a partir del de 10 de abril de 2026> 
+ MINISTERIO DE HACIENDA Y CRÉDITO PÚBLICO 
+ <Consultar la vigencia de esta norma directamente en los artículos que modifica y/o adiciona> 
+ Por medio del cual se modifica el Decreto número 2555 de 2010 en lo relacionado con el Sistema de Finanzas Abiertas. 
+ EL PRESIDENTE DE LA REPÚBLICA DE COLOMBIA, 
+ en ejercicio de las facultades constitucionales y legales, en especial de las que le confieren el numeral 11 y 25 del artículo 189 de la Constitución Política, el literal e) del artículo 88 y el artículo 89 de la Ley 2294 de 2023 y el literal r) del numeral 1 del artículo 48 del Decreto número 663 de 1993, y 
+ CONSIDERANDO: 
+ Que la Ley 2294 de 2023 mediante la cual se expide el Plan Nacional de Desarrollo 2022-2026 "Colombia Potencia Mundial de la Vida" cataloga el acceso, uso y aprovechamiento de datos como un catalizador del eje de seguridad humana y justicia social que permite impulsar la transformación social. 
+ Que el literal e) del artículo 88 de la Ley 2294 de 2023 establece que el Ministerio de Hacienda y Crédito Público impulsará instrumentos y programas para promover la inclusión financiera y crediticia de la Economía Popular y de las Pyme y la innovación a través de una mayor disponibilidad de información para su caracterización y perfilamiento crediticio. 
+ Que el artículo 89 de la Ley 2294 de 2023 establece que la totalidad de las entidades públicas y privadas deberán dar acceso y suministrar toda aquella información que pueda ser empleada para facilitar el acceso a productos y servicios financieros; y ordenó al Gobierno nacional reglamentar sus disposiciones para garantizar un adecuado funcionamiento del esquema. 
+ Que de conformidad con el literal r) del numeral 1 del artículo 48 del Estatuto Orgánico del Sistema Financiero el Gobierno nacional tiene la facultad de dictar normas y establecer instrumentos que faciliten el acceso a servicios financieros y de seguros por parte de la población de menores recursos y las micro, pequeñas y medianas empresas. Que el sistema de finanzas abiertas obligatorio corresponde a un primer paso en la construcción de un esquema de datos abiertos que promueva la inclusión financiera y crediticia de la población tradicionalmente excluida mediante el acceso a nuevas fuentes de información, la entrada de nuevos competidores al sistema financiero y el desarrollo de nuevos modelos de negocio que respondan a las necesidades particulares de los consumidores financieros. 
+ Que el Decreto número 1297 de 2022, compilado en el Decreto número 2555 de 2010, estableció un esquema de finanzas abiertas de carácter voluntario que brindó seguridad jurídica sobre la facultad de las entidades vigiladas por la Superintendencia Financiera de Colombia para tratar los datos personales de sus consumidores, previa autorización expresa e informada de sus titulares, y encargó a la Superintendencia Financiera de Colombia la definición de estándares tecnológicos y de seguridad para promover el desarrollo de la arquitectura financiera abierta. 
+ Que el Decreto número 2555 de 2010 requiere ser modificado para incorporar un marco normativo que permita a las entidades vigiladas por la Superintendencia Financiera de Colombia dar cumplimiento a las disposiciones del artículo 89 de la Ley 2294 de 2023 e incluir disposiciones que fomenten el desarrollo de modelos de negocio innovadores basados en el uso de información. 
+ Que el sistema de finanzas abiertas de carácter obligatorio, incorporado por el presente decreto, atiende a los objetivos de política pública propuestos por el Gobierno nacional en materia de acceso, uso y aprovechamiento de datos para impulsar la transformación social, el empoderamiento de las personas sobre sus datos y el reconocimiento e impulso a la economía popular y comunitaria. 
+ Que el sistema de finanzas abiertas de carácter obligatorio, que desarrolla el presente decreto, se estructura sobre el respeto irrestricto de la libertad del consumidor financiero para autorizar el acceso y suministro de sus datos personales de forma previa, expresa e informada. 
+ Que el tratamiento de datos personales dentro del sistema de finanzas abiertas deberá adelantarse, en todo momento, de conformidad con lo establecido en las Leyes 1266 de 2008 y 1581 de 2012 y sus decretos reglamentarios, así como aquellas normas que las modifiquen, sustituyan o adicionen. 
+ Que la Superintendencia de Industria y Comercio, en cumplimiento de lo dispuesto en el artículo 7o de la Ley 1340 de 2009, emitió concepto previo sobre el presente decreto mediante oficio 25-552853- -3-0 de fecha 24 de noviembre de 2025 y efectuó las siguientes recomendaciones: 
+ "1. En relación con los artículos 2.35.8.3.8 y 2.35.8.3.9: Definir qué componentes pueden ser considerados costos recuperables, velando porque estos correspondan a costos promedio eficientes. ii) Establecer la entidad encargada de supervisar y auditar la razonabilidad de las tarifas. iii) Precisar el momento y la forma en que ocurrirá el reconocimiento de dichos costos. 
+ 2. En relación con los artículos 2.35.8.3.2. y 2.35.8.3.3: Justificar en la memoria justificativa del proyecto la necesidad del esquema de autorización y confirmación para el tratamiento de datos personales que implica una doble verificación del consentimiento del titular. 
+ 3. En relación con el artículo 2.35.8.3.7: Justificar en la memoria justificativa del proyecto el plazo seleccionado de doce meses -prorrogable por seis más- para que las entidades habiliten el acceso a cada categoría de datos una vez expedidos los estándares correspondientes por parte de la SFC. 
+ 4. En relación con el artículo 2.35.8.6.1: Considerar implementar lineamientos generales para que, en el desarrollo reglamentario y operativo de los esquemas voluntarios y de los acuerdos bilaterales entre entidades vigiladas y no vigiladas, se incorporen principios orientadores que permitan: (i) asegurar que las condiciones de acceso a la información en los acuerdos bilaterales se definan bajo criterios claros, objetivos y verificables; (ii) prevenir prácticas de discriminación injustificada o condiciones que, de facto, limiten o dificulten la participación de ciertos terceros receptores; y (iii) promover mecanismos de transparencia contractual que permitan a los distintos actores evaluar y comparar las condiciones ofrecidas, reduciendo el riesgo de exclusión. 
+ 5. En relación con los artículos 2.35.8.3.4 y 2.35.8.3.5: Aclarar si la inscripción es obligatoria para todos los participantes e indicar el plazo con el que contará la SFC para expedir los lineamientos del directorio". 
+ Que según el artículo 7o de la Ley 1340 de 2009 el concepto emitido por la Superintendencia de Industria y Comercio no es vinculante. Sin embargo, si la autoridad respectiva se aparta de dicho concepto deberá manifestar de manera expresa dentro de las consideraciones de la decisión los motivos por los cuales se aparta. 
+ Que revisado el contenido del concepto de la Superintendencia de Industria y Comercio se decide no acoger la recomendación 1 teniendo en cuenta que los componentes que pueden ser considerados como costos recuperables podrán variar atendiendo al nivel de madurez tecnológica y tamaño de cada entidad, que la infraestructura necesaria para el cumplimiento del mandato de obligatoriedad podrá ser diferente entre entidades y, por lo tanto, los componentes del costeo pueden no coincidir entre ellas. 
+ Que se acogieron las recomendaciones 2, 3, 4 y 5 del concepto previo emitido por la Superintendencia de Industria y Comercio, ajustándose la memoria justificativa y modificándose el contenido de los artículos 2.35.8.5.4 y 2.35.8.5.6 , así como el Capítulo 6 del Título 8 del Libro 35 de la Parte 2 del Decreto número 2555 de 2010, incorporados por el artículo 1o y el numeral 2 del artículo 4o del presente decreto. 
+ Que dentro del trámite del proyecto de decreto se cumplió con las formalidades previstas en el numeral 8 del artículo 8o de la Ley 1437 de 2011 y el Decreto número 1081 de 2015. 
+ Que el Consejo Directivo de la Unidad Administrativa Especial Unidad de Proyección Normativa y Estudios de Regulación Financiera (URF) aprobó el contenido del presente decreto mediante Acta número 22 del 19 de diciembre de 2025. 
+ DECRETA: 
+ ARTÍCULO 1o. Sustitúyase el Título 8 del Libro 35 de la Parte 2 del Decreto número 2555 de 2010, el cual quedará así: 
+ "TÍTULO 8 
+ SISTEMA DE FINANZAS ABIERTAS 
+ CAPÍTULO 1 
+ Disposiciones Generales 
+ Artículo 2.35.8.1.1 . Objeto. Las disposiciones que integran el presente Título tienen por objeto establecer el alcance, los principios, objetivos y reglas que rigen el sistema de finanzas abiertas. 
+ Artículo 2.35.8.1.2 . Sistema de finanzas abiertas. Se entenderá como sistema de finanzas abiertas el conjunto de autoridades, normas, estándares, infraestructuras y participantes que interactúan entre sí para permitir el acceso y suministro estandarizado de datos personales de los clientes de las entidades vigiladas por la Superintendencia Financiera de Colombia, previa autorización de su Titular, y de la demás información y servicios definidos en el Capítulo 2 del presente Título. 
+ La circulación de los datos personales y demás información incluida dentro del alcance del sistema de finanzas abiertas deberá facilitar el desarrollo de modelos de negocio innovadores orientados a atender los objetivos definidos en el artículo 2.35.8.1.4 del presente decreto. 
+ Artículo 2.35.8.1.3 . Definiciones. Para efectos del presente Título se adoptan las siguientes definiciones: 
+ 1. Autorización: Consentimiento previo, expreso e informado del Titular para llevar a cabo el tratamiento de sus datos personales en el marco del sistema de finanzas abiertas. El consentimiento deberá atender lo establecido en las Leyes 1266 de 2008 y 1581 de 2012, y demás normas que las reglamenten, modifiquen, sustituyan o adicionen. 
+ 2. Dato personal: Pieza de información vinculada a una o varias personas determinadas o determinables o que pueda asociarse con una persona natural o jurídica. 
+ 3. Proveedor de datos: Entidad vigilada por la Superintendencia Financiera de Colombia que brinda acceso y suministra los datos personales e información comprendidos en el sistema de finanzas abiertas. 
+ 4. Tercero receptor de datos vigilado: Entidad vigilada por la Superintendencia Financiera de Colombia que accede a los datos personales e información comprendidos en el sistema de finanzas abiertas en las condiciones del artículo 2.35.8.2.3 del presente decreto. 
+ 5. Tercero receptor de datos no vigilado: Persona jurídica no vigilada por la Superintendencia Financiera de Colombia que accede a los datos personales e información comprendidos en el sistema de finanzas abiertas en las condiciones de los artículos 2.35.8.6.1 y 2.35.8.6.2 del presente decreto. 
+ 6. Titular: Persona natural o jurídica cuyos datos personales son objeto de tratamiento en el sistema de finanzas abiertas. 
+ Artículo 2.35.8.1.4 . Objetivos del sistema de finanzas abiertas. Serán objetivos del sistema de finanzas abiertas: 
+ 1. Promover la inclusión financiera y crediticia de la población a través del acceso y uso de productos y servicios. 
+ 2. Promover la competencia y la innovación en el sistema financiero. 
+ 3. Promover el bienestar financiero de la población. 
+ 4. Promover la interoperabilidad del sistema, de conformidad con las reglas establecidas en el presente decreto. 
+ 5. Respetar y garantizar los derechos de los titulares. 
+ 6. Velar por la seguridad, transparencia y confianza en el sistema financiero. 
+ Artículo 2.35.8.1.5 . Principios del sistema de finanzas abiertas. Además de los principios que rigen el tratamiento de datos personales contenidos en las Leyes 1266 de 2008 y 1581 de 2012 y demás normas que las modifiquen, sustituyan o adicionen, serán aplicables al sistema de finanzas abiertas los siguientes principios: 
+ 1. Acceso a datos personales: Será facultad exclusiva del Titular autorizar a los Terceros Receptores de Datos para tratar sus datos personales en el sistema de finanzas abiertas. El acceso y suministro a los datos personales comprendidos en el sistema de finanzas abiertas deberá obedecer a una finalidad acorde con los objetivos establecidos en el artículo 2.35.8.1.4 del presente decreto. 
+ 2. Transparencia: El sistema de finanzas abiertas deberá contar con información clara, suficiente y oportuna que permita identificar, como mínimo: sus partici pantes, los datos personales e información que serán objeto de circulación, los mecanismos de circulación y su calidad, las autorizaciones otorgadas y los mecanismos para el ejercicio de los derechos de los titulares. 
+ 3. Seguridad y circulación restringida de los datos personales: Los datos personales que circulen en el sistema de finanzas abiertas deberán ser protegidos mediante mecanismos robustos de seguridad de la información y ciberseguridad que eviten su consulta o uso no autorizado. 
+ 4. Calidad de la información: Los datos personales e información que circulen en el sistema de finanzas abiertas deberán ser precisos, completos, actualizados y pertinentes para el cumplimiento de los objetivos definidos en el artículo 2.35.8.1.4 del presente decreto. 
+ 5. Trato no discriminatorio: El acceso y suministro de datos personales y demás información en el sistema de finanzas abiertas deberá realizarse en igualdad de condiciones para todos los participantes y de conformidad con la autorización previa, expresa e informada de su Titular y las condiciones definidas en el presente decreto. 
+ 6. Interoperabilidad: Los protocolos de intercambio automático de información que implementen los participantes del sistema de finanzas abiertas se regirán por estándares comunes que permitan una interacción eficiente, segura y transparente. 
+ CAPÍTULO 2 
+ Alcance del sistema de finanzas abiertas 
+ Artículo 2.35.8.2.1 . Datos y servicios. El sistema de finanzas abiertas comprende la circulación de los datos personales e información que hacen parte de las siguientes categorías de información y la prestación de los siguientes servicios: 
+ 1. Información sobre los productos y servicios a nombre del Titular. 
+ 2. Información asociada al proceso de vinculación del Titular como cliente. 
+ 3. Información sobre las características generales de los productos y servicios ofrecidos por los participantes. 
+ Los productos y servicios a los que hace referencia el presente artículo incluyen, entre otros, productos de depósito, aseguramiento, crédito e inversión. 
+ PARÁGRAFO 1o. Los datos específicos de cada una de las categorías de información serán definidos y estandarizados por la Superintendencia Financiera de Colombia. Estos datos podrán ser definidos a partir de casos de uso, los cuales deberán ser pertinentes para dar cumplimiento a los objetivos establecidos en el artículo 2.35.8.1.4 del presente decreto. 
+ Sin perjuicio de lo previsto en el inciso anterior, la información sobre los productos de depósito a la vista que estén a nombre del Titular deberá incluir, como mínimo, el historial transaccional de los últimos doce (12) meses contados a partir del momento en que el Proveedor de Datos recibe la solicitud de acceso a dicha información. 
+ En aquellos eventos en los que el tiempo de vinculación del Titular con el Proveedor de Datos sea inferior a doce (12) meses deberá estar disponible la totalidad del historial transaccional del respectivo Titular. 
+ PARÁGRAFO 2o. La información a la que hace referencia el numeral 1 del presente artículo incluirá, entre otros aspectos, la información sobre el saldo, el historial transaccional, el uso y las condiciones particulares de los productos y servicios vigentes que estén a nombre del Titular. 
+ PARÁGRAFO 3o. La información a la que hace referencia el numeral 2 del presente artículo corresponde a la información recolectada y actualizada sobre el Titular para efectuar el proceso de conocimiento del cliente conforme a las disposiciones expedidas por la Superintendencia Financiera de Colombia. 
+ PARÁGRAFO 4o. La información a la que hace referencia el numeral 3 del presente artículo corresponde a aquella que facilita la comprensión y comparación de productos y servicios por parte de los consumidores financieros en virtud del derecho establecido en el literal b) del artículo 5 y la obligación establecida en el artículo 9o de la Ley 1328 de 2009, así como lo dispuesto en el numeral 1 del artículo 97 del Estatuto Orgánico del Sistema Financiero. 
+ PARÁGRAFO 5o. La información generada a partir del análisis, procesamiento o transformación de los datos personales e información comprendidos dentro de las categorías a las que hace referencia el presente artículo no hará parte del sistema de finanzas abiertas. Esta disposición no exime a los Proveedores de Datos de brindar acceso a los datos personales e información sobre los cuales se efectuó dicho análisis, procesamiento o transformación, previa autorización del Titular. 
+ Artículo 2.35.8.2.2 . Participantes. Serán participantes del sistema de finanzas abiertas las entidades vigiladas por la Superintendencia Financiera de Colombia que sean Proveedores de Datos y Terceros Receptores de Datos y que estén inscritas en el directorio de que trata el Capítulo 5 del Título 8 del Libro 35 de la Parte 2 del presente decreto y las personas jurídicas no vigiladas por la Superintendencia Financiera de Colombia que se vinculen conforme a lo establecido en el Capítulo 6 del Título 8 del Libro 35 de la Parte 2 del presente decreto. 
+ Artículo 2.35.8.2.3 . Obligatoriedad. Los establecimientos de crédito, las sociedades especializadas en depósitos y pagos electrónicos, las sociedades fiduciarias, las sociedades comisionistas de bolsa de valores, las sociedades comisionistas de bolsa de bienes y productos agropecuarios, agroindustriales o de otros commodities, las sociedades administradoras de fondos de pensiones y cesantías, las sociedades administradoras de inversión, las entidades administradoras del componente complementario de ahorro individual del pilar contributivo, las entidades autorizadas para desarrollar la actividad de financiación colaborativa, las entidades aseguradoras, las entidades con regímenes especiales de las que trata la Parte Décima del Decreto número 663 de 1993 que desarrollan actividades propias de los establecimientos de crédito y las Instituciones Oficiales Especiales que fueron definidas como un establecimiento de crédito en su acto de creación, deberán brindar acceso y suministrar los datos personales comprendidos en el sistema de finanzas abiertas de manera obligatoria a los Terceros Receptores de datos vigilados por la Superintendencia Financiera de Colombia. 
+ CAPÍTULO 3 
+ Del acceso y tratamiento de la información 
+ Artículo 2.35.8.3.1 . Tratamiento de la información. Los participantes del sistema de finanzas abiertas tratarán la información a que se refiere el presente decreto, que los consumidores financieros autoricen de manera previa, expresa e informada. En todos los casos debe darse estricto cumplimiento a las normas relacionadas con protección de datos y habeas data de las que tratan las Leyes 1266 de 2008 y 1581 de 2012 y demás normas que las reglamenten, modifiquen, sustituyan o adicionen. 
+ En concordancia con lo establecido en el Capítulo 25 del Decreto número 1074 de 2015 y el artículo 19A de la Ley 1266 de 2008, los participantes del sistema de finanzas abiertas deberán adoptar medidas de responsabilidad demostrada para garantizar el debido tratamiento de los datos personales comprendidos en el sistema de finanzas abiertas. Dichas medidas deberán ser apropiadas, efectivas, útiles, eficientes, demostrables y garantizar la seguridad, la confidencialidad, la veracidad, la calidad, el uso y la circulación restringida de esa información. 
+ PARÁGRAFO 1o. La Superintendencia Financiera de Colombia y la Superintendencia de Industria y Comercio ejercerán las funciones de inspección, vigilancia y control, según el ámbito personal y material de aplicación de las leyes 1266 de 2008 y 1581 de 2012, respecto del tratamiento de datos personales por parte de los participantes del sistema de finanzas abiertas. 
+ PARÁGRAFO 2o. Lo establecido en el presente Título no modifica la obligación de las entidades vigiladas por la Superintendencia Financiera de Colombia de mantener la reserva bancaria respecto de aquella información que no ha sido previa y expresamente autorizada por su Titular para ser compartida en el sistema de finanzas abiertas. 
+ Artículo 2.35.8.3.2 . Autorización. Los Terceros Receptores de Datos deberán contar con autorización del Titular para acceder y tratar la información a la que hacen referencia los numerales 1 y 2 del artículo 2.35.8.2.1 del presente decreto. La solicitud de autorización debe presentarse en forma sencilla, clara y precisa, de tal manera que sea de fácil comprensión para el Titular. En este sentido, la solicitud de la autorización deberá contener, como mínimo: 
+ 1. La identificación del Tercero Receptor de Datos, indicando como mínimo su razón social y domicilio. 
+ 2. Los datos personales cuyo tratamiento autoriza el Titular. 
+ 3. El tratamiento al cual serán sometidos los datos personales del Titular por parte del Tercero Receptor de Datos. 
+ 4. La finalidad específica para la cual el Titular autoriza el tratamiento de sus datos personales. 
+ 5. El tiempo de la finalidad para la cual el Titular autoriza el tratamiento de sus datos personales. 
+ Los Terceros Receptores de Datos deberán abstenerse de solicitar autorizaciones generales o abiertas que le impidan al Titular conocer la finalidad, el término y el tratamiento específico que le darán a sus datos personales en el sistema de finanzas abiertas. 
+ Los Terceros Receptores de Datos no podrán condicionar la prestación de un producto o servicio al otorgamiento de la autorización a la que hace referencia el presente artículo. 
+ PARÁGRAFO. El acceso y suministro de la información a la que hace referencia el numeral 3 del artículo 2.35.8.2.1 del presente decreto no requiere autorización previa de su Titular. 
+ Artículo 2.35.8.3.3 . Confirmación. Los Proveedores de Datos deberán confirmar con el Titular, de forma previa a la circulación de la información a la que hacen referencia los numerales 1 y 2 del artículo 2.35.8.2.1 . del presente decreto, que el Tercero Receptor de Datos cuenta con su autorización para acceder y efectuar el tratamiento de sus datos personales en el marco del sistema de finanzas abiertas. Esta confirmación debe evidenciar el contenido mínimo de la autorización otorgada al Tercero Receptor de Datos y facultar al Titular para autorizar o denegar el suministro de los datos por parte del Proveedor de Datos. 
+ Artículo 2.35.8.3.4 . Autenticación. Los Participantes del sistema de finanzas abiertas deberán autenticar al Titular para realizar cualquier acción que busque otorgar, modificar o revocar su autorización a través de mecanismos fuertes de autenticación de conformidad con las instrucciones impartidas por la Superintendencia Financiera de Colombia. 
+ Artículo 2.35.8.3.5 . Derechos del Titular. Los Proveedores de Datos y los Terceros Receptores de Datos deberán garantizar al Titular, en todo momento, el ejercicio de los siguientes derechos: 
+ 1. Conocer la autorización otorgada y obtener copia de esta. 
+ 2. Revocar o actualizar la autorización otorgada. 
+ 3. Abstenerse de autorizar el tratamiento de sus datos personales. 
+ 4. Obtener explicación del uso dado a sus datos personales. 
+ Artículo 2.35.8.3.6 . Infraestructura. Los Participantes del sistema de finanzas abiertas deberán implementar protocolos de intercambio automático de información que les permitan atender o realizar solicitudes de acceso y suministro de datos personales e información de forma expedita, segura y estandarizada. Los protocolos de intercambio automático de información deben funcionar a partir de interfaces de programación de aplicaciones (API), ser interoperables y cumplir con los estándares de arquitectura, seguridad y tecnología definidos por la Superintendencia Financiera de Colombia. 
+ Artículo 2.35.8.3.7 . Plazos para habilitar el acceso. Las entidades a las que hace referencia el artículo 2.35.8.2.3 del presente decreto deberán habilitar el acceso a los datos personales e información comprendidos en cada una de las categorías de información y servicios definidos en el artículo 2.35.8.2.1 del presente decreto en un plazo máximo de doce (12) meses contados a partir de la expedición de cada uno de los estándares requeridos para su suministro. 
+ La Superintendencia Financiera de Colombia podrá ampliar, por una única vez, el término previsto en el inciso anterior hasta por seis (6) meses. 
+ Sin perjuicio de lo anterior, la Superintendencia Financiera de Colombia podrá ampliar por un término adicional de máximo seis (6) meses el plazo para la habilitación del acceso a los datos personales de los clientes persona jurídica que no correspondan a las definidas en el artículo 2.2.1.13.2.2 del Decreto número 1074 de 2015. 
+ Artículo 2.35.8.3.8 . Costos de acceso. Los Proveedores de Datos podrán cobrar por el uso de su infraestructura para la circulación de la información en el sistema de finanzas abiertas, de acuerdo con los criterios establecidos en el artículo 2.35.8.3.9 del presente decreto. 
+ El cobro se realizará únicamente para recuperar el costo incurrido de manera directa en la implementación o mantenimiento de la infraestructura mencionada en el artículo 2.35.8.3.6 y para la implementación de los estándares mencionados en el artículo 2.35.8.4.1 , y deberá realizarse con base en factores objetivos, medibles y verificables que garanticen que estos no limitan el acceso de los Participantes. 
+ Artículo 2.35.8.3.9 . Criterios para la recuperación de costos. Los Proveedores de Datos determinarán la recuperación de los costos de conformidad con los siguientes criterios: 
+ 1. El esquema de cobro deberá corresponder al volumen de consultas o del uso que haga cada Tercero Receptor de Datos. 
+ 2. Únicamente podrán trasladarse los costos para garantizar la disponibilidad de la información y su circulación en condiciones de seguridad y calidad. 
+ 3. Los costos aplicarán en igualdad de condiciones para todos los Terceros Receptores de Datos. 
+ En ningún caso podrán cobrar por la información que sea objeto de circulación en el sistema de finanzas abiertas. 
+ Artículo 2.35.8.3.10 . Suficiencia de los requisitos de acceso. Los Proveedores de Datos no podrán restringir el acceso y suministro de la información comprendida en el sistema de finanzas abiertas a los Terceros Receptores de Datos Vigilados que cumplan con lo dispuesto en el presente decreto y con los requisitos establecidos por la Superintendencia Financiera de Colombia para el adecuado funcionamiento del sistema de finanzas abiertas. 
+ CAPITULO 4 
+ Estándares del sistema de finanzas abiertas 
+ Artículo 2.35.8.4.1 . Estándares. El sistema de finanzas abiertas se regirá por los estándares comunes de obligatoria aplicación definidos por la Superintendencia Financiera de Colombia. Los estándares comprenderán elementos técnicos, tecnológicos, funcionales y operacionales, como aquellos a los que hace referencia el parágrafo 1 del artículo 2.35.8.2.1 y el artículo 2.35.8.3.6 y los demás aspectos que se consideren necesarios para el adecuado funcionamiento del sistema. 
+ La Superintendencia Financiera de Colombia será la entidad encargada de establecer, actualizar y publicar los estándares del sistema de finanzas abiertas y podrá crear grupos de trabajo con la participación del sector privado y otras autoridades para los fines de este artículo. 
+ PARÁGRAFO. La Superintendencia Financiera de Colombia ejercerá su facultad para expedir los estándares del sistema de finanzas abiertas, sin perjuicio de la facultad de la Superintendencia de Industria y Comercio de emitir órdenes o instrucciones en materia de tratamiento de datos personales, conforme al literal e) del artículo 21 de la Ley 1581 de 2012, el numeral 1 del artículo 17 de la Ley 1266 de 2008 y el Decreto número 1074 de 2015. 
+ Artículo 2.35.8.4.2 . Espacio de pruebas. La Superintendencia Financiera de Colombia podrá habilitar un espacio de pruebas para validar la correcta aplicación de los estándares por parte de los Participantes y ejecutar las demás pruebas que considere necesarias para promover el adecuado desarrollo del sistema de finanzas abiertas. 
+ CAPITULO 5 
+ Directorio de participantes 
+ Artículo 2.35.8.5.1 . Definición. El directorio de participantes es una herramienta de consulta que permitirá identificar a los participantes en cada uno de los roles del sistema de finanzas abiertas. El directorio de participantes será administrado por la Superintendencia Financiera de Colombia. 
+ Artículo 2.35.8.5.2 . Conformación. El directorio de participantes estará conformado por las entidades que cumplan con lo dispuesto en el presente decreto y con los estándares establecidos por la Superintendencia Financiera de Colombia para operar en el sistema de finanzas abiertas. 
+ Artículo 2.35.8.5.3 . Estructura. El directorio de participantes estará compuesto por los siguientes módulos: 
+ 1. Módulo de proveedores de datos: Contendrá la información de los Proveedores de Datos incluyendo, entre otros, los datos de identificación, costo por uso de la infraestructura, contacto y los necesarios para el acceso a la información. 
+ 2. Módulo de receptores de datos: Contendrá la información de los Terceros Receptores de Datos Vigilados, incluyendo, entre otros, los datos de identificación, contacto y los necesarios para su autenticación por parte del Proveedor de Datos. 
+ 3. Módulo de vinculaciones voluntarias: Contendrá la información de las vinculaciones voluntarias a las que se refiere el artículo 2.35.8.6.1 del presente decreto, incluyendo, entre otros, el nombre del Proveedor de Datos y del Tercero Receptor de Datos No Vigilado al que se le suministran los datos personales e información, la fecha y el estado actual de la vinculación. 
+ PARÁGRAFO. La Superintendencia Financiera de Colombia establecerá la información específica que contendrá cada uno de los módulos y podrá incluir nuevos módulos en el directorio. 
+ Artículo 2.35.8.5.4 . Inscripción en el Directorio. La Superintendencia Financiera de Colombia verificará, previo a la inscripción en los módulos de que tratan los numerales 1 y 2 del artículo 2.35.8.5.3 del presente decreto, que los participantes vigilados por esta Superintendencia cumplan con los estándares técnicos, tecnológicos, funcionales y operacionales establecidos en el artículo 2.35.8.4.1 del presente decreto y el adecuado funcionamiento de los protocolos de intercambio automático de información. 
+ Artículo 2.35.8.5.5 . Deberes del administrador del Directorio. La Superintendencia Financiera de Colombia, en su calidad de administrador del directorio, deberá: 
+ 1. Establecer las condiciones de funcionamiento y operación del directorio. 
+ 2. Establecer los lineamientos, requisitos y documentos necesarios para el acceso y para la inscripción, modificación y retiro de los participantes del directorio. 
+ 3. Tramitar solicitudes de inclusión, modificación o retiro de los participantes en los módulos del directorio. El administrador del directorio tendrá un plazo máximo de un (1) mes contado a partir de la radicación de la solicitud para autorizarla o negarla. 
+ 4. Publicar y mantener disponible para los participantes la información de cada uno de los módulos del directorio, así como actualizar la información que sea remitida por cada uno de los participantes. 
+ 5. Retirar del directorio a un participante cuando no cumpla con los requisitos establecidos para participar en el sistema de finanzas abiertas. 
+ 6. Suspender temporalmente del directorio a un participante cuando resulte necesario para preservar el adecuado funcionamiento del sistema de finanzas abiertas. 
+ 7. Conservar un registro histórico de las fechas de inclusión y retiro de los participantes en el directorio. 
+ PARÁGRAFO 1o. La Superintendencia Financiera de Colombia impartirá las instrucciones para el adecuado cumplimiento del presente artículo. 
+ PARÁGRAFO 2o. Los participantes del sistema de finanzas abiertas son responsables por la veracidad, completitud y calidad de la información reportada al directorio de participantes y tienen la obligación de actualizarla de forma oportuna. 
+ Artículo 2.35.8.5.6 . Deberes de los Participantes. Los Participantes del sistema de finanzas abiertas vigilados por la Superintendencia Financiera de Colombia tendrán los siguientes deberes: 
+ 1. Inscribirse en el directorio de participantes y garantizar la veracidad, exactitud y actualización de su información. 
+ 2. Gestionar su inclusión, modificación de información o retiro voluntario ante el administrador del directorio. 
+ 3. Informar al administrador del directorio: 
+ a) El incumplimiento de los requisitos exigidos para participar en el sistema de finanzas abiertas. 
+ b) Situaciones que impidan el acceso o suministro de los datos personales e información. 
+ c) Incidentes de seguridad, ciberseguridad u otra naturaleza que afecten o comprometan la integridad del sistema de finanzas abiertas y la confidencialidad e integridad de los datos personales de los titulares. 
+ d) Cualquier situación que pueda comprometer el normal funcionamiento del sistema de finanzas abiertas o vulnerar los datos de los titulares. 
+ 4. Designar un contacto que servirá como enlace operativo con los demás Participantes del sistema de finanzas abiertas. 
+ Artículo 2.35.8.5.7 . Inscripción en el módulo de vinculaciones voluntarias. Los Proveedores de Datos deberán inscribir en el directorio de participantes las vinculaciones de carácter voluntario a las que se refieren los artículos 2.35.8.6.1 y 2.35.8.6.2 del presente decreto, de conformidad con las instrucciones establecidas por la Superintendencia Financiera de Colombia. 
+ Artículo 2.35.8.5.8 . Verificación. La Superintendencia Financiera de Colombia podrá verificar en cualquier momento el cumplimiento de los requisitos necesarios para que los participantes vigilados por dicha Superintendencia permanezcan en el directorio. 
+ CAPÍTULO 6 
+ Esquemas voluntarios 
+ Artículo 2.35.8.6.1 . Vinculación voluntaria. Los Proveedores de Datos podrán dar acceso y suministrar la información comprendida en el sistema de finanzas abiertas a Terceros Receptores de Datos No Vigilados, dando cumplimiento a las disposiciones establecidas en el Título 8 del Libro 35 de la Parte 2 del presente decreto y a las instrucciones contenidas en el Capítulo IX del Título I de la Parte I de la Circular Externa 006 de 2025 expedida por la Superintendencia Financiera de Colombia (Circular Básica Jurídica) y/o demás normas que la modifiquen, sustituyan o adicionen. 
+ PARÁGRAFO. No serán aplicables a los esquemas voluntarios las disposiciones contenidas en los artículos 2.35.8.2.3 , 2.35.8.3.7 , 2.35.8.3.10 , 2.35.8.5.4 y 2.35.8.5.6 del presente decreto. 
+ Artículo 2.35.8.6.2 . Deberes especiales de los Proveedores de Datos. En los esquemas voluntarios para la vinculación de Terceros Receptores de Datos no Vigilados los Proveedores de Datos deberán: 
+ 1. Establecer políticas y procedimientos con criterios claros, objetivos y verificables para la vinculación de los Terceros Receptores de Datos no Vigilados, los cuales deben publicarse conforme a lo establecido en el Capítulo IX del Título I de la Parte I de la Circular Externa 006 de 2025 expedida por la Superintendencia Financiera de Colombia (Circular Básica Jurídica) y/o demás normas que la modifiquen, sustituyan o adicionen. 
+ 2. Documentar el análisis de las solicitudes de vinculación de Terceros Receptores de Datos no Vigilados, incluyendo la verificación de los requisitos e instrucciones previstas en el Capítulo IX del Título I de la Parte I de la Circular Externa 006 de 2025 expedida por la Superintendencia Financiera de Colombia (Circular Básica Jurídica) y/o demás normas que la modifiquen, sustituyan o adicionen. Esta documentación deberá estar a disposición de la Superintendencia Financiera de Colombia. 
+ 3. Abstenerse de restringir la vinculación de Terceros Receptores de Datos no vigilados que cumplan con lo establecido en el Capítulo IX del Título I de la Parte 1 de la Circular Externa 006 de 2025 expedida por la Superintendencia Financiera de Colombia (Circular Básica Jurídica) y/o demás normas que la modifiquen, sustituyan o adicionen. 
+ 4. Abstenerse de dar un trato discriminatorio a los Terceros Receptores de datos no vigilados que vinculen al sistema de finanzas abiertas. 
+ CAPÍTULO 7 
+ Seguimiento del sistema de finanzas abiertas 
+ Artículo 2.35.8.7.1 . Reportes de información . Las entidades vigiladas participantes del sistema de finanzas abiertas deberán remitir la información que la Superintendencia Financiera de Colombia requiera para efectos de realizar un adecuado seguimiento del sistema de finanzas abiertas. 
+ El cumplimiento de este deber se efectuará sin perjuicio de las demás obligaciones de reporte que las entidades participantes tengan conforme a lo previsto en la Ley 1581 de 2012 y demás normas que la reglamenten, modifiquen, sustituyan o adicionen. 
+ Artículo 2.35.8.7.2 . Seguimiento del sistema. La Superintendencia Financiera de Colombia deberá definir, calcular y publicar, al menos trimestralmente, indicadores que permitan hacer seguimiento a la implementación y el desarrollo del sistema de finanzas abiertas". 
+ ARTÍCULO 2o. Modifíquese el último inciso del artículo 2.17.4.1.3 . del Decreto número 2555 de 2010, el cual quedará así: 
+ "La Superintendencia Financiera de Colombia expedirá los estándares necesarios para que los servicios de iniciación de pagos, inmediatos o no inmediatos y recurrentes o no recurrentes, se ejecuten en condiciones de seguridad, transparencia y eficiencia. Estas instrucciones se impartirán sin perjuicio de las disposiciones que expida la Junta Directiva del Banco de la República en ejercicio de la facultad establecida en el artículo 104 de la Ley 2294 de 2023". 
+ ARTÍCULO 3o. CRONOGRAMA PARA LA ESTANDARIZACIÓN. La Superintendencia Financiera deberá publicar un cronograma para la expedición de los estándares a los que hace referencia el artículo 2.35.8.4.1 del Decreto número 2555 de 2010 incorporado por el artículo 1o del presente decreto. El cronograma incluirá, como mínimo, los estándares para la siguiente información: 
+ Información o servicio por estandarizar 
+ Historial transaccional de los depósitos a la vista que estén a nombre del Titular 
+ Historial transaccional de los productos de crédito que estén a nombre del Titular 
+ Información asociada al proceso de vinculación del Titular como cliente 
+ Información asociada a los productos de depósito a término. 
+ Información sobre las características generales de los productos y servicios ofrecidos por las entidades vigiladas 
+ Estándares necesarios para los servicios de iniciación de pagos, en los términos del artículo 2.17.4.1.3 . del Decreto número 2555 de 2010. 
+ Los estándares para la circulación de otros datos específicos de cada una de las categorías de información serán expedidos conforme al cronograma de trabajo que sea publicado por la Superintendencia Financiera de Colombia. 
+ PARÁGRAFO 1o. La información asociada al proceso de vinculación del Titular como cliente y la relacionada con las características generales de los productos y servicios ofrecidos por las entidades vigiladas se podrá estandarizar de manera gradual, por tipo de licencia, de acuerdo con las necesidades del sistema de finanzas abiertas. 
+ PARÁGRAFO 2o. La Superintendencia Financiera de Colombia definirá el cronograma de trabajo de acuerdo con las necesidades de supervisión, las capacidades institucionales, y las necesidades del sistema de finanzas abiertas. 
+ ARTÍCULO 4o. PLAZOS PARA LA SUPERINTENDENCIA FINANCIERA DE COLOMBIA. La Superintendencia Financiera de Colombia deberá: 
+ 1. Publicar el cronograma de trabajo al que se refiere el artículo 3o del presente decreto en un plazo máximo de seis (6) meses contados a partir de la entrada en vigor del presente decreto. 
+ 2. Poner en funcionamiento el directorio de participantes del que trata el Capítulo 5 del Título 8 del Libro 35 de la Parte 2 del Decreto número 2555 de 2010, incorporado por el artículo 1o del presente decreto y establecer los lineamientos, requisitos y documentos necesarios para el acceso, inscripción, modificación y retiro de los participantes en este directorio, en un plazo máximo de doce (12) meses contados a partir de la entrada en vigor del presente decreto. 
+ 3. Definir los indicadores a los que se refiere el artículo 2.35.8.7.2 . del Decreto número 2555 de 2010, incorporado por el artículo 1o del presente decreto, en un plazo máximo de doce (12) meses contados a partir de la entrada en vigor del presente decreto. 
+ ARTÍCULO 5o. VIGENCIA Y DEROGATORIAS. El presente decreto rige a partir del día siguiente a su publicación en el Diario Oficial , sin perjuicio de los plazos previstos en su artículo 4o , sustituye el Título 8 del Libro 35 de la Parte 2 del Decreto número 2555 de 2010, modifica el artículo 2.17.4.1.3 . del Decreto número 2555 de 2010 y deroga el Título 10 del Libro 35 de la Parte 2 del Decreto número 2555 de 2010. 
+ Publíquese y cúmplase. 
+ Dado en Bogotá, D. C., a 7 de abril de 2026. 
+ GUSTAVO PETRO URREGO 
+ El Ministerio de Hacienda y Crédito Público, 
+ Germán Ávila Plazas. 
+ Compilación Jurídica de Colpensiones
+ ISBN : 978-958-53476-2-5
+ Última actualización: 
+ Manual de Usuario 
+ Créditos y reserva de derechos de autor 
+ Colpensiones - Administradora Colombiana de Pensiones - DRA © 2023
+ Contáctanos 
+ ¿Te llamamos?
+ Diligenciar 
+ Dónde estamos
+ Consultar 
+ Descarga nuestra APP
+ Consultar 
+ WhatsApp
+ Consultar 
+ ¿CÓMO PODEMOS AYUDARTE? 
+ Más sobre Colpensiones
+ Subasta electrónica de bienes recibidos en dación de pago 
+ Consulta de pago de Costas 
+ Encuesta de satisfacción 
+ Investigaciones Administrativas Especiales 
+ Atención al consumidor financiero 
+ Defensor del consumidor financiero 
+ Términos y condiciones de uso 
+ Entidades Operadores Libranza y Afiliación 
+ Derechos de petición y notificaciones judiciales 
+ Conmutación pensional 
+ Encuesta de satisfacción 
+ Protección de datos personales 
+ Preguntas y respuestas frecuentes 
+ Glosario 
+ Mapa del Sitio 
+ Ayudas de navegación 
+ Â¿CÓMO PODEMOS AYUDARTE? 
+ Más sobre Colpensiones
+ Subasta electrónica de bienes recibidos en dación de pago 
+ Consulta de pago de Costas 
+ Encuesta de satisfacción 
+ Investigaciones Administrativas Especiales 
+ Atención al consumidor financiero 
+ Defensor del consumidor financiero 
+ Términos y condiciones de uso 
+ Entidades Operadores Libranza y Afiliación 
+ Derechos de petición y notificaciones judiciales 
+ Conmutación pensional 
+ Encuesta de satisfacción 
+ Protección de datos personales 
+ Preguntas y respuestas frecuentes 
+ Glosario 
+ Mapa del Sitio 
+ Ayudas de navegación 
+ -->
+ Colpensiones 
+ Sede Administrativa: Carrera 10 No. 72 - 33 Torre B Piso 11 Bogotá D.C. - Cundinamarca (No hay atención a ciudadanos) 
+ Código Postal: 110231 
+ Teléfono Conmutador Bogotá: (57+601) 489 09 09 
+ Teléfono Conmutador Medellín: (57+604) 283 60 90 
+ Teléfono Conmutador BEPS Bogotá: (57+601) 487 03 00 
+ Línea Gratuita: 018000 41 09 09 
+ Línea Gratuita BEPS: 018000 41 0777 
+ Línea de Bienestar: 018000 42 5555 
+ Línea Anticorrupción : 01 8000 518500 
+ Correo de notificaciones judiciales: notificacionesjudiciales@colpensiones.gov.co 
+ Correo exclusivo radicación facturas/comunicaciones oficiales externas: contacto@colpensiones.gov.co 
+ Puntos de atención y horarios 
+ @Copyright 2021 - Todos los derechos reservados Colpensiones 
+ @ColpensionesOficial 
+ Logo Facebook 
+ @Colpensiones 
+ Logo Instagram 
+ @Colpensiones 
+ Logo Twitter 
+ @Colpensionescomunica 
+ Logo Youtube 
+ Política de seguridad de la informacion 
+ Términos y Condiciones de Uso 
+ Políticas de derechos de autor 
+ Contacto 
+ Mapa del sitio 
+ Conoce GOV.CO aquí 
+ ×
+ Contraste 
+ Reducir letra 
+ Aumentar letra 
+ Retornar valores 
+ Ir arriba 
+ Ir abajo 
+ Inicio documento 
+ Fin documento 

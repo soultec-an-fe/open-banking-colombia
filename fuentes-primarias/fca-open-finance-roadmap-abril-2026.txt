@@ -1,0 +1,743 @@
+Open finance: Our vision for 
+a smart data future
+April 2026
+2
+Open finance: Our vision for a smart data future
+Contents
+Chapter 1 Executive summary                                                                 Page 3
+Chapter 2 Introduction                                                                           Page 5
+Chapter 3 Vision                                                                                 Page 11
+Chapter 4 Collaborating with industry to develop open finance                      Page 15
+Chapter 5 Next steps                                                                           Page 18
+Chapter 6 Open finance roadmap                                                           Page 19
+Sign up for our news and publications alerts
+See all our latest press releases, consultations an d speeches. 
+3 
+Open finance: Our vision for a smart data future
+Chapter 1
+Executive summary
+1.1 Open finance has the potential to be the next major step in the UK’s smart data 
+revolution. Building on significant progress in open banking, open finance can give 
+consumers and small and medium-sized businesses (SMEs) greater control over their 
+financial data, unlock faster and more personalised financial services, and strengthen 
+competition, innovation and growth across t he economy. 
+1.2 This roadmap sets out a clear and ambitious path to turn that potential into delivery, 
+from now until 2030. It signals a shift from vision to action: prioritising real-world use 
+cases, moving quickly to testing and design, and then scaling solutions that deliver 
+tangible benefits for consumers, businesses and firms. Our approach is deliberately 
+pragmatic, evidence-led and collaborative, drawing on lessons from open banking and 
+international experience to ensure open finance develops in a way that is secure, trusted 
+and proportionate. 
+1.3 This year, we will lead the development of open finance, collaborating with stakeholders 
+to prioritise what open finance sho uld deliver:
+• We are prioritising high-impact use cases where open finance can deliver 
+benefits most quickly, improving SMEs’ access to lending and consumers’ access 
+to mortgages.
+• Our PolicySprint in Q2 will build consensus on where open finance can materially 
+improve consumer journeys and outcomes. We will identify what firms and fintechs 
+need from a future framework to unlock access to key  data sets. 
+• We will lead targeted engagement from Q2 to establish what industry-led progress 
+can achieve – and where a future regulatory framework ma y be needed.
+• Our FCA-led taskforce to develop a Prioritisation and Real-world Insights Selection 
+Matrix (PRISM) will identify the impacts of use cases on consumer outcomes, 
+competition, growth and innov ation by Q3.
+• Our T echSprint in Q4 will show how open finance can be used as a tool to tackle 
+challenges facing consumers, businesses and firms. It will also show the data and 
+technology infrastructure required to unloc k use cases.
+• We will seek views in Q4 on what we can do to ensure our regulations help to unlock 
+benefits and promote the safe and responsible adoption of open finance, starting 
+with a discussion paper on the fi rst scheme. 
+1.4 From 2027 , we will move into design and coordination:
+• As we identify more high-impact use cases, the data and infrastructure required to 
+deliver them, and our role to unlock progress, we will think beyond a first scheme to 
+seek views on a long-term regulatory framework for o pen finance.
+• We will work with the T reasury on options for the regulatory framework for open 
+finance. We will test where common frameworks, shared infrastructure and 
+governance arrangements are needed to unlock benefi ts at scale.
+4
+Open finance: Our vision for a smart data future
+1.5 Our longer -term activities, taking us up to 2030, will support confidence and scale:
+• We will collaborate with industry on the launch of sustainable open finance schemes 
+with clear governance, high standards of consumer protection and inter operability.
+• We will keep our priorities under review as markets evolve, new technologies emerge 
+and further high-impact use cases are identified. 
+1.6 Open finance can unlock significant benefits if delivered effectively:
+• Better outcomes for consumers and SMEs: leading to faster , simpler access to 
+credit and financial products; more personalised services, better value and easier 
+switching; earlier identification of consumers who may need support; and innovative 
+ways of reducing fraud and fina ncial crime.
+• Stronger competition and innovation: lower barriers to entry; greater incentives 
+for firms to innovate and invest; and new products and services built on secure, 
+consent-based da ta sharing. 
+• Wider economic benefits:  more effective capital allocation, particularly for SMEs; 
+productivity gains across financial services; and opportunities for UK firms to export 
+open finance technology an d services. 
+1.7 T o deliver our roadmap, we need stakeholders’ insights and expertise. These 
+will be critical in identifying where regulatory intervention is needed to realise open 
+finance’s full potential. We will also continue to collaborate with other regulators and the 
+Government to ensure that the development of open finance is joined up with smart 
+data schemes across sectors from  the outset.
+5 
+Open finance: Our vision for a smart data future
+Chapter 2
+Introduction
+What is open finance?
+2.1 Data underpins the modern financial sector, informing and shaping financial products 
+and services. This includes credit, banking, insurance and investments. But much of this 
+data is fragmented across many different firms, is not easy to access or share, and may 
+be missing vital information. Even where consumers and businesses can access their 
+data, they may have concerns about the safety of sharing it with firms, apps and other 
+organisations. This means that tasks like applying for mortgages or switching between 
+current accounts can be complex and require consumers and businesses to manually 
+share their data mul tiple times.
+2.2 Secure data sharing services can help people and businesses manage money more 
+effectively, get better deals, and make payments directly from their bank accounts. 
+Open banking already provides a secure, regulated way for consumers and businesses 
+to share access to payments data with trusted apps. Open finance will take this further – 
+extending secure data sharing across a much wider range of products an d services. 
+Open finance’s transformative potential
+2.3 Open finance will enable consumers and businesses to make their data work harder for 
+them, unlocking better outcomes. It will give people greater insight into, and control 
+over, their financial information. It can also improve financial inclusion by enabling 
+personalised products and real-tim e insights. 
+2.4 Open finance can fuel innovation and improve efficiency across financial services 
+to reshape the UK’s financial system. This would create a more dynamic, inclusive 
+and competitive sector. Some studies have suggested open finance could support 
+economic growth, with McKinsey suggesting it could generate up to 1 - 1.5% of UK GDP 
+by 2030. And research by Open Banking Limited and EY suggests that the economic 
+impact of open banking and open finance combined could reach £7 .4 billion per 
+year in 5 years.
+2.5 Open finance will unlock more competitive pricing and simpler switching by allowing 
+data to be shared more easily and reducing costs. It also builds on open banking’s secure 
+authentication processes to offer stronger protections through better fraud prevention 
+and reduced financial crime. The benefits of open finance could be intensified by 
+drawing on emerging technologies such as artificial intelligence (AI) and tokenisation to 
+further transform financial services. Open finance and broader open data sources could 
+also enable agentic payments to realise their full potential by allowing agents to use 
+increased data to make informed, personalised decisions and execute transactions on 
+behalf of users.
+6
+Open finance: Our vision for a smart data future
+2.6 T o demonstrate the potential benefits of open finance, we have set out case studies 
+showing how it could work across a range of financial products and services. As future 
+use cases are yet to be agreed, these case studies are illustrative only, and full cost -
+benefit analyses will need to be c arried out. 
+Case study 1: How open finance could work for SME lending
+Folu and Ade own a small, family-run coffee shop and want to open a second 
+branch. They have been rejected for business loans in the past as they couldn’t 
+provide evidence of adequate cash flow, but they want to try again. They sign up 
+with a fintech firm that helps small businesses appl y for loans.
+The fintech firm uses data sharing and insights powered by open finance to link 
+to Folu and Ade’s business and pull together a real-time picture of the business’s 
+transaction data and wider finances, including credit data. This provides a more 
+accurate picture of the business’s cash flow than would be possible using open 
+banking. The fintech firm analyses this data and recommends steps Folu and Ade 
+can take to improve their cre dit profile.
+Once Folu and Ade have decided that they want to apply for a loan with a retail 
+bank, the fintech firm lets them make their loan application directly through its 
+app. It uses the real-time business data that has been shared to pre-populate the 
+loan application form for Folu and Ade to check, saving them time and hassle. 
+Using the comprehensive and up-to-date business data shared by the fintech firm, 
+the retail bank approves Folu and Ade’s loan application on t he same day.
+Case study 2: How open finance could work for mortgages
+Sara has recently purchased her first home, with the help of a mortgage with a 
+building society. Sara also has a current account with a digital bank that she uses 
+for her day-to-day spending, as well as a savi ngs account.
+The digital bank offers an open finance-powered mortgage dashboard that Sara 
+uses to help her understand when it would be most effective for her to overpay 
+on her mortgage, and makes it simpler for her to make these payments. This pulls 
+together a much wider range of information than is currently offered by open 
+banking data and gives Sara greater control over h er finances.
+T o do this, the digital bank draws on open finance data from across sectors. The 
+dashboard combines data on Sara’s mortgage with the building society, data from 
+her current and savings accounts, as well as market data on current interest rates. 
+It uses these to forecast different scenarios to illustrate how overpayments could 
+help Sara pay off her mortgage 2, 5 and 10 years sooner. It also compares this to 
+Sara’s spending to help her better understand how overpayment could impact on 
+her day-to-day budget.
+7 
+Open finance: Our vision for a smart data future
+Sara chooses the option to pay off her mortgage 5 years sooner on the digital 
+bank’s dashboard. This now overpays Sara’s mortgage for her on a monthly basis. 
+Drawing on the additional datasets unlocked by open finance, the dashboard 
+continually analyses her spending and wider financial data to make sure 
+overpayments are affordable for Sara and within the parameters s he has set. 
+When Sara’s overall spending increases, the digital bank sends her a notification 
+suggesting she opts out of overpayments for a set period. There are also months 
+where Sara chooses not to overpay. In both instances, she is able to simply click a 
+button on the dashboard that switches off th is function.
+Case study 3: How open finance could work for investments
+Keiko has a current account with a retail bank, along with a savings account 
+with another bank. T o help her make her money work harder, Keiko signs up 
+with a fintech firm that offers an investment app authorised to give regulated 
+finan cial advice.
+Using data sharing enabled through open finance, Keiko is able to connect her 
+current account and her savings account to the fintech firm’s app. She also 
+connects data on her wider financial life, including her credit accounts and other 
+debts. This provides a much more accurate picture of Keiko’s financial data than is 
+currently possible under o pen banking.
+The app looks at this information to identify trends in Keiko’s income and day-
+to-day spending, and to conduct a suitability assessment. It uses this to suggest 
+which of the fintech firm’s investment products would be most suitable for Keiko, 
+and how much she could consider investing each month. 
+Once Keiko has chosen a specific investment product, the app provides an easy-
+to-use dashboard that shows her how her investments are  performing.
+Case study 4: How open finance could work for debt management
+Charlie is in a moderate amount of debt after struggling to pay back several short -
+term loans he took out when he was younger. He has been gradually paying off his 
+debt for 5 years and is trying to improve his low c redit score.
+Charlie signs up with a digital bank that offers customers with problem debt 
+detailed, real-time insights to help improve their financia l wellbeing.
+With a couple of clicks, Charlie connects his current account, his credit card and 
+loans, and his wider financial data with the digital bank’s app. Using enhanced data 
+sharing powered by open finance, the app turns Charlie’s complex financial data 
+into easy-to-understand insights, hints and tips. This helps Charlie understand 
+8
+Open finance: Our vision for a smart data future
+where he could be saving money to help pay off his debts more quickly and 
+improve his credit score. By drawing on wider data than is currently possible 
+under open banking, the app is more able to tailor its insights and suggestions to 
+Charlie’s lifestyle.
+The digital bank also helps Charlie to act on these insights quickly and simply 
+through the app. This includes helping him to identify and cancel subscriptions he’s 
+no longer using. The app also scans for the best current accounts that can offer 
+benefits for Charlie’s unique financial profile, and helps him to easily switch his 
+account once he’s ready. With these open finance features, Charlie is able to pay 
+off his remaining debt wi thin a year.
+Unlocking open finance and progress so far
+2.7 T o unlock open finance, we are exploring, with input and expertise from external 
+stakeholders:
+• How transformational could open  finance be?
+• What opportunities is open finance best placed to realise, to deliver real value for 
+consumers and t he economy? 
+• What are the priorit y use cases?
+• How can we communicate the benefits of open finance to consumers, businesses 
+and the financial serv ices sector?
+• How do we manage balancing risks while supporting  innovation?
+• Which of the outcomes that open finance can achieve are most impo rtant to us?
+• How can open finance enable us to be a smarter  regulator? 
+• What infrastructure will best support open finance and how will we optimise this 
+for success?
+2.8 There are also key barriers that will need to be overcome. Previous FCA research 
+has identified:
+• Consumer concerns around sharing financial data due to privacy risks and inertia 
+when it comes to switching to new products or services.
+• Business uncertainty about investing in open finance tools due to concerns over 
+costs, liability, compliance or fraud.
+• Fragmented regulatory oversight that may result in inconsistent rules which delay 
+the development and expansion of o pen finance.
+• Lack of a clear incentive structure for firms to actively participate in open finance and 
+imbalanced data access across th e ecosystem.
+• T echnical and operational barriers including latency and cost.
+• Systemic risks to network resilience. 
+• Lack of centralised investment in shared infrastructure that would support 
+interoperability, oversight and long-te rm adoption.
+9 
+Open finance: Our vision for a smart data future
+2.9 We are exploring how these barriers can be mitigated, so open finance realises the 
+benefits we want to see for consumers, businesse s and firms.
+2.10 We have also worked with industry, drawing on insights from the open finance sprint 
+we held in 2025, to identify priority use cases. We are prioritising exploring how open 
+finance can improve access to lending for SMEs. They play a vital role in supporting the 
+UK’s economic growth, and we recognise the importance of accessible SME finance.
+2.11 Open finance could also harness new technologies to change the way advice and sales 
+are delivered in the mortgage market. We will look to explore the opportunities for 
+improving access to mortgages and seek to collaborate with the Government’s smart 
+data scheme on reforming homebuying. 
+2.12 We are already seeing organisations take the first steps towards proactively developing 
+open finance products. Several firms are offering savings and investment management 
+apps that pull consumer data together into one place with easy-to-use interfaces. We 
+saw innovation progress in our most recent T echSprint, which ended in February 2026. 
+The T echSprint allowed firms to test their open finance products and services with 
+synthetic data to emulate real-world scenarios. Firms also explored proofs of concept 
+to help SMEs manage cashflow and to package consumer and SME data into portable, 
+reusable formats for mortgage and loan ap plications. 
+Leading the smart data revolution
+2.13 Open finance sits at the heart of the Government’s ambitions for smart data. Banking 
+and financial services occupy a central place in the Smart Data Strategy  and the Modern 
+Industrial Strategy , alongside other key sectors. This is further supported by the National 
+Payments Vision , which sets out the Government’s goal for the UK to be a world leader 
+in open finance. An important first step has been the introduction of the Data (Use 
+and Access) Act in 2025. This gives the Government powers to introduce smart data 
+schemes via sector -specific legislation.
+2.14 We want open finance to facilitate the growth of the wider smart data ecosystem by 
+linking into data from other sectors in the Government’s Smart Data Strategy . For 
+example, we have already committed to collaborating with industry and the energy 
+sector to explore how banking data can help assess whether people would benefit from 
+social tariffs for utilities. Research published by the Department for Business and T rade 
+suggests that smart data schemes across a number of core sectors – homebuying, 
+international trade, retail and energy – could contribute £9.6 billion annually to UK GDP 
+by 2043. Open finance will be a critical enabler for these schemes and would enhance 
+their impact. 
+2.15 We also want open finance to be an early example of the regulatory frameworks needed 
+to unlock data in the economy. The Payments Forward Plan  sets out the Government’s 
+intention for the open banking framework to lay the foundations for o pen finance.
+10
+Open finance: Our vision for a smart data future
+Changing the way we regulate
+2.16 We will design a safe regime that maximises benefits for consumers and firms and allows 
+us to be a smarter regulator. Secure open finance data will make it easier and cheaper for 
+the FCA and firms to monitor outcomes and identify issues earlier. This can support the 
+shift to outcomes-based regulation driven by data, allowing us to pursue more holistic 
+solutions acr oss markets.
+2.17 As firms innovate and new products emerge, we will also need to make sure that 
+rapid, cross-sector technological advances do not come at the expense of consumer 
+protection. This will require an adaptable, flexible regulatory approach, with expectations 
+that evolve as the market evolves. Over time, this may also reduce the regulatory burden 
+on firms by reducing the need for highly prescri ptive rules.
+11 
+Open finance: Our vision for a smart data future
+Chapter 3
+Vision 
+Our vision for open finance
+We’re building a smart data economy that works for everyone — giving people and 
+businesses control of their data, enabling safe, consent -based data sharing, and 
+unlocking innovation and competition. Open finance will drive smarter products 
+and services, business growth and UK leadership in financial  innovation.
+3.1 In the sub-sections below, we set out what we expect open finance can deliver, the 
+outcomes that will determine success, and what success looks like. While these are 
+indicative and may also be influenced by other factors, they will support us in assessing 
+our progress towards  the vision.
+A. Increased innovation and competition
+3.2 Broader access to customers’ information can lower barriers to entry by reducing 
+data advantages. This could enable new firms to enter and scale in financial markets. 
+It could also increase pricing pressure by reducing switching and search costs. These 
+factors could fuel innovation towards new or improved products and services with 
+greater choice, creating substantial benefits to businesses, consumers and the wider 
+market. Open banking points to the possibilities. In the UK, open banking has 145 active 
+third party providers  facilitating approximately 17 million active users . Overseas, open 
+banking through Pix has revolutionised payments in Brazil, becoming the predominant 
+payment method with over 155 million users. Open finance’s potential for innovation is 
+further enhanced where it ties with other smart da ta schemes. 
+3.3 With more accurate, complete and technologically accessible consumer data, firms 
+can realise substantial efficiency savings and offer consumers and businesses 
+tailored financial advice. Open finance’s benefits can be amplified by AI, to deliver 
+features such as automated fraud detection, back-office operations and personalised 
+customer service.
+3.4 Different parts of the open finance ecosystem will experience these competitive 
+pressures to differing degrees. We want to engage with industry, as set out in our 
+roadmap (on page 19), to further understand lik ely impacts.
+12
+Open finance: Our vision for a smart data future
+Outcomes Contributes to…
+Open finance enables greater 
+competition
+• Reduced market concentration and greater firm entry
+• Increased consumer switching rates, for example, in insurance
+• Improved price, fees and value across financial services
+Open finance enables more 
+innovation
+• The launch of new products and services, such as agentic 
+commerce
+• Increased investment in research and development
+Open finance leads to 
+enhanced efficiency for firms
+• Higher productivity within financial services
+• Reduced costs, frictions, and duplication
+B. Inclusive consumer and SME outcomes
+3.5 Through greater innovation and competition, open finance can offer significant 
+opportunities to deliver better value and choice. Emerging use cases such as faster 
+credit decisions using current account data, personalised investment offerings and real-
+time financial man agement can:
+• reduce the friction that consumers and bus inesses face
+• more accurately meet sp ecific needs
+• enable more effective financial decision-making at  lower costs
+3.6 We will engage with consumers and consumer groups to explore how open finance can 
+support the earlier identification of consumers with characteristics of vulnerability. For 
+example, borrowers in financial difficulty, people experiencing gambling issues or who 
+are digitally excluded. This will allow firms to proactively provide support, ensuring open 
+finance benefits all  consumers. 
+3.7 By drawing on emerging technology and wider consumer and business data, open 
+finance can also support and enhance better consumer outcomes. Open finance 
+products and services should meet consumer needs, offer fair value for money, support 
+consumer understanding to ensure informed decision-making and enable support from 
+firms to meet con sumer needs.
+3.8 Open finance may also offer new and innovative ways of reducing fraud and financial crime.
+Outcomes Contributes to…
+Open finance is widely used by 
+consumers and helps improve 
+their financial lives
+• High levels of adoption of open finance products
+• High satisfaction of open finance users
+• Improved financial outcomes of open finance users
+Open finance improves financial 
+inclusion for underserved or 
+excluded groups
+• Vulnerable consumers using open finance products to 
+gain access to financial products, such as affordable 
+credit
+Open finance reduces the rate 
+of fraud and financial crime
+• Lower relative fraud rates and money laundering at firms 
+using open finance technologies and products
+13 
+Open finance: Our vision for a smart data future
+C. Enhanced economic growth
+3.9 Open finance can support wider economic growth  by improving productivity, 
+competition, and international competitiveness. Speci fically, by:
+• Improving capital allocation  – more information could allow lenders to make better 
+decisions and more efficiently provide capital to businesses, for example, in SME 
+lending. This could raise investment across the broader economy and contribute to 
+productivity growth, the key driver of growth in th e long term.
+• Enabling consumers to make better financial decisions  – improved financial 
+decision-making, lower prices/fees, and better switching could support consumers’ 
+financial positions. Increased economic participation could also provide more capital 
+for UK investment.
+• Supporting risk allocation and mitigation  – data-enabled automation, analytics, 
+and better risk assessment could improve financial inclusion, more accurately price 
+risk and reduce fraud. This could support more effective risk taking by allowing risks 
+to be managed appropriately and protecting economic agents from shocks.
+• Increasing export opportunities  – exports of open finance technology and services 
+will contribute directly to growth. Improved productivity in financial services could 
+give an advantage to UK-based firms and attract increased foreign  investment.
+Outcomes Contributes to…
+Open finance generates  
+growth in the UK
+• Improved access to credit for consumers and SMEs
+• Increased participation and financial engagement
+• Higher exports of open finance technology
+• Inwards investment to open finance firms
+• Adoption of UK open finance standards internationally
+Our ambition is for open finance to offer opportunities to streamline data 
+sharing and improve efficiencies across a range of financial products and 
+services, including:
+• SME lending
+• mortgages
+• insurance
+• pensions
+• savings
+• investments
+• credit
+• debt management
+• account switching
+Open finance: Our vision for a smart data future
+14
+The FCA ’ s vision for open fi  nance
+We’re building a smart data economy that works for everyone – giving people and businesses control of 
+their data, enabling safe, consent-based data sharing, and unlocking innovation and competition. 
+Open fi  nance will drive smarter products and services, business growth and UK leadership in fi  nancial innovation.
+A Increased innovation 
+and competition
+Realising our vision for open finance 
+facilitates broader access to smart data. 
+This increases competitive pressures 
+on data holders and facilitates market 
+entry for new firms, fuelling innovation.
+More accurate, complete and technologically accessible consumer data, coupled with AI, facilitates:
+Firms improving efficiency 
+through enhanced back- 
+office processes and lower 
+costs to serve consumers, 
+increasing productivity
+New firms entering the 
+market as barriers to entry 
+related to customer data 
+are reduced
+Innovative new products 
+and processes entering 
+the market
+Increased opportunities 
+to switch between 
+products, enhancing 
+competitive pressures
+B Inclusive consumer 
+and SME outcomes
+Through driving greater innovation 
+and competition, open finance 
+offers significant opportunities 
+to deliver better value and choice 
+for consumers and businesses. 
+Enhanced competition and innovation offers significant opportunities to deliver better value and choice for consumers and businesses:
+Faster decisions and 
+improved efficiencies 
+deliver lower prices and 
+savings to consumers 
+and businesses
+Innovative new products 
+offer personalised and 
+specialised opportunities, 
+enhancing inclusion and 
+access to finance 
+Data-enabled automation, 
+analytics and decision-
+making identify and limit 
+fraud and financial crime
+Whole-life view of 
+consumers’ financial lives 
+enables better informed, 
+holistic decision-making, 
+improving financial 
+outcomes and 
+limiting mistakes
+C Enhanced economic 
+growth
+Improved productivity, competition 
+and international competitiveness 
+within financial services supports 
+growth in the wider economy.
+Better value for consumers and businesses drives growth in the real economy:
+Improved capital allocation 
+raises investment across 
+the broader economy and 
+contributes to productivity 
+growth, the key long-term 
+driver of economic growth 
+Better financial decision-
+making supports consumers’ 
+financial positions, 
+increasing participation to 
+provide more capital for UK 
+investment and allowing for 
+greater consumption
+Risk allocation and mitigation 
+is supported, allowing more 
+growth-enhancing decisions 
+such as funding businesses 
+and protection from 
+economic shocks
+Establishment as a world 
+leader opens opportunities 
+to export technology and 
+attract inwards investment, 
+contributing directly to 
+growth and improving 
+international competitiveness  
+15 
+Open finance: Our vision for a smart data future
+Chapter 4
+Collaborating with industry to develop 
+open finance
+4.1 Our research on the current state of open banking and the future of open finance  
+highlighted the importance of a roadmap to provide clarity to industry and allow 
+coordinated investment. So, we have set out a roadmap to 2030 (on page 19), outlining 
+the key activities needed to develop op en finance. 
+4.2 Our roadmap describes what we will deliver. It highlights the critical decisions that we, 
+working with external stakeholders, will need to take to develop open finance at scale. 
+Our roadmap also highlights where evidence and input from stakeholders will be vital 
+for shaping the long-term regulatory framework. Roadmap activities will leverage the 
+capabilities of our Innovation Hub  and our Smart Data Accelerator  to set up the next 
+phase of delivery, gather evidence and help unlock the benefits of o pen finance.
+4.3 Key activit ies include:
+• T echSprints, research and testing, initially in Q1 and Q4 2026, allowing us to 
+experiment, innovate and learn. Starting with our priority use cases, we will 
+demonstrate how open finance can be used as a tool to tackle challenges faced by 
+consumers, businesses and firms. We will support firms in developing innovative 
+solutions to these problems and explore the data and technology infrastructure 
+required to unlock new busin ess models. 
+• Engaging with external stakeholders to progress the delivery of open finance. 
+Activities such as a PolicySprint in Q2 2026 will help us build consensus on where 
+open finance can improve consumer journeys and outcomes, as well as identifying 
+what industry will need from a future framework to unlock access to key data sets. 
+T argeted engagement from Q2 2026, including through workshops and roundtables, 
+will help us better understand what industry-led progress could achieve, and where 
+a future regulatory framework will be needed to remove barriers and enable further 
+progress. Our engagement will also identify how to build confidence, for firms and 
+fintechs to invest in open finance, and for consumers and businesses to adopt open 
+finance products an d services. 
+• Seeking views on what we can do to ensure our regulations help to unlock the 
+benefits and promote the safe and responsible adoption of open finance. In Q4 
+2026, we will publish a discussion paper focused on the first open finance scheme. 
+We will then consider a long-term regulatory framework for open finance that 
+enables data sharing to deliver high-impact use cases. Our testing will show where 
+common frameworks, shared infrastructure and governance arrangements are 
+needed to unlock benefits at scale. We will work with the T reasury to consider 
+options for this regulatory framew ork in 2027.
+16
+Open finance: Our vision for a smart data future
+4.4 In line with our commitment to be a smarter regulator, we are taking an agile approach 
+to help open finance develop rapidly. Our vision sets out where we want to see open 
+finance go in future, and we will collaborate with stakeholders to help realise this. We will 
+develop a shortlist of future use cases and prioritise these according to impact. As we 
+deliver use cases, we will seek feedback from stakeholders through retrospectives and 
+other engagement, helping us to lea rn as we go.
+4.5 T o enable open finance to develop quickly, we have started to explore what progress 
+and innovation is possible today. We recently concluded T echSprints on SME lending and 
+mortgages as part of our Smart Data Accelerator, which was launched in September 
+2025 to advance open finance and smart data for consumers and businesses in the UK. 
+The T echSprints ran from November 2025 to February 2026, allowing participants to 
+use synthetic data to test how their open finance products and services could operate. 
+Participating firms pushed boundaries to address sector challenges with innovative 
+solutions such as AI-enhanced affordability assessment tools for mortgages, reusable 
+data packages for loan applications and AI-assisted business planning for SMEs, showing 
+strong commitment to making open financ e a reality.
+4.6 In parallel, we are working with stakeholders to identify and unlock further high-impact 
+use cases. We have launched an FCA-led taskforce to develop a Prioritisation and Real-
+world Insights Selection Matrix (PRISM) by Q3 2026, identifying the impacts of use cases 
+on consumer outcomes, competition, growth and innovation. This brings together the 
+expertise of industry, consumer groups, academia and technical experts to help shape 
+an open finance ecosystem that delivers measurabl e benefits. 
+4.7 We are also drawing on lessons learned from the roll out of open banking. We previously 
+worked with industry to enable the expansion of open banking services, which now have 
+approximately 17 million active users , representing nearly 1 in 3 adults in the UK. We 
+have also supported industry to make progress towards the roll out of a commercial 
+variable recurring payment scheme on an industry-led, voluntary basis. And to set up 
+a scheme operator, the UK Payments Initiative , which brings together 31 firms from 
+across the ecosystem. We are now exploring how the development of open finance can 
+benefit from similar approaches and where it may need to  go further.
+4.8 We are exploring how to strengthen authentication, consent, and trust across open 
+finance, and how this can be underpinned by a robust, interoperable infrastructure. 
+This includes our recently announced technology and infrastructure research to 
+explore infrastructure and architecture models, assessing aspects such as emerging 
+technologies, impact and governance. We will test the findings with industry and other 
+stakeholders and use this to guide our decision-making on the long-term evolution of 
+open financ e in the UK.
+4.9 Alongside regulatory design, we want industry to come together to explore which 
+aspects of open finance can be delivered without additional regulation. We will work 
+with industry to carry out further testing and experimentation, supported by synthetic 
+data and our Digital Sandbox  – this will help to highlight potential barriers and misaligned 
+incentives between different participants. It will also help us understand where 
+regulatory intervention may be needed to achieve further benefits and to enable open 
+finance to reach its ful l potential.
+17 
+Open finance: Our vision for a smart data future
+4.10 We are collaborating with the Digital Regulation Cooperation Forum  on the Consumer 
+Duty and its interactions with data protection, supporting the development of open 
+finance data sharing. We also continue to support industry-led initiatives to use smart 
+data to address challenges faced by consumers and businesses. For example, the 
+Centre for Finance, Innovation and T echnology’s previous open finance coalition and 
+current SME Access to Credit  coalition . 
+4.11 We will continue to collaborate with other jurisdictions and international stakeholders to 
+explore cross-border data portability and open finance. We are part of Project Aperta , 
+a Bank for International Settlements Innovation Hub Hong Kong project aimed at 
+reducing frictions and costs in global finance. Initial use cases include SME bank account 
+opening and cross-border trade finance. Streamlining these processes in a secure and 
+technology-forward way has potentially transformative opportunities for businesses 
+and cross-border finance. We look forward to testing these use cases with our Project 
+Aperta partners and pushing the boundaries of what is possible in cross-border 
+data sharing.
+18
+Open finance: Our vision for a smart data future
+Chapter 5
+Next steps
+5.1 Over the coming months, we will assess the impact of this paper on the wider 
+ecosystem. We will also keep our planned activities, as set out in our roadmap, 
+under review. 
+5.2 Please email OpenFinanceRoadmap@fca.org.uk  if you wish to discuss  this paper.
+Open finance: Our vision for a smart data future
+19
+Chapter 6
+Open finance roadmap
+2026: Collaboration to prioritise what open fi  nance should deliver 2027: Design and coordination 2028 – 2030: Scaling upQ1 Q2 Q3 Q4 H1 H2
+We will gather 
+evidence 
+through 
+experimentation 
+via T echSprints 
+with external 
+stakeholders
+Further 
+T echSprints with 
+industry and 
+consumer groups
+We will work 
+with external 
+stakeholders to 
+test proposed 
+scheme 
+frameworks 
+and underlying 
+policies through 
+PolicySprints
+We will convene 
+external 
+stakeholders 
+to identify the 
+impact of future 
+use cases
+We will engage 
+with external 
+stakeholders 
+to explore 
+what an open 
+fi  nance scheme 
+and underlying 
+framework 
+could look like
+Engagement with industry, 
+consumer groups and regulators 
+to scope a framework for 
+the first scheme
+Discussion paper on 
+delivering a long-term 
+regulatory framework 
+Working 
+with the 
+T reasury on 
+options for 
+a regulatory 
+framework 
+Engagement with 
+industry, consumer 
+groups and regulators 
+to scope a long-term 
+regulatory framework
+PRISM taskforce 
+with industry, 
+consumer groups, 
+academia and 
+technical experts
+PRISM 
+taskforce 
+report
+Mortgages PolicySprint 
+with industry, 
+consumer groups 
+and regulators
+PolicySprint 
+outcomes 
+report
+SME Lending 
+and Mortgages 
+T echSprints with 
+industry and 
+consumer groups
+T echSprints 
+outcomes 
+report
+Further 
+T echSprints with 
+industry and 
+consumer groups 
+T echSprints 
+outcomes 
+report
+Research on architecture and 
+technology infrastructure
+T esting of architecture 
+and technology 
+infrastructure models
+Future open finance 
+schemes will be developed 
+and launched in line with 
+the cycle below:
+Identify and agree 
+next use case
+Develop scheme 
+framework
+T est framework 
+and policies
+Consult and 
+refine
+Launch 
+scheme
+Further 
+PolicySprints 
+with industry, 
+consumer groups 
+and regulators for 
+next use case
+Discussion paper 
+on delivering a 
+framework for the 
+first scheme
+© Financial Conduct Au thority 2026
+12 Endeavour Square Lo ndon E20 1JN  
+T elephone: +44 (0)20 7066 1000
+Website: ww w.fca.org.uk
+All rig hts reserved
+Pub ref: D4653
+All our publications are available to download from www.fca.org.uk .
+Request an alternative format 
+Please complete this form if you require this content in an alterna tive format .
+Or call 0207 066 1000
+Sign up for our news and publications alerts
