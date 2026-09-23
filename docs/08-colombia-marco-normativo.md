@@ -296,6 +296,12 @@ cumpliendo el Título 8 y el **Capítulo IX del Título I de la Parte I de la Ci
   3. Definir los **indicadores** del art. 2.35.8.7.2: **máximo 12 meses** → **10-abr-2027**.
 - **Art. 5** — vigencia y derogatorias.
 
+> ⚠️ **NO VIGENTE — desde el 22-sep-2026** hay un **proyecto de decreto** de la URF (comentarios
+> hasta el 27-sep-2026) que propone modificar este mismo art. 4: llevar el plazo del
+> cronograma a 12 meses, y el del directorio/indicadores a 18 meses. Análisis completo,
+> justificación y discrepancia de fechas (7-oct vs. 10-oct) en
+> [`09-colombia-cronograma-y-analisis.md`](09-colombia-cronograma-y-analisis.md), sección 7.
+
 ## 4. Decreto 0977 de 2026 — portabilidad financiera
 
 | Dato | Valor |
@@ -367,6 +373,10 @@ finanzas abiertas** (arts. 2.35.8.4.1 y 2.35.8.4.2).
 - **Art. 6 (transición):** la SFC publica los estándares del certificado y define la
   información a reportar en **máximo 24 meses** desde la vigencia del decreto
   (≈ **5 de agosto de 2028**).
+
+> ⚠️ **NO VIGENTE — desde el 22-sep-2026** el mismo proyecto de decreto de la URF (nota
+> arriba) propone ampliar este art. 6 de 24 a 30 meses (nuevo tope ≈ **4-feb-2029**). Ver
+> [`09`](09-colombia-cronograma-y-analisis.md), sección 7.3.
 
 ## 5. Circulares de la SFC
 

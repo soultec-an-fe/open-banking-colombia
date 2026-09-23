@@ -1,8 +1,9 @@
 # 99 · Fuentes
 
-**Fecha de corte: 10 de septiembre de 2026**
+**Fecha de corte: 23 de septiembre de 2026**
 
-Todas las URLs fueron consultadas el 10 de septiembre de 2026.
+Todas las URLs fueron consultadas el 10 de septiembre de 2026, salvo las marcadas
+**(23-sep-2026)** en la sección de proyectos en consulta, consultadas en esa fecha.
 
 ---
 
@@ -37,6 +38,8 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026.
 | **Proyecto de Circular Externa 10 de 2026** — nuevo Capítulo IX de la CBJ (radicado 2026164106) | https://www.superfinanciera.gov.co/publicaciones/10116197/proyecto-de-circular-externa-10-2026/ |
 | Proyecto de Circular Externa 01 de 2026 | https://www.superfinanciera.gov.co/publicaciones/10116002/proyecto-de-circular-externa-01-2026/ |
 | Proyectos de normatividad (índice SFC) | https://www.superfinanciera.gov.co/publicaciones/10088440/normativaproyectos-de-normatividad-10088440/ |
+| **(23-sep-2026) Proyecto de decreto — "Ajustes en los plazos de implementación del sistema de finanzas abiertas obligatorio"** (índice URF, comentarios 22 al 27-sep-2026) | https://www.urf.gov.co/normatividad/proyectos-de-decreto/2026 |
+| **(23-sep-2026) Documento Técnico del proyecto de decreto de ampliación de plazos** (URF, sep-2026, 22 p. — guardado en `fuentes-primarias/urf-documento-tecnico-ajuste-plazos-2026.pdf`) | https://www.urf.gov.co/documents/283253/3555757/003_Documento_Tecnico.pdf |
 
 ## Colombia — comunicados y documentación técnica oficial
 
@@ -61,6 +64,7 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026.
 | Pérez-Llorca — "Régimen de transición: Circular Externa 001 de 2026" | https://www.perezllorca.com/es-co/actualidad/boletin/regimen-de-transicion-a-modelo-de-finanzas-abiertas-circular-externa-001-de-2026-de-la-superfinanciera-de-colombia/ |
 | Brigard Urrutia — "Colombia Establishes Financial Portability Framework for Credit" | https://www.bu.com.co/en/insights/noticias/colombia-establishes-financial-portability-framework-credit |
 | AFIC — "Decreto 0977 de 2026: claves del nuevo esquema de portabilidad financiera" | https://afic.com.co/decreto-0977-de-2026-claves-del-nuevo-esquema-de-portabilidad-financiera-en-colombia/ |
+| **(23-sep-2026)** Valora Analitik — "Gobierno De La Espriella propone ampliar plazos para implementar finanzas abiertas en Colombia" (22-sep-2026) | https://www.valoraanalitik.com/gobierno-plazos-finanzas-abiertas-colombia/ |
 
 ## Reino Unido
 
@@ -140,6 +144,10 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026.
   de forma contradictoria.
 - El **Documento Técnico de la URF** (diciembre de 2024) se leyó completo para reconstruir
   qué proponía el proyecto original y qué se eliminó en el decreto final.
+- El **Documento Técnico de la URF sobre ampliación de plazos** (septiembre de 2026,
+  22 páginas) se leyó completo — no por resumen de prensa — para sustentar la sección 7 de
+  `docs/09`, incluida la tabla de ajuste de plazos y la discrepancia de fechas 7-oct vs.
+  10-oct detectada al cruzarlo con el art. 5 del D-0368/2026.
 - El **cronograma de estandarización** y el **nuevo Capítulo IX** se extrajeron de los
   documentos Word publicados por la SFC en sus páginas de proyectos de normatividad.
 - Los análisis de firmas de abogados se usaron como contraste, no como fuente única.

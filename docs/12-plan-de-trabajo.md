@@ -1,15 +1,15 @@
 # 12 · Plan de trabajo
 
-**Fecha de corte: 10 de septiembre de 2026**
+**Fecha de corte: 23 de septiembre de 2026**
 
 ---
 
-## 1. Lo urgente: 5 días
+## 1. Lo urgente: 4 días
 
 | # | Acción | Vence | Responsable |
 |---|---|---|---|
-| 1 | Decidir si se radican comentarios al **proyecto de cronograma** de la SFC | **15-sep-2026, 5:00 p.m.** | — |
-| 2 | ✅ **Matriz redactada** — [`entregables/matriz-comentarios-cronograma-finanzas-abiertas.docx`](../entregables/matriz-comentarios-cronograma-finanzas-abiertas.docx). Falta **completar identificación del remitente** y enviarla a `finanzasabiertas@superfinanciera.gov.co` | **15-sep-2026** | — |
+| 1 | Decidir si se radican comentarios al **proyecto de decreto de ampliación de plazos** (art. 4 D-0368 / art. 6 D-0977 — 6 meses más para cronograma, Directorio, indicadores y portabilidad) | **27-sep-2026, 11:59 p.m.** | — |
+| 2 | Comentarios al **proyecto de cronograma** de la SFC — ventana **cerrada** (15-sep-2026). Pendiente confirmar si se radicó la matriz [`entregables/matriz-comentarios-cronograma-finanzas-abiertas.docx`](../entregables/matriz-comentarios-cronograma-finanzas-abiertas.docx) | 15-sep-2026 (cerrado) | — |
 
 Los seis comentarios técnicamente fundamentados ya están redactados en
 [`09-colombia-cronograma-y-analisis.md`](09-colombia-cronograma-y-analisis.md), sección 5.

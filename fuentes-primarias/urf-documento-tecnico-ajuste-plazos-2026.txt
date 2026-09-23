@@ -1,0 +1,949 @@
+--- PAGINA 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ajustes en los plazos de 
+implementación del sistema 
+de finanzas abiertas 
+obligatorio 
+Unidad de Proyección 
+Normativa y Estudios 
+de Regulación 
+Financiera - URF  
+ 
+Subdirección de 
+desarrollo de mercados 
+(SDM) 
+ 
+Bogotá – Colombia 
+Septiembre 2026 
+Diana Carolina Mesa 
+Téllez 
+Subdirectora (E) 
+ 
+Felipe Antonio Londoño 
+Niño 
+Asesor 
+ 
+Daniel José Taboada 
+López 
+Asesor 
+Palabras Clave:  
+ 
+Implementación 
+ 
+Cronograma de 
+estandarización 
+ 
+ 
+Directorio 
+ 
+ 
+Certificado de portabilidad 
+Documento técnico 
+
+--- PAGINA 2 ---
+2 
+Resumen 
+ 
+Este documento técnico sustenta las propuestas consignadas en el proyecto 
+de decreto “Por medio del cual se modifican los plazos previstos en el 
+artículo 4 del Decreto 368 de 2026 y en el artículo 6 del Decreto 977 de 
+2026, en lo relacionado con la implementación del Sistema de Finanzas 
+Abiertas y del esquema de portabilidad financiera”, el cual se publica a 
+comentarios del público. 
+El Decreto 368 de 2026 estableció un modelo obligatorio de finanzas 
+abiertas y asignó a la Superintendencia Financiera de Colombia (SFC) 
+plazos de seis (6) para expedir el cronograma de estandarización, y doce 
+(12) meses poner en funcionamiento el Directorio de Participantes y definir 
+los indicadores de seguimiento del sistema. A su vez, el Decreto 977 de 
+2026 otorgó a la SFC un plazo de veinticuatro (24) meses para publicar los 
+estándares e información de reporte del esquema de portabilidad 
+financiera, en cuanto caso de uso integrado al sistema. 
+A partir de la solicitud formulada por la SFC y de la evidencia recabada 
+durante el proceso de construcción de las instrucciones por parte de dicha 
+Superintendencia en el que se realizaron siete mesas técnicas con 157 
+entidades, y se recibieron 651 observaciones al Proyecto de Circular 
+Externa 010 de 2026 «Mediante la cual se imparten instrucciones para 
+actualizar las reglas del sistema de finanzas abiertas en atención a la 
+expedición del Decreto 368 de 2026»; adicional a la consulta pública en la 
+que se encuentra actualmente el proyecto de carta circular de cronograma 
+de estandarización; el proyecto de decreto propone una ampliación 
+diferenciada de seis (6) meses adicionales para cada uno de estos plazos 
+señalados anteriormente. La propuesta no persigue postergar la 
+implementación del sistema, sino permitir que sus componentes se definan 
+de manera coordinada, gradual y técnicamente viable, reduciendo el riesgo 
+de reprocesos regulatorios y tecnológicos, y de cargas de adecuación 
+innecesarias para los participantes, en línea con las lecciones derivadas de 
+las experiencias del Reino Unido, Brasil y Chile. 
+ 
+ 
+
+--- PAGINA 3 ---
+3 
+Tabla de contenido 
+Resumen ....................................................................................... 2 
+Introducción .................................................................................. 4 
+1. Marco normativo y plazos vigentes .................................................. 5 
+2. Estado de avance en la expedición de instrucciones por la SFC ........... 7 
+3. Interdependencia entre los instrumentos ......................................... 9 
+4. Justificación de la ampliación por instrumento ................................ 10 
+5. Experiencia internacional ............................................................. 16 
+6. Propuesta de ajuste de plazos ...................................................... 18 
+7. Consideraciones sobre el impacto de la medida .............................. 19 
+Bibliografía .................................................................................. 21 
+ 
+ 
+ 
+
+--- PAGINA 4 ---
+4 
+Introducción 
+El artículo 89 de la Ley 2294 de 2023 habilitó al Gobierno nacional para 
+establecer un sistema de finanzas abiertas de carácter obligatorio. En 
+desarrollo de dicha facultad, el Decreto 368 de 2026, “Por medio del cual 
+se modifica el Decreto 2555 de 2010 en lo relacionado con el Sistema de 
+Finanzas Abiertas”, sustituyó el esquema voluntario previsto en el Decreto 
+1297 de 2022 por un modelo obligatorio, con una arquitectura 
+sustancialmente más completa en materia de gobernanza, participantes, 
+estándares de intercambio de información, Directorio de Participantes y 
+seguimiento del sistema. 
+Con posterioridad, el Decreto 977 de 2026, “Por medio del cual se modifica 
+el Decreto 2555 de 2010 en lo relacionado con el esquema de portabilidad 
+financiera” en ejercicio de la facultad del Artículo 94 de la Ley 2294 de 
+2023, reguló la portabilidad financiera como un caso de uso integrado al 
+sistema de finanzas abiertas y estableció un régimen de transición para la 
+expedición de los estándares e información de reporte correspondientes. 
+Ambos decretos otorgaron a la Superintendencia Financiera de Colombia 
+(en adelante «SFC») funciones de instrucción y de naturaleza de instrucción 
+y operativa sujetas a plazos perentorios. Transcurridos los primeros meses 
+de ejecución de dichos mandatos, la SFC remitió a la Unidad de Proyección 
+Normativa y Estudios de Regulación Financiera (en adelante «URF») 
+mediante comunicación oficial un documento en el que expone las razones 
+técnicas, operativas, coyunturales y regulatorias que hacen necesario 
+ajustar los plazos vigentes. 
+Lo anterior, sin perder de vista que el sistema de finanzas abiertas 
+constituye una de las apuestas de política pública más relevantes para 
+profundizar la inclusión financiera del país, entendiendo esta como el 
+acceso, así como el uso de productos y servicios financieros tanto de 
+ahorro, crédito, inversión, cubrimiento, etc.  
+Al habilitar que, previa instrucción y consentimiento del titular, las 
+entidades compartan la información de sus productos y su historial 
+transaccional, el sistema de finanzas abiertas permite a las entidades 
+ofrecer productos mejor ajustados al perfil de cada persona y ampliar el 
+acceso a crédito, ahorro, seguros, inversiones y pagos de segmentos 
+históricamente 
+excluidos 
+o 
+subatendidos, 
+convirtiéndose 
+en 
+una 
+herramienta para la rebancarización de la población y para el cierre de 
+brechas de acceso. Asimismo, al estandarizar el intercambio seguro de 
+información a través de interfaces de programación de aplicaciones, el 
+
+--- PAGINA 5 ---
+5 
+sistema impulsa la digitalización de la economía y sienta las bases de un 
+ecosistema de datos abiertos que trasciende al sector financiero.  
+Son estos factores, y su potencial transformador, que la implementación y 
+puesta en operación del sistema de finanzas abiertas debe edificarse sobre 
+cimientos técnicos sólidos, pues un despliegue apresurado o fragmentado 
+comprometería la confianza y la seguridad de la información, condiciones 
+sin las cuales los beneficios señalados no se materializan de manera 
+sostenible. 
+El presente documento técnico recoge y analiza dicha solicitud, 
+contextualiza el estado de avance en la construcción de instrucciones por 
+parte de la SFC, describe la interdependencia entre los instrumentos 
+previstos en el artículo 4 del Decreto 368 de 2026 y en el artículo 6 del 
+Decreto 977 de 2026, examina la experiencia internacional comparable y 
+presenta la propuesta de ajuste de plazos que se somete a consideración 
+del público. Por lo anterior, el documento se estructura en siete secciones 
+adicionales a la actual: i) marco normativo y plazos vigentes; ii) estado de 
+avance en la expedición de instrucciones por la SFC; iii) interdependencia 
+entre los instrumentos regulatorios; iv) justificación de la ampliación por 
+instrumento; v) experiencia internacional; vi) propuesta de ajuste de 
+plazos; y, vii) consideraciones sobre el impacto de la medida. 
+1. Marco normativo y plazos vigentes 
+El artículo 4 del Decreto 368 de 2026 estableció un régimen de transición 
+que fijó los siguientes plazos a cargo de la SFC, contados a partir de la 
+entrada en vigencia del decreto: 
+• Seis (6) meses para publicar el cronograma de expedición de los 
+estándares de intercambio de información del sistema, plazo que 
+vence el 7 de octubre de 2026. 
+• Doce (12) meses para poner en funcionamiento el Directorio de 
+Participantes y establecer los lineamientos, requisitos y documentos 
+necesarios para su operación, plazo que vence el 7 de abril de 2027. 
+• Doce (12) meses para definir los indicadores de seguimiento a la 
+implementación y desarrollo del sistema, plazo que vence el 7 de 
+abril de 2027. 
+Por su parte, el artículo 6 del Decreto 977 de 2026 estableció un plazo 
+máximo de veinticuatro (24) meses, los cuales vencen el 4 de agosto de 
+2028, para que la SFC publique los estándares y defina la información 
+objeto de reporte necesaria para la implementación del esquema de 
+portabilidad financiera. Dado que éste último constituye un caso de uso 
+
+--- PAGINA 6 ---
+6 
+integrado al sistema de finanzas abiertas, su desarrollo debe guardar 
+consistencia con los estándares generales de intercambio de información y 
+con los demás componentes regulatorios, técnicos y operativos del sistema. 
+Cabe destacar que el propio artículo 4 del Decreto 368 de 2026 dispone 
+que el cronograma debe considerar las necesidades de supervisión, las 
+capacidades institucionales, las necesidades del sistema de finanzas 
+abiertas y la capacidad instalada de las entidades vigiladas. Esta previsión 
+reconoce que la implementación del sistema es un proceso gradual cuya 
+secuencia debe responder a las condiciones de preparación del ecosistema. 
+La solicitud de ampliación es, por tanto, coherente con la lógica del régimen 
+de transición diseñado por el propio decreto. 
+1.1. La graduación de la obligatoriedad como principio de diseño del 
+sistema 
+Para dimensionar la solicitud de ampliación de plazos resulta necesario 
+recordar que el sistema de finanzas abiertas obligatorio no fue concebido 
+como una obligación de exigibilidad inmediata y uniforme, sino como un 
+esquema de implementación gradual, cuya entrada en operación se 
+acompasa con la expedición de los estándares y con la madurez tecnológica 
+del ecosistema. Esta gradualidad es un elemento de diseño del propio 
+modelo y constituye el marco dentro del cual se inscribe el ajuste de plazos 
+que se propone. 
+El Decreto 368 de 2026 previó que las obligaciones de los proveedores de 
+datos se tornan exigibles en la medida en que la SFC expide el estándar 
+requerido para la circulación de cada categoría de información y caso de 
+uso, y otorgó a las entidades una ventana de adecuación para habilitar el 
+acceso una vez expedido el estándar correspondiente. El mismo artículo 4 
+del decreto ordena que el cronograma considere las necesidades de 
+supervisión, las capacidades institucionales, las necesidades del sistema y 
+la capacidad instalada de las entidades vigiladas, lo que confirma que la 
+secuencia de exigibilidad debe responder a las condiciones de preparación 
+del ecosistema. 
+Esta aproximación es consistente con la evidencia internacional y con el 
+diagnóstico nacional. Los estudios del Banco Mundial (2024) y del Centro 
+de Finanzas Alternativas de la Universidad de Cambridge (CCAF, 2024) 
+señalan que la consolidación de un esquema de finanzas abiertas toma, en 
+promedio, alrededor de tres años desde su concepción normativa.  
+ 
+
+--- PAGINA 7 ---
+7 
+Gráfica 1. Tiempo de implementación de los esquemas de finanzas 
+abiertas desde su incorporación en el marco normativo. 
+ 
+Fuente: CCAF (2024) 
+En Colombia, el Innovarómetro de la SFC (2024) evidenció que solo el 19% 
+de las entidades financieras tradicionales participaba en ecosistemas o 
+alianzas con terceros instrumentadas a través de API, y apenas el 8 % 
+contaba con una plataforma de API abiertas para cualquier tercero, lo que 
+da cuenta de brechas de madurez que el propio régimen de transición buscó 
+reconocer. 
+En consecuencia, la ampliación diferenciada de plazos que propone este 
+documento no altera la gradualidad del sistema, la desarrolla. Ajustar los 
+términos a cargo de la SFC para la expedición de las instrucciones 
+relacionadas con el sistema de finanzas abiertas; en particular de: 
+Cronograma, Directorio de Participantes, Indicadores de seguimiento y 
+Estándares de portabilidad financiera, permite que la exigibilidad de las 
+obligaciones siga anclada, como lo previó el diseño original, a la existencia 
+de estándares consolidados y a la capacidad efectiva de los participantes 
+para cumplirlos, evitando anticipar cargas sobre un ecosistema que aún se 
+encuentra habilitando su infraestructura. 
+2. Estado de avance en la expedición de instrucciones 
+por la SFC 
+Desde la entrada en vigencia del Decreto 368 de 2026 la SFC ha 
+adelantado, de manera simultánea, tres frentes de trabajo: i) la 
+actualización de la Circular Externa 004 de 2024 en materia de finanzas 
+abiertas; ii) el ejercicio de diagnóstico y priorización para la construcción 
+del cronograma de estandarización; y iii) la elaboración del proyecto de 
+carta circular que contiene dicho cronograma publicado a comentarios el 
+
+--- PAGINA 8 ---
+8 
+31 de agosto de 2026. La evidencia obtenida en estos tres frentes 
+constituye el principal insumo de la presente propuesta. 
+2.1. Proyecto de Circular Externa 010 de 2026 
+La SFC construyó un proyecto de circular externa orientado a alinear las 
+disposiciones del Capítulo IX del Título I de la Parte I de la Circular Básica 
+Jurídica con el fin de actualizar las reglas del sistema de finanzas abiertas 
+de acuerdo a lo previsto en el Decreto 368 de 2026, así como a actualizar 
+los estándares tecnológicos, de seguridad y de infraestructura atendiendo 
+al nuevo modelo obligatorio y al funcionamiento del Directorio de 
+Participantes. El proyecto fue publicado a comentarios del público entre el 
+24 de julio y el 10 de agosto de 2026, registrándose la participación de 46 
+actores y la recepción de 651 observaciones remitidas por entidades 
+vigiladas, gremios del sector financiero, proveedores tecnológicos y otros 
+actores del ecosistema. 
+La SFC informó que el proceso de consulta pública permitió identificar 
+elementos regulatorios, técnicos y operativos que no pueden ser 
+adecuadamente definidos sin considerar sus interdependencias con los 
+demás componentes del sistema. En particular, los comentarios 
+evidenciaron la necesidad de profundizar el análisis de las siguientes 
+materias: 
+• Los estándares técnicos, de arquitectura y de seguridad aplicables al 
+intercambio de información, que concentraron el mayor número de 
+observaciones recibidas. 
+• Los requisitos para la vinculación de Terceros Receptores de Datos 
+No Vigilados y las causales de rechazo, suspensión o terminación de 
+dicha vinculación. 
+• El tratamiento de datos personales y la calidad de la información 
+objeto de circulación. 
+• La expedición de estándares para el correcto desarrollo del flujo de 
+consentimiento en el marco de la prestación de servicios asociados a 
+finanzas abiertas. 
+• La secuencia y el alcance de la estandarización por tipo de 
+información y caso de uso. 
+• El régimen de transición y los planes de adecuación aplicables a los 
+esquemas de finanzas abiertas ya implementados bajo la Circular 
+Externa 004 de 2024. 
+• El alcance funcional, la gobernanza y la interoperabilidad técnica del 
+Directorio de Participantes. 
+
+--- PAGINA 9 ---
+9 
+2.2. Mesas técnicas y ejercicio de diagnóstico y priorización 
+Para la elaboración del cronograma de estandarización, la SFC adelantó 
+múltiples mesas de trabajo con entidades vigiladas, actores no vigilados y 
+firmas de abogados, con el propósito de conocer las capacidades, 
+expectativas y oportunidades del mercado para adoptar los estándares de 
+intercambio de información. Específicamente, durante junio y julio de 2026 
+se realizaron siete (7) mesas técnicas en las que participaron 
+representantes de 157 entidades, en las cuales se recolectó información 
+sobre la madurez tecnológica de los participantes y se identificaron las 
+principales capacidades, brechas, barreras, riesgos y dependencias de 
+naturaleza tecnológica, operativa, organizacional y de gobierno de la 
+información frente a la implementación del sistema. Asimismo, se realizó 
+un ejercicio de priorización de los tipos de información y casos de uso en 
+atención a su impacto sobre los objetivos del sistema. 
+2.3. Proyecto de carta circular de cronograma de estandarización 
+Con base en los resultados de los ejercicios señalados anteriormente, y en 
+cumplimiento del plazo para expedición del cronograma de estandarización 
+previsto en el artículo 4 del Decreto 368 de 2026, la SFC estructuró el 
+proyecto de carta circular“Cronograma para la expedición de estándares 
+de intercambio de información en el sistema de finanzas abiertas”, en el 
+que se propusieron los plazos máximos para la expedición de los estándares 
+por tipo de información y caso de uso. El proyecto fue publicado para 
+comentarios entre el 31 de agosto y el 15 de septiembre de 2026, frente a 
+lo que la SFC informa que varias entidades solicitaron la ampliación del 
+plazo de comentarios. 
+En consecuencia, la SFC manifiesta que requiere tiempo adicional para 
+evaluar, analizar y validar los comentarios recibidos e incorporar, cuando 
+corresponda, los ajustes al proyecto de carta circular. Esta necesidad es 
+especialmente relevante porque la expedición de los estándares por tipo de 
+información y caso de uso determinará la exigibilidad material de las 
+obligaciones asociadas a la implementación del sistema de finanzas 
+abiertas, entre ellas la puesta en funcionamiento de los estándares de 
+infraestructura para el intercambio de información y la inscripción en el 
+Directorio de Participantes. 
+3. Interdependencia entre los instrumentos 
+Los instrumentos previstos en el artículo 4 del Decreto 368 de 2026, a 
+saber: el cronograma de implementación, la definición de indicadores y las 
+condiciones para el directorio de participantes del sistema de finanzas 
+
+--- PAGINA 10 ---
+10 
+abiertas, no constituyen piezas regulatorias independientes, sino elementos 
+interrelacionados cuya definición debe ser coherente. El cronograma 
+establece las prioridades y la secuencia de desarrollo de los estándares; 
+estos, a su vez, determinan las condiciones técnicas bajo las cuales los 
+participantes podrán operar e interoperar en el sistema, lo que incide 
+directamente en los requisitos y funcionalidades del Directorio de 
+Participantes. 
+Finalmente, 
+la 
+información 
+generada 
+durante 
+la 
+implementación y operación del sistema es la que permite definir y ajustar 
+los indicadores de seguimiento. Esta lógica secuencial hace inconveniente 
+definir los instrumentos de manera aislada, pues cada uno depende de 
+decisiones que se adopten respecto de los otros. 
+Los comentarios recibidos por la SFC en el proceso de consulta confirman 
+esta interdependencia desde la perspectiva de la industria. Diversos 
+participantes señalaron que la exigibilidad de los estándares de 
+infraestructura se condiciona a la expedición de los estándares por 
+categoría de información, sin que exista claridad sobre el momento en que 
+las entidades obligadas deben tener operativa su infraestructura. 
+Igualmente, indicaron que la obligación de inscripción en el Directorio aún 
+está pendiente de desarrollo, lo que genera incertidumbre sobre su 
+articulación con la exigibilidad material de las demás obligaciones. Como 
+resultado, varias entidades manifestaron que no pueden dimensionar 
+adecuadamente su inversión en arquitectura tecnológica ni su asignación 
+presupuestal, al no contar con una visión completa de los requisitos 
+necesarios para la implementación. 
+Las mismas consideraciones son aplicables a los estándares de portabilidad 
+financiera. Dado que estos se integran a la arquitectura general del 
+sistema, su desarrollo se encuentra sujeto a las mismas interdependencias 
+regulatorias, técnicas y operativas identificadas. Avanzar en este caso de 
+uso bajo parámetros o cronogramas que posteriormente deban modificarse 
+para garantizar su consistencia con la arquitectura integral del sistema 
+generaría reprocesos y cargas innecesarias tanto para la SFC como para 
+los participantes. Por ello, se considera necesario revisar y ampliar de 
+manera articulada el plazo previsto en el artículo 6 del Decreto 977 de 
+2026. 
+4. Justificación de la ampliación por instrumento 
+4.1. Cronograma de expedición de estándares 
+El cronograma es el instrumento de menor complejidad relativa, pero 
+también el instrumento que ordena la secuencia de todos los demás. La 
+
+--- PAGINA 11 ---
+11 
+SFC ya cuenta con un proyecto de carta circular sometido a consulta 
+pública; sin embargo, la definición final del cronograma exige incorporar 
+los resultados de dicha socialización, así como los insumos de las mesas 
+técnicas sobre la preparación del ecosistema. Una expedición prematura 
+del cronograma podría dar lugar a modificaciones posteriores, duplicidad 
+de esfuerzos, incompatibilidades entre estándares y cargas de adecuación 
+innecesarias para las entidades vigiladas. 
+Así, en su calidad de entidad responsable de la gobernanza del sistema, la 
+SFC debe contar con un plazo razonable para adecuar sus procesos 
+internos, consolidar equipos especializados en aspectos regulatorios, 
+tecnológicos, operativos y de supervisión, e implementar un entorno de 
+pruebas (sandbox) que permita diseñar, validar y ajustar los estándares, 
+especificaciones e insumos técnicos requeridos para el funcionamiento del 
+ecosistema y verificar su correcta adopción por parte de los participantes. 
+4.2. Instrucciones en materia de tratamiento de datos personales y 
+coordinación con la SIC 
+Durante las mesas de trabajo y la consulta del Proyecto de Circular Externa 
+010 de 2026, las entidades vigiladas y los actores no vigilados manifestaron 
+a la SFC la necesidad de contar con disposiciones adicionales sobre: i) los 
+elementos mínimos de la autorización de tratamiento de datos personales; 
+ii) el flujo de la autorización entre el Tercero Receptor de Datos y el 
+Proveedor de Datos, incluidos los mecanismos de autenticación y 
+confirmación; iii) la implementación de gestores de consentimiento para el 
+ejercicio de los derechos de los titulares previstos en el artículo 2.35.8.3.5 
+del Decreto 2555 de 2010; y iv) los mecanismos de revocatoria de la 
+autorización y las obligaciones correlativas de los participantes. 
+Como algunos de estos asuntos involucran competencias de la 
+Superintendencia de Industria y Comercio (SIC), la SFC se encuentra 
+adelantando mesas técnicas con dicha entidad para definir el contenido de 
+las instrucciones que podrían expedirse mediante circulares conjuntas, lo 
+que requiere coordinar las agendas regulatorias y los tiempos de expedición 
+normativa de ambas superintendencias. Aunque el Decreto 368 de 2026 no 
+exige expresamente la necesidad de expedir instrucciones por parte de la 
+SFC en esta materia; su definición resulta necesaria para el adecuado 
+funcionamiento del sistema, en particular, para estandarizar el flujo de 
+consentimiento. 
+
+--- PAGINA 12 ---
+12 
+4.3. Directorio de Participantes 
+El Directorio de Participantes es la infraestructura pública, a cargo de la 
+SFC, que permite a los participantes identificarse, verificar el cumplimiento 
+de los requisitos de participación e interactuar de forma segura entre sí. 
+Opera como una plataforma digital de consulta que publica el listado de 
+entidades habilitadas y los datos necesarios para su acceso, identificación 
+y autenticación, y pone a disposición la documentación técnica (puntos de 
+conexión, protocolos de seguridad y requisitos tecnológicos) requerida para 
+operar el intercambio automático de información. 
+Su diseño contempla tres módulos: (i) el de proveedores de datos, que 
+contiene la información necesaria para efectuar solicitudes de acceso a 
+través del protocolo de intercambio; (ii) el de receptores de datos, que 
+agrupa a las entidades habilitadas para acceder y utilizar dicha información; 
+y (iii) el de vinculaciones voluntarias, en el que se registran las 
+vinculaciones de los proveedores de datos con terceros no vigilados. Sobre 
+el Directorio recaen, además, funciones de administración en cabeza de la 
+SFC: definir las condiciones de operación y los requisitos de inscripción, 
+tramitar las solicitudes de inclusión, modificación y retiro, mantener la 
+información actualizada y disponible, conservar un registro histórico y 
+verificar el cumplimiento de los requisitos tanto al inscribir a los 
+participantes como en cualquier momento posterior. 
+En este sentido, la puesta en funcionamiento del Directorio de Participantes 
+es el instrumento de mayor complejidad. Si bien su objetivo es garantizar 
+la publicidad del Sistema y sus participantes, para llegar a ello se requiere 
+precisar los roles de los participantes, los módulos del Directorio, la 
+información mínima que este debe contener, los requisitos y validaciones 
+aplicables, los responsables de cada proceso, los mecanismos de 
+actualización y trazabilidad, y los procedimientos de modificación y retiro. 
+Los comentarios recibidos por la SFC reflejan la magnitud de los desafíos 
+pendientes: se solicitó aclarar si el Directorio cumplirá únicamente una 
+función registral o si incorporará capacidades operativas de identificación, 
+autenticación y conexión entre participantes, con el propósito de promover 
+la interoperabilidad y reducir la necesidad de celebrar mecanismos 
+bilaterales de conexión. 
+En consecuencia, será necesario definir el alcance funcional y operativo del 
+Directorio, diseñar su modelo de gobierno, establecer los requerimientos 
+tecnológicos 
+y 
+determinar 
+el 
+presupuesto 
+necesario 
+para 
+su 
+implementación, operación y mantenimiento, incluyendo los recursos 
+humanos, tecnológicos y de soporte asociados. Ello exige un análisis 
+
+--- PAGINA 13 ---
+13 
+especializado que permita consolidar un Directorio que responda a las 
+necesidades del sistema colombiano y evite cargas adicionales y demoras 
+en la implementación de los estándares por tipo de información y caso de 
+uso. 
+La experiencia comparada evidencia, además, la relevancia de la 
+interoperabilidad como característica esencial de los modelos de finanzas 
+abiertas. El Banco de Pagos Internacionales ha señalado que la 
+implementación exitosa de esquemas de open finance depende de 
+protocolos 
+estandarizados, 
+interoperabilidad 
+y 
+marcos 
+regulatorios 
+robustos.1 Por ello, antes de cerrar el diseño del Directorio, resulta 
+conveniente que la SFC desarrolle espacios de cooperación con reguladores 
+que han implementado mecanismos similares —la Comisión para el Mercado 
+Financiero de Chile (CMF), el Banco Central de Brasil y la Financial Conduct 
+Authority del Reino Unido (FCA)—, que permitan profundizar en los 
+requisitos de acceso e inscripción, los mecanismos de validación y 
+actualización de la información, la gestión de roles, la interoperabilidad con 
+otras infraestructuras y los mecanismos de seguridad y trazabilidad, 
+reduciendo el riesgo de adoptar soluciones que posteriormente requieran 
+ajustes estructurales. 
+4.4. Indicadores de seguimiento 
+El artículo 2.35.8.7.2 del Decreto 2555 de 2010, incluido mediante del 
+Decreto 368 de 2026, exige que la SFC defina, calcule y publique, al menos 
+trimestralmente, indicadores que permitan hacer seguimiento a la 
+implementación y desarrollo del sistema de finanzas abiertas. La definición 
+de estos indicadores no debe entenderse como una tarea pendiente por 
+falta de información disponible, sino como una tarea cuya calidad depende 
+de que previamente se encuentre suficientemente definido el modelo 
+operativo 
+y 
+regulatorio 
+que 
+se 
+pretende 
+medir. 
+Para 
+cumplir 
+adecuadamente esta obligación es necesario determinar, entre otros 
+aspectos, qué dimensiones se quieren medir, qué constituye una 
+implementación efectiva, qué información estará disponible y cuál deberán 
+reportar los participantes, la periodicidad y metodología de cálculo, los 
+responsables de cada reporte, y la calidad, consistencia y comparabilidad 
+temporal de los datos. 
+Por ello, resulta razonable estructurar los indicadores en etapas 
+progresivas, enfocadas, por ejemplo, en dimensiones como: 
+ 
+1 BIS Papers No. 168: “Opening doors to open finance: evidence from the international experience”. 
+
+--- PAGINA 14 ---
+14 
+1. Participación y cobertura del ecosistema: grado de desarrollo del 
+ecosistema, incorporación de participantes y evolución de la 
+infraestructura necesaria para la operación del sistema. 
+2. Uso y adopción: utilización efectiva del sistema por parte de los 
+participantes y de los titulares de la información, y evolución de los 
+casos de uso habilitados. 
+3. Desempeño tecnológico y operativo: disponibilidad, continuidad, 
+tiempos de respuesta y calidad de los mecanismos de intercambio de 
+información. 
+4. Seguridad y protección del titular: confianza en el sistema, 
+protección de los titulares y gestión de incidentes asociados al 
+intercambio de información. 
+5. Sostenibilidad y administración del ecosistema: capacidad 
+institucional y operativa para mantener y administrar el sistema, y 
+disponibilidad y calidad de la información requerida para su 
+seguimiento. 
+Esta estructura por etapas permite sostener que no todos los indicadores 
+pueden ni deben definirse con el mismo nivel de anticipación, y respalda la 
+solicitud de un plazo adicional condicionado, en parte, a la disponibilidad 
+progresiva de información derivada de la operación efectiva del sistema. 
+Consideraciones que son reforzados por los comentarios recibidos por la 
+SFC. 
+4.5. Estándares e información de portabilidad financiera 
+La portabilidad financiera fue concebida por el Decreto 977 de 2026 como 
+un caso de uso del sistema de finanzas abiertas. Su implementación 
+requiere la definición de la estandarización del certificado de portabilidad 
+financiera y de la información objeto de reporte, elementos que dependen 
+de los estándares generales de intercambio de información, del flujo de 
+consentimiento, de las condiciones de participación y de los esquemas de 
+seguimiento y supervisión que se establezcan para el sistema en su 
+conjunto.  
+Las circunstancias que justifican la ampliación de los plazos del artículo 4 
+del Decreto 368 de 2026 resultan, en consecuencia, igualmente aplicables 
+al plazo previsto en el artículo 6 del Decreto 977 de 2026, cuyo ajuste 
+articulado evita que este caso de uso se desarrolle bajo parámetros que 
+luego deban ser modificados. 
+A las razones específicas de cada instrumento expuestas en los numerales 
+anteriores se suman dos factores de carácter transversal que refuerzan la 
+necesidad de la ampliación en los plazos para que la SFC expida las 
+
+--- PAGINA 15 ---
+15 
+instrucciones de las que tratan los Decretos 368 y 977 de 2026: el 
+fortalecimiento de las capacidades institucionales de la Superintendencia 
+Financiera de Colombia y la reasignación de prioridades derivada de la 
+emergencia económica, social y ecológica declarada tras el sismo del 10 de 
+agosto de 2026. 
+4.6. Fortalecimiento de las capacidades institucionales de la SFC 
+El tránsito de un esquema voluntario a un sistema de finanzas abiertas 
+obligatorio supone para la SFC un cambio cualitativo en el alcance de sus 
+funciones regulatorias, tecnológicas, operativas y de supervisión. La 
+entidad no solo debe expedir los estándares de intercambio de información 
+y el cronograma correspondiente, sino administrar el Directorio de 
+Participantes, habilitar y operar un espacio controlado de pruebas 
+(sandbox), definir y calcular los indicadores de seguimiento, coordinar con 
+la Superintendencia de Industria y Comercio las instrucciones en materia 
+de datos personales y acompañar a un ecosistema con niveles 
+heterogéneos 
+de 
+madurez. 
+Asumir 
+simultáneamente 
+estas 
+responsabilidades exige consolidar capacidades institucionales que no se 
+construyen de manera inmediata. 
+Para atender adecuadamente estos mandatos, la SFC prevé evaluar 
+consultorías especializadas, la ejecución de programas de capacitación, la 
+incorporación de talento con perfiles regulatorios, tecnológicos y de 
+supervisión, y la disposición de los recursos presupuestales y de 
+infraestructura necesarios para diseñar, validar y mantener los estándares 
+y el Directorio. Sin embargo, estos desarrollos requieren un plazo razonable 
+de maduración; su omisión o reactividad elevaría el riesgo de expedir 
+instrumentos que posteriormente deban ajustarse, con las consecuentes 
+cargas de reproceso para la propia Superintendencia y para las entidades 
+vigiladas. 
+En este sentido, la ampliación solicitada se justifica en la necesidad de dotar 
+a la SFC de las condiciones institucionales que aseguren una 
+implementación técnicamente sólida, sostenible en el tiempo y coherente 
+con la magnitud del sistema que se pretende poner en operación. 
+4.7. La emergencia económica, social y ecológica derivada del sismo como 
+circunstancia sobreviniente 
+Con posterioridad a la expedición de los Decretos 368 y 977 de 2026, el 
+país afrontó el sismo del 10 de agosto de 2026, cuyas afectaciones se han 
+estimado en más de $30 billones y que motivó la declaratoria del Estado 
+de Emergencia Económica, Social y Ecológica mediante el Decreto 1261 del 
+
+--- PAGINA 16 ---
+16 
+19 de agosto de 2026, expedido al amparo del artículo 215 de la 
+Constitución Política y de la Ley 137 de 1994. Se trata de una circunstancia 
+sobreviniente, ajena a la voluntad de las autoridades y de los participantes, 
+que ha impactado de manera directa la agenda regulatoria y operativa del 
+sector financiero. 
+La atención de la emergencia dio lugar a un conjunto de medidas 
+legislativas y de regulación con incidencia directa en el sector financiero y 
+en las entidades vigiladas por la SFC, entre ellas, disposiciones sobre el 
+acceso extraordinario a productos financieros de personas fallecidas en el 
+desastre, mecanismos de financiamiento para la reconstrucción y 
+esquemas de inversión orientados a la atención del desastre. La 
+formulación, revisión e implementación de estas medidas ha demandado la 
+reasignación prioritaria de capacidades técnicas, jurídicas y operativas de 
+las autoridades del sector, incluida la SFC, hacia la respuesta a la 
+emergencia. 
+Adicionalmente, un número relevante de entidades vigiladas y de sus 
+consumidores financieros se localiza en los departamentos afectados por el 
+sismo, lo que ha exigido esfuerzos extraordinarios de continuidad operativa 
+y de atención a la clientela que compiten, en el corto plazo, con las 
+inversiones de adecuación tecnológica necesarias para la implementación 
+del sistema de finanzas abiertas. En consecuencia, la circunstancia 
+sobreviniente derivada del sismo refuerza, de manera independiente y 
+adicional a las razones ya expuestas, la conveniencia de ajustar los plazos, 
+de modo que la implementación del sistema no compita con la respuesta a 
+la emergencia ni se realice en condiciones de capacidad institucional y 
+sectorial temporalmente reducida. 
+5. Experiencia internacional 
+Las experiencias del Reino Unido, Brasil y Chile muestran que la 
+implementación de sistemas de finanzas abiertas suele requerir ajustes en 
+los cronogramas, desarrollo progresivo de estándares técnicos y espacios 
+de prueba para facilitar su adopción. Su revisión ofrece elementos de 
+referencia para evaluar la gradualidad y las condiciones de implementación 
+del sistema colombiano. 
+5.1. Reino Unido 
+El Open Banking del Reino Unido, considerado pionero a nivel mundial, 
+inició su implementación en enero de 2018 bajo un modelo de lanzamiento 
+
+--- PAGINA 17 ---
+17 
+gradual (soft launch),2 que requirió el desarrollo posterior de sucesivas 
+versiones de su hoja de ruta: una primera en noviembre de 2017, una 
+segunda en julio de 2018 y una tercera y definitiva en mayo de 2020, esta 
+última ajustada además por la pandemia de COVID-19 para dar flexibilidad 
+a las entidades obligadas.3 El proceso, liderado por la Open Banking 
+Implementation Entity (OBIE) bajo la supervisión de la Competition and 
+Markets Authority (CMA), solo se declaró formalmente concluido a 
+comienzos de 2023, cerca de siete años después del inicio del proceso 
+regulatorio en 2016.4 
+5.2. Brasil 
+El Banco Central do Brasil estableció un cronograma de implementación del 
+Open Finance dividido en cuatro fases. La primera fase, inicialmente 
+prevista para el 30 de noviembre de 2020, debió postergarse hasta el 1 de 
+febrero de 2021 por la necesidad de adaptación de los sistemas de las 
+entidades, la complejidad técnica, la necesidad de pruebas adicionales de 
+las API y las solicitudes del sector financiero.5 La propia industria reconoció 
+que la estructura de gobernanza resultó más demorada y compleja de lo 
+previsto,6 y el director de regulación del Banco Central admitió que los 
+plazos originales fueron ambiciosos para un modelo de esa amplitud.7 El 
+desarrollo completo de las cuatro fases se extendió entre 2021 y 2024, y 
+el sistema ha continuado incorporando funcionalidades de manera 
+progresiva, como la portabilidad de crédito, habilitada en febrero de 2026, 
+casi cinco años después del inicio de su implementación.8 
+5.3. Chile 
+El caso chileno constituye el precedente más reciente y directamente 
+comparable. La Comisión para el Mercado Financiero (CMF) publicó en julio 
+de 2024 la normativa que regula el Sistema de Finanzas Abiertas de la Ley 
+Fintec (Ley 21.521 de 2023), estableciendo su entrada en vigencia 
+veinticuatro meses después, esto es, en julio de 2026.9 Sin embargo, el 2 
+ 
+2 Open Banking Limited (2018). UK's Open Banking to launch on 13 January 2018. https://www.openbanking.org.uk/news/uks-open-
+banking-launch-13-january-2018 
+3 Competition and Markets Authority (2020). CMA publishes approved Roadmap for the final stages of Open Banking 
+implementation. https://www.openbanking.org.uk/news/cma-publishes-approved-roadmap-for-the-final-stages-of-open-banking-
+implementation 
+4 Competition and Markets Authority (2023). Transition report statement — CMA statement in response to End of Implementation 
+Roadmap Report. 
+5 Banco Central do Brasil / openbankingbrasil.com.br (2021). BC estende prazo para implementação do Open Banking. 
+https://openbankingbrasil.com.br/open-banking-brasil/bc-estende-prazo-implementacao-open-banking-brasil/ 
+6 Manual do Usuário (2021). Seus dados bancários são seus. https://manualdousuario.net/open-banking-brasil/ 
+7 IUPANA (2022). Brasil: Banco Central defiende ritmo de adopción del open finance. https://iupana.com/2022/05/27/brasil-banco-
+central-defiende-ritmo-de-adopcion-del-open-finance 
+8 Latinia (2026). Open Finance en LATAM: mapa regulatorio 2026. https://latinia.com/recursos/open-finance-latam-mapa-
+regulatorio-2026 
+9 Comisión para el Mercado Financiero de Chile (2024). https://www.cmfchile.cl/portal/prensa/625/w4-article-82737.html 
+
+--- PAGINA 18 ---
+18 
+de junio de 2026 la CMF modificó dicha normativa y postergó la entrada en 
+vigor del sistema un año adicional, hasta el 3 de julio de 2027, en atención 
+expresa a la complejidad de su implementación.10 
+En conclusión, las experiencias examinadas muestran que la ampliación de 
+plazos puede formar parte de una estrategia de implementación gradual 
+orientada a reducir fricciones y resguardar la seguridad y la consistencia 
+del sistema. En particular, el caso chileno (el marco normativo es el más 
+cercano al colombiano) evidencia que aun con veinticuatro meses de 
+transición resultó necesario conceder un año adicional. En ese contexto, la 
+ampliación de seis (6) meses que se propone para Colombia resulta acotada 
+y proporcionada. 
+6. Propuesta de ajuste de plazos 
+En atención a las consideraciones expuestas, el proyecto de decreto no 
+plantea un plazo indeterminado ni una extensión abierta, sino una 
+ampliación diferenciada y acotada de seis (6) meses adicionales para cada 
+uno de los instrumentos, que reconoce que el cronograma, el Directorio de 
+Participantes, los indicadores de seguimiento y los estándares de 
+portabilidad financiera no presentan el mismo grado de complejidad ni las 
+mismas dependencias técnicas, pero que todos ellos se ven afectados por 
+el mismo conjunto de interdependencias identificadas en el proceso de 
+expedición de instrucciones por la SFC. 
+Tabla 1. Propuesta de ajuste de plazos 
+Instrumento 
+Plazo vigente 
+Plazo 
+propuesto 
+Nueva fecha 
+de 
+vencimiento 
+Justificación resumida 
+Cronograma de 
+expedición de 
+estándares 
+6 meses 
+(7 de octubre 
+de 2026) 
+12 meses 
+7 de abril de 
+2027 
+Ampliación acotada: permite 
+incorporar los resultados de la 
+consulta pública del proyecto de 
+carta circular y de las mesas 
+técnicas. Instrumento de menor 
+complejidad relativa. 
+Directorio de 
+Participantes 
+12 meses 
+(7 de abril de 
+2027) 
+18 meses 
+7 de octubre de 
+2027 
+Ampliación mayor en términos 
+relativos ya que, aunque su fin es 
+de publicidad, para ello se 
+requiere definir el modelo 
+funcional, el modelo de gobierno, 
+los requisitos de acceso y la 
+interoperabilidad, con espacios de 
+cooperación internacional aún en 
+desarrollo. 
+ 
+10 Comisión para el Mercado Financiero de Chile (2026). CMF modifica la normativa que regula el Sistema de Finanzas Abiertas e 
+incorpora anexo técnico. https://www.cmfchile.cl/portal/prensa/625/w4-article-110881.html 
+
+--- PAGINA 19 ---
+19 
+Instrumento 
+Plazo vigente 
+Plazo 
+propuesto 
+Nueva fecha 
+de 
+vencimiento 
+Justificación resumida 
+Indicadores de 
+seguimiento 
+12 meses 
+(7 de abril de 
+2027) 
+18 meses 
+7 de octubre de 
+2027 
+Su calidad depende de la 
+definición previa del modelo 
+operativo y de la operación 
+efectiva del sistema; se 
+estructuran por etapas 
+progresivas. 
+Estándares e 
+información de 
+portabilidad 
+financiera 
+24 meses  
+(4 de agosto de 
+2028) 
+30 meses 
+4 de febrero de 
+2029 
+Ampliación articulada para la 
+estandarización del certificado de 
+portabilidad financiera, en 
+atención a su interdependencia 
+con la arquitectura del sistema. 
+Fuente: Elaboración URF con base en la solicitud de la SFC. 
+Esta aproximación resulta consistente con el principio de proporcionalidad 
+que orienta el Decreto 368 de 2026 y con la lógica de interdependencia 
+expuesta en la sección 3 de este documento. La ampliación mantiene una 
+secuencia clara: el cronograma se expide primero y ordena la exigibilidad 
+de las demás obligaciones; el Directorio y los indicadores se definen sobre 
+bases técnicas consolidadas; y la portabilidad financiera se desarrolla de 
+manera consistente con los estándares generales del sistema. 
+Es importante precisar que la ampliación propuesta recae exclusivamente 
+sobre los plazos a cargo de la SFC para la expedición de instrucciones de 
+las que tratan los Decretos 368 y 977 de 2026. No modifica la 
+obligatoriedad del sistema, los roles y responsabilidades de los 
+participantes, los principios y objetivos del sistema ni las demás 
+disposiciones sustantivas incorporadas al Decreto 2555 de 2010 por los 
+Decretos 368 y 977 de 2026. 
+7. Consideraciones sobre el impacto de la medida 
+La URF considera que los beneficios esperados de la ampliación superan 
+sus costos. Desde la perspectiva de los participantes, la definición 
+coordinada de los instrumentos reduce el riesgo de reprocesos tecnológicos 
+y de inversiones en arquitectura que posteriormente deban rediseñarse, y 
+ofrece una visión completa de los requisitos que permite dimensionar 
+adecuadamente las inversiones y asignaciones presupuestales, tal como lo 
+solicitaron las entidades en la consulta pública. Desde la perspectiva de los 
+consumidores financieros, un sistema implementado sobre estándares 
+consolidados, con un flujo de consentimiento estandarizado y con 
+mecanismos de seguridad y trazabilidad validados, protege de mejor 
+manera sus derechos y favorece la confianza en el sistema, condición 
+necesaria para su adopción efectiva. 
+
+--- PAGINA 20 ---
+20 
+Desde la perspectiva institucional, la ampliación permite a la SFC fortalecer 
+sus capacidades institucionales, coordinar con la SIC la expedición de 
+instrucciones conjuntas en materia de datos personales y aprovechar la 
+cooperación internacional antes de cerrar el diseño del Directorio. El 
+principal costo de la medida es el desplazamiento de seis meses en la fecha 
+de disponibilidad de los instrumentos; no obstante, como muestra la 
+experiencia internacional, una implementación acelerada sobre bases 
+técnicas insuficientes tiende a generar postergaciones mayores y menos 
+predecibles. Con la ampliación, el sistema mantiene una trayectoria de 
+implementación cierta y comparable, e incluso más exigente, que la de 
+jurisdicciones de referencia. 
+Adicionalmente la medida debe valorarse a la luz de la finalidad última del 
+sistema de finanzas abiertas: profundizar la inclusión financiera, lo que 
+favorece la rebancarización de la población, incluyendo a la afectada por el 
+terremoto del 10 de agosto, y traza la ruta para consolidar la digitalización 
+de la economía. Estos objetivos no dependen únicamente de la existencia 
+de la obligación, sino de que su implementación se traduzca en estándares 
+interoperables, seguros y confiables que efectivamente amplíen el acceso 
+a productos y servicios financieros. En este sentido, el ajuste de plazos no 
+pospone dichos objetivos, sino que protege su realización sólida y duradera 
+contribuyendo a que la digitalización del sistema financiero se profundice 
+de forma segura, sostenible y con verdadera capacidad de incluir a quienes 
+hoy permanecen al margen del sistema. 
+Finalmente, la medida no genera costos adicionales para el Estado distintos 
+de los ya previstos para la implementación del sistema, ni impone nuevas 
+obligaciones a los particulares. Por el contrario, contribuye a la seguridad 
+jurídica al definir con anticipación las nuevas fechas de referencia sobre las 
+cuales los participantes pueden planear su adecuación. 
+ 
+ 
+
+--- PAGINA 21 ---
+21 
+Bibliografía 
+Banco Central do Brasil / openbankingbrasil.com.br (2021). BC estende 
+prazo para implementação do Open Banking. 
+https://openbankingbrasil.com.br/open-banking-brasil/bc-estende-
+prazo-implementacao-open-banking-brasil/ 
+Banco Mundial (2024). Enablers for an Open Data Framework for financial 
+inclusion. Documento interno de trabajo para Colombia. 
+Bank for International Settlements (2025). Opening doors to open 
+finance: evidence from the international experience. BIS Papers No. 
+168. 
+Centro de Finanzas Alternativas de la Universidad de Cambridge – CCAF 
+(2024). The Global State of Open Banking and Open Finance. 
+Cambridge Centre for Alternative Finance, University of Cambridge. 
+Comisión para el Mercado Financiero de Chile (2024). CMF publica 
+normativa que regula el Sistema de Finanzas Abiertas. 
+https://www.cmfchile.cl/portal/prensa/625/w4-article-82737.html 
+Comisión para el Mercado Financiero de Chile (2026). CMF modifica la 
+normativa que regula el Sistema de Finanzas Abiertas e incorpora 
+anexo técnico. https://www.cmfchile.cl/portal/prensa/625/w4-article-
+110881.html 
+Competition and Markets Authority (2020). CMA publishes approved 
+Roadmap for the final stages of Open Banking implementation. 
+https://www.openbanking.org.uk/news/cma-publishes-approved-
+roadmap-for-the-final-stages-of-open-banking-implementation 
+Competition and Markets Authority (2023). Transition report statement — 
+CMA statement in response to End of Implementation Roadmap 
+Report. 
+Congreso de la República de Colombia. Ley 2294 de 2023, por la cual se 
+expide el Plan Nacional de Desarrollo 2022-2026 “Colombia Potencia 
+Mundial de la Vida”. 
+IUPANA (2022). Brasil: Banco Central defiende ritmo de adopción del 
+open finance. https://iupana.com/2022/05/27/brasil-banco-central-
+defiende-ritmo-de-adopcion-del-open-finance 
+Latinia (2026). Open Finance en LATAM: mapa regulatorio 2026. 
+https://latinia.com/recursos/open-finance-latam-mapa-regulatorio-
+2026 
+
+--- PAGINA 22 ---
+22 
+Manual do Usuário (2021). Seus dados bancários são seus. 
+https://manualdousuario.net/open-banking-brasil/ 
+Ministerio de Hacienda y Crédito Público. Decreto 1297 de 2022, Decreto 
+368 de 2026 y Decreto 977 de 2026, por medio de los cuales se 
+modifica el Decreto 2555 de 2010. 
+Open Banking Limited (2018). UK's Open Banking to launch on 13 
+January 2018. https://www.openbanking.org.uk/news/uks-open-
+banking-launch-13-january-2018 
+Superintendencia Financiera de Colombia (2026). Justificación de la 
+necesidad de ampliación de los plazos previstos para la 
+Superintendencia Financiera de Colombia en el artículo 4 del Decreto 
+368 de 2026. Versión 2, 7 de septiembre de 2026. 
+Superintendencia Financiera de Colombia (2026). Proyecto de Circular 
+Externa 010 de 2026 y proyecto de carta circular “Cronograma para 
+la expedición de estándares de intercambio de información en el 
+sistema de finanzas abiertas”. 
+Superintendencia Financiera de Colombia (2024). Innovarómetro. 
+ 
+

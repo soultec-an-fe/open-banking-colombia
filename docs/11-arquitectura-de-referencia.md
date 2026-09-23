@@ -199,6 +199,55 @@ Trabajo que **no depende** de los estándares de la SFC:
 - [ ] Seguir la vía del **art. 2.17.4.1.3** y del **Banco de la República**
       (art. 104 Ley 2294 de 2023), que puede ir por delante del cronograma de la SFC
 
+## 6-bis. Certificados y algoritmos para mTLS
+
+> Base: CE 004 de 2024, numeral 3.2.3 lit. c) (`fuentes-primarias/circular-externa-004-2024-anexo.pdf`,
+> página 3 del Capítulo IX). El contenido mínimo del certificado **no ha sido definido por la SFC**;
+> quedará en los lineamientos del directorio (plazo 10-abr-2027). Lo demás es práctica de UK/Brasil.
+
+### Dos pares de llaves, no uno
+
+| Llave | Función | Emisor | Algoritmo |
+|---|---|---|---|
+| Certificado **mTLS** | Autenticar el canal y vincular tokens al cliente (`cnf.x5t#S256`, RFC 8705) | **ECD acreditada por ONAC** (Ley 527/1999; Decreto-ley 19/2012 art. 160; Decreto 333/2014) | RSA |
+| Llave de **firma** (JWK en `jwks_uri`) | `private_key_jwt` al solicitar tokens | Propia | PS256 |
+
+No reutilizar el mismo par para ambas: la rotación de una rompería la otra.
+
+### Contenido recomendado del certificado mTLS (X.509 v3)
+
+| Campo | Contenido |
+|---|---|
+| `Subject` | `CN` = FQDN · `O` = razón social · `serialNumber`/`organizationIdentifier` = **NIT** · `C` = CO |
+| `SAN` | Todos los FQDN |
+| `Key Usage` | `digitalSignature`, `keyEncipherment` |
+| `EKU` | `clientAuth`; `serverAuth` si además se exponen APIs |
+| `Basic Constraints` | `CA:FALSE` |
+| `AIA` / `CDP` | OCSP y CRL de la ECD |
+| Llave | **RSA ≥ 2048 (3072 recomendado)** |
+| Firma | `sha256WithRSAEncryption` |
+| Vigencia | ≤ 1 año, rotación automatizada |
+
+El **NIT en el subject** es el ancla natural para cruzar contra el módulo de receptores del directorio
+(art. 2.35.8.5.3 num. 2). Brasil usa el CNPJ con el mismo fin.
+
+mTLS es bidireccional: el cliente valida también el certificado del banco contra la cadena de la ECD,
+verifica revocación por OCSP y hace *pinning* de la CA, nunca del certificado hoja.
+
+### Algoritmos por capa
+
+| Capa | Exigido / recomendado |
+|---|---|
+| Suites TLS (norma) | `TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256` · `TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384` (preferir 256) |
+| Llave del certificado | **RSA obligatoriamente** — `ECDHE_RSA` no negocia con certificados ECDSA |
+| Versión TLS | Soportar **1.2** con esas suites (cumplimiento literal) **y 1.3** (FAPI 2.0 / industria) |
+| Tokens JWT | **PS256** (HS256 rechazado por la SFC) |
+| Datos en reposo | AES-256 |
+
+> ⚠️ **Gotcha:** solicitar a la ECD un certificado **ECDSA** —la recomendación moderna por
+> rendimiento— deja a la entidad **fuera de norma**, porque ninguna de las dos suites permitidas
+> lo acepta. Especificar RSA al pedir el certificado.
+
 ## 7. Decisiones técnicas que conviene tomar ya
 
 | Decisión | Opciones | Recomendación |

@@ -1,12 +1,17 @@
 # 09 · Colombia — cronograma de estandarización y análisis crítico
 
-**Fecha de corte: 10 de septiembre de 2026**
+**Fecha de corte: 23 de septiembre de 2026**
 
 > ⚠️ **Todo este documento analiza un PROYECTO en consulta pública.**
 > *Proyecto de Carta Circular: "Cronograma para la expedición de estándares de intercambio
 > de información en el sistema de finanzas abiertas"*, publicado el **31 de agosto de 2026**.
-> **Comentarios hasta el martes 15 de septiembre de 2026, 5:00 p.m.**, a
-> `finanzasabiertas@superfinanciera.gov.co` (formato Word, matriz adjunta al proyecto).
+> Comentarios cerraron el **15 de septiembre de 2026, 5:00 p.m.** — la SFC aún no expide
+> versión definitiva (ver sección 7 sobre por qué se está demorando).
+
+> ⚠️ **NO VIGENTE — nuevo desde el 22-sep-2026.** Un segundo proyecto, esta vez de
+> **decreto** (no de circular), propone **extender 6 meses** todos los plazos de este
+> cronograma. Ver sección 7. Mientras no se expida, las fechas de las secciones 1-6 de
+> este documento (basadas en el D-0368/2026 vigente) siguen siendo las legales.
 
 ---
 
@@ -56,7 +61,12 @@ Los plazos son **meses máximos desde la fecha de publicación del cronograma**.
 | 12 | **Servicios de iniciación de pagos** | **132** | **~oct-2037** |
 
 \* Fechas calculadas asumiendo publicación del cronograma el **10 de octubre de 2026**
-(fecha límite legal del art. 4.1 del D-0368/2026). Si la SFC publica antes, todo se corre.
+(fecha límite legal del art. 4.1 del D-0368/2026, contando desde la entrada en vigencia
+del 10-abr-2026 según su art. 5). Si la SFC publica antes, todo se corre.
+> ⚠️ Ver sección 7: el propio documento técnico de la URF (sep-2026) calcula este mismo
+> tope como **7 de octubre de 2026**, y el proyecto de decreto en curso propone moverlo
+> a **7 de abril de 2027**. Todas las fechas de esta tabla son **anteriores** a ese
+> proyecto y deben leerse como el escenario "sin ampliación".
 
 **El cronograma es revisable:** *"podrá ser objeto de revisiones posteriores, de acuerdo con
 los desarrollos normativos, las capacidades de adopción del sistema"* y conforme al
@@ -237,19 +247,107 @@ mecanismo operativo definido.
 | 9-abr-2026 | Publicación Diario Oficial 53.453 | — | ✅ |
 | **10-abr-2026** | **Entrada en vigencia del D-0368/2026** | Art. 5 | ✅ |
 | jun–jul 2026 | 7 mesas técnicas, 157 entidades | SFC | ✅ |
-| 24-jul a 11-ago-2026 | Consulta del proyecto de nuevo Capítulo IX | SFC | ✅ Cerrada |
+| 24-jul a 11-ago-2026 | Consulta del proyecto de nuevo Capítulo IX (recibió 651 observaciones de 46 actores) | SFC | ✅ Cerrada |
 | 4-ago-2026 | Decreto 0977 de 2026 (portabilidad) | MinHacienda | ✅ Expedido |
 | 6-ago-2025 | CE 009 de 2025 — 1.ª prórroga (a 8-feb-2026) | SFC | ✅ |
+| **10-ago-2026** | Sismo — Emergencia Económica, Social y Ecológica (Decreto 1261, 19-ago-2026), daños > $30 billones | Gobierno nacional | ✅ |
 | 3-feb-2026 | CE 001 de 2026 — 2.ª prórroga (a 7-ago-2026) | SFC | ✅ |
 | 7-ago-2026 | 🔴 Vence el régimen de transición de la CE 004/2024. **Sin tercera prórroga** | CE 001 de 2026 | ✅ Vencido |
 | 31-ago-2026 | Publicación del proyecto de cronograma | SFC | ✅ |
-| **15-sep-2026** | 🔴 **Cierre de comentarios al cronograma** | Proyecto | ⏳ **5 días** |
-| **10-oct-2026** | 🔴 **Tope legal para publicar el cronograma** | D-0368 art. 4.1 | ⏳ |
+| **15-sep-2026** | 🔴 Cierre de comentarios al cronograma | Proyecto de Carta Circular | ✅ Cerrado |
+| **22-sep-2026** | Publicación del **proyecto de decreto de ampliación de plazos** (art. 4 D-0368 y art. 6 D-0977) | URF | ✅ |
+| **27-sep-2026, 11:59 p.m.** | 🔴 **Cierre de comentarios al proyecto de decreto de ampliación** | URF | ⏳ **4 días** |
+| **7 / 10-oct-2026** | 🔴 **Tope legal vigente para publicar el cronograma** (7-oct según cómputo de la URF desde la fecha del decreto; 10-oct según la vigencia del art. 5) — ver discrepancia en sección 7.1 | D-0368 art. 4.1 | ⏳ |
 | ~dic-2026 | Tope para incluir portabilidad en el cronograma | D-0977 art. 5 | ⏳ |
-| Pendiente | Expedición de la nueva Circular Externa (Cap. IX) | SFC | ⏳ |
+| Pendiente | Expedición de la nueva Circular Externa (Cap. IX, antes Proyecto 010/2026) | SFC | ⏳ |
 | +30 días de esa expedición | Entidades con casos de uso vigentes remiten **plan de adecuación** | Proyecto CE, 2.3 | ⏳ |
 | 7-abr-2027 | Adecuación de modelos existentes al nuevo Capítulo IX | Proyecto CE, 2.3 | ⏳ |
-| **10-abr-2027** | 🔴 **Directorio operativo + indicadores definidos** | D-0368 art. 4.2 y 4.3 | ⏳ |
+| **7 / 10-abr-2027** | 🔴 **Directorio operativo + indicadores definidos** (vigente, sin ampliación) | D-0368 art. 4.2 y 4.3 | ⏳ |
 | ~jun-2027 | Estándar de portabilidad de consumo | Borrador cronograma | ⏳ |
-| ~5-ago-2028 | Tope legal de estándares de portabilidad | D-0977 art. 6 | ⏳ |
+| ~5-ago-2028 | Tope legal vigente de estándares de portabilidad | D-0977 art. 6 | ⏳ |
 | ~2034–2039 | Historial transaccional e iniciación de pagos | Borrador cronograma | ⏳ |
+
+> Las filas en negrita con dos fechas separadas por "/" reflejan la discrepancia documentada
+> en la sección 7.1. Si el proyecto de decreto de ampliación se expide, todas estas fechas
+> se recalculan según la tabla de la sección 7.2.
+
+## 7. Proyecto de decreto de ampliación de plazos (22-sep-2026) — NO VIGENTE
+
+> **Fuente primaria:** `fuentes-primarias/urf-documento-tecnico-ajuste-plazos-2026.pdf`
+> (Documento Técnico "Ajustes en los plazos de implementación del sistema de finanzas
+> abiertas obligatorio", URF, septiembre de 2026, 22 páginas). Publicado a comentarios por
+> la URF el **22-sep-2026**, cierra el **27-sep-2026, 11:59 p.m.**
+> (`urf.gov.co/normatividad/proyectos-de-decreto/2026`).
+
+El proyecto modifica el **art. 4 del Decreto 368 de 2026** y el **art. 6 del Decreto 977 de
+2026** — es decir, toca los decretos mismos, no una circular de la SFC. **No modifica la
+obligatoriedad del sistema, los roles de los participantes ni las disposiciones
+sustantivas** del Decreto 2555 de 2010 incorporadas por esos dos decretos.
+
+### 7.1. Discrepancia detectada: 7-oct-2026 vs. 10-oct-2026
+
+El art. 5 del D-0368/2026 dice que el decreto *"rige a partir del día siguiente a su
+publicación en el Diario Oficial"* (publicado 9-abr-2026 → vigencia **10-abr-2026**), lo que
+da **10-oct-2026** para el tope de 6 meses del cronograma y **10-abr-2027** para el de
+12 meses del Directorio/indicadores — así lo calculamos en las secciones 1-6 de este
+documento.
+
+Sin embargo, el propio **documento técnico de la URF** (pág. 5, sección 1) —el organismo que
+redactó el decreto y ahora redacta su modificación— computa esos mismos plazos como
+**vencidos el 7 de octubre de 2026** y **el 7 de abril de 2027**, contando aparentemente
+desde la fecha de expedición/firma del decreto (7-abr-2026) y no desde su entrada en
+vigencia (10-abr-2026). Es una discrepancia de 3 días en un documento oficial que sustenta
+un cambio normativo — **pendiente de verificación** contra el texto final del nuevo decreto
+cuando se expida. No hay manera de saber, sin ese texto, cuál de las dos fechas usará el
+Gobierno como línea base para contar los nuevos plazos.
+
+### 7.2. Por qué la URF pide justo 6 meses (justificación resumida)
+
+1. **Interdependencia entre instrumentos.** El cronograma ordena el resto; el Directorio
+   depende de que existan estándares; los indicadores dependen de que el sistema ya opere.
+   Publicar cualquiera antes de tiempo obliga a rehacerlo.
+2. **Evidencia ya recogida por la SFC:** 7 mesas técnicas con 157 entidades (jun-jul 2026);
+   651 observaciones al proyecto de Circular Externa 010/2026; solicitudes de más tiempo en
+   la consulta del propio cronograma (cerrada 15-sep-2026).
+3. **El Directorio de Participantes es el instrumento más complejo** — falta definir si es
+   solo registral o si tendrá funciones operativas de autenticación/conexión, y la SFC
+   busca antes cooperar con la CMF (Chile), el BCB (Brasil) y la FCA (Reino Unido).
+4. **Fortalecimiento institucional de la SFC** — consultorías, capacitación y talento
+   regulatorio/tecnológico nuevo para asumir cronograma + Directorio + indicadores +
+   coordinación con la SIC en datos personales, simultáneamente.
+5. **Circunstancia sobreviniente: el sismo del 10 de agosto de 2026.** Daños estimados en
+   **más de $30 billones**; Emergencia Económica, Social y Ecológica declarada por el
+   Decreto 1261 del 19-ago-2026 (art. 215 C.P.). El documento técnico dice explícitamente
+   que esto desvió capacidad técnica y jurídica de la SFC hacia la respuesta a la
+   emergencia, compitiendo con la implementación de finanzas abiertas.
+
+**Benchmark internacional citado por la URF para justificar que 6 meses es poco:** Reino
+Unido tardó ~7 años (2016→2023) en cerrar su roadmap; Brasil pospuso su fase 1 y tardó
+~5 años en llegar a portabilidad de crédito; **Chile —el caso más comparable— dio 24 meses
+de transición y en junio de 2026 los extendió un año adicional.** Frente a eso, la URF
+argumenta que pedir 6 meses en Colombia es "acotado y proporcionado".
+
+### 7.3. Tabla de ajuste propuesto
+
+| Instrumento | Plazo vigente | Vence hoy (según URF) | Plazo propuesto | Nuevo vencimiento propuesto |
+|---|---|---|---|---|
+| Cronograma de expedición de estándares | 6 meses | 7-oct-2026 | 12 meses | 7-abr-2027 |
+| Directorio de Participantes | 12 meses | 7-abr-2027 | 18 meses | 7-oct-2027 |
+| Indicadores de seguimiento | 12 meses | 7-abr-2027 | 18 meses | 7-oct-2027 |
+| Estándares e información de portabilidad financiera | 24 meses | 4-ago-2028 | 30 meses | 4-feb-2029 |
+
+*Fuente: Tabla 1 del documento técnico de la URF, pág. 18.*
+
+### 7.4. Qué significa para el cronograma de este documento (secciones 1-6)
+
+Si el decreto se expide tal como está el proyecto, el punto de partida del cronograma
+(fila "fecha proyectada" de la sección 2) se mueve de oct-2026 a **abr-2027**, y **todas**
+las fechas proyectadas de la sección 2 y 3 se corren ~6 meses hacia adelante. El **Hallazgo
+2** de la sección 4 (posible inconsistencia entre portabilidad comercial a 24 meses del
+cronograma vs. tope del art. 6 del D-0977) queda parcialmente atenuado si el tope de
+portabilidad también se mueve a feb-2029, pero **no se resuelve del todo** sin ver el texto
+final — sigue siendo un punto a vigilar, no a dar por cerrado.
+
+**No se hicieron cambios a las secciones 1-6** de este documento: siguen describiendo el
+escenario vigente hoy. Este documento se actualizará con fechas definitivas solo cuando el
+decreto de ampliación se expida (o se archive) en el Diario Oficial.
