@@ -141,6 +141,71 @@ certificado vinculado); esto se verificó contra el documento de descubrimiento
 público, que es la fuente estándar y autoritativa para qué métodos acepta un
 Authorization Server OIDC/FAPI.
 
+> ⚠️ **Matiz tras revisar el flujo documentado paso a paso** (portal → Documentación →
+> Casos de uso → Open Finance → Open Banking Authorization → "Documentación", distinto
+> de "Introducción" y "OpenID Discovery"): en **cada uno** de los 6 pasos del flujo que
+> Bancolombia describe (autorización inicial del TPP, creación de la intención de
+> autorización, PAR, redirección/consentimiento del cliente, intercambio de código por
+> token, consumo de las APIs de producto) el texto repite explícitamente:
+> *"Para la autenticación del consumidor en el servicio se requiere **MTLS y
+> private_key_jwt**"*. El discovery document declara `tls_client_auth` como capacidad
+> soportada, pero **el flujo real que Bancolombia documenta y espera que implementes usa
+> `private_key_jwt`** de forma consistente en todos los pasos — mTLS ahí funciona como
+> capa de transporte y vinculación del token (sender-constraining), no como el método de
+> autenticación del cliente en `/token`. No hay ningún paso del flujo documentado donde
+> describan `tls_client_auth` puro como el mecanismo a usar. **Recomendación:**
+> implementar `private_key_jwt` (lo documentado paso a paso) en vez de apoyarse solo en
+> que el discovery doc lista `tls_client_auth` como soportado.
+
+### 2.4 Cómo generar el certificado para firmar el JWT (`private_key_jwt`)
+
+Bancolombia no publica una guía de generación de certificados específica para Open
+Finance — remite a la misma guía general del Centro de Ayuda
+("¿Qué son los certificados digitales y cómo funcionan?"), que aplica igual aquí:
+
+```bash
+openssl req -newkey rsa:2048 -nodes -keyout key.pem -x509 -days 365 -out certificate.pem
+```
+
+Datos de ejemplo pedidos por el prompt de `openssl`:
+```
+Country Name: CO
+State or Province: ANTIOQUIA
+Locality Name: MEDELLIN
+Organization Name: Mi Organization S.A
+Organizational Unit Name: BANCOLOMBIA
+Common Name: nombreapp.apps.ambientesbc.com
+```
+
+**Características exigidas:** tamaño de clave **2048** (RSA), algoritmo de firma
+**SHA256 con RSA**, formato **X.509 codificado en base64**.
+
+**Sandbox vs. producción:**
+- Sandbox: certificado **autofirmado** permitido.
+- Producción: **no se permite autofirmado** — debe emitirlo una Autoridad Certificadora
+  (CA) reconocida, conforme a la **Ley 527 de 1999** (CE 004/2024 exige lo mismo tanto
+  para mTLS como para `private_key_jwt`, ver `docs/07-fapi-y-seguridad.md` §4.1.b y c
+  de este repositorio).
+
+**Pasos:**
+1. Generar el par de llaves (`key.pem` privada, `certificate.pem`/clave pública) con el
+   comando anterior.
+2. Adjuntar el **certificado público** a la app desde "Editar aplicación" en el portal
+   — esto es lo que permite a Bancolombia registrar tu `kid` contra tu llave pública
+   (el registro formal de cliente OIDC para Open Finance usa además el
+   `registration_endpoint` del discovery doc:
+   `https://rs1-api-open-finance-sandbox.ambientesbc.com/dynamic-client-registration/v3.2/register`,
+   no confirmado en detalle — requiere sesión autenticada en el portal).
+3. Con la **llave privada** (`key.pem`), firmar el JWT en RS256 siguiendo la estructura
+   de "Utilidad: Prepare private key JWT" (§2 de este documento no cubierto aquí, ver
+   fuente en la tabla de fuentes): `header.alg=RS256`, `header.kid=<el kid registrado>`,
+   `body.iss=body.sub=<client_id>`, `body.aud=<issuer del discovery doc>`, `body.exp`,
+   `body.iat`, `body.jti=<GUID único>`.
+4. Enviar ese JWT firmado como `client_assertion` (con
+   `client_assertion_type=urn:ietf:params:oauth:client-assertion-type:jwt-bearer`) en la
+   solicitud a `/token`, además de establecer la conexión sobre **mTLS** con el mismo
+   certificado.
+
 ## 3. Comparación directa
 
 | | §1 API Market general | §2 Sandbox Open Finance |
@@ -148,15 +213,22 @@ Authorization Server OIDC/FAPI.
 | Dominio | `developer-portal-public-sbx.apps.ambientesbc.com` | `*-api-open-finance-sandbox.ambientesbc.com` |
 | Estándar | OAuth 2.0 genérico | FAPI 2.0 (PAR, PKCE S256, tokens mTLS-bound) |
 | Métodos de auth en `/token` | Solo `client_secret` (Basic o formData) | `client_secret_basic`, `client_secret_jwt`, `tls_client_auth`, `private_key_jwt` |
-| `tls_client_auth` puro | ❌ No soportado | ✅ Soportado |
+| `tls_client_auth` puro | ❌ No soportado | ⚠️ Declarado soportado por el discovery doc, pero **no** es el método que Bancolombia documenta en su flujo paso a paso |
+| Método documentado en el flujo paso a paso | `client_secret` (Basic o formData) | `private_key_jwt` + mTLS (repetido en los 6 pasos del flujo) |
 | Grant típico | `client_credentials` | `authorization_code` (+ `client_credentials`, `refresh_token`, CIBA) |
 | Certificación regulatoria | No aplica | Decreto 0368/2026 + CE 004/2024 |
 
 **Conclusión para tu pregunta original:** si estás integrando contra el **API regulado
-de Finanzas Abiertas** (§2), `tls_client_auth` puro (`client_id` + `grant_type`,
-confiando en el certificado mTLS) **sí es una opción válida** según lo que declara el
-Authorization Server. Si estás integrando contra el **API Market general** (§1, BaaS/
-BNPL/pagos), no lo es — ahí el `client_secret` es obligatorio.
+de Finanzas Abiertas** (§2), el Authorization Server **declara** soportar `tls_client_auth`
+puro (`client_id` + `grant_type`, confiando en el certificado mTLS) en su discovery
+document — técnicamente es una opción. Pero el **flujo que Bancolombia documenta y
+espera que implementes usa `private_key_jwt`** en cada paso, no `tls_client_auth` puro
+(ver §2.3 y §2.4 para cómo generar el certificado para ese flujo). Si vas a producción,
+la recomendación es implementar lo documentado (`private_key_jwt`) y no depender de una
+capacidad que el AS declara pero que Bancolombia no usa como ejemplo en ningún paso —
+confírmalo con ellos antes de decidirte por `tls_client_auth` puro. Si estás integrando
+contra el **API Market general** (§1, BaaS/BNPL/pagos), ninguna de las dos aplica — ahí
+el `client_secret` es obligatorio.
 
 ## 4. Fuentes
 
@@ -168,6 +240,7 @@ BNPL/pagos), no lo es — ahí el `client_secret` es obligatorio.
 | Centro de Ayuda — "¿Qué es OAuth?" | https://soportedevs.bancolombia.com/hc/es-419/articles/5520302584340--Qu%C3%A9-es-OAuth |
 | Centro de Ayuda — "¿Qué es Json Web Token y cómo funciona?" | https://soportedevs.bancolombia.com/hc/es-419/articles/11542467193492-JWT |
 | Centro de Ayuda — "¿Qué son los certificados digitales y cómo funcionan?" | https://soportedevs.bancolombia.com/hc/es-419/articles/30664196184980--Qu%C3%A9-son-los-certificados-digitales-y-c%C3%B3mo-funcionan |
-| Centro de Ayuda — categoría "Casos de uso de Open Banking" (¿Qué es PKCE?, Prepare private key JWT, GET par-auth-code-url, Glosario Open Banking) | https://soportedevs.bancolombia.com/hc/es-419/categories/28750379947156 |
+| Centro de Ayuda — categoría "Casos de uso de Open Banking" (¿Qué es PKCE?, Prepare private key JWT, GET par-auth-code-url, Glosario Open Banking) | https://soportedevs.bancolombia.com/hc/es-419/categories/28750341626900-Casos-de-uso-de-Open-Banking |
 | Documento de descubrimiento OpenID (sandbox, en vivo) | https://auth1-api-open-finance-sandbox.ambientesbc.com/.well-known/openid-configuration |
 | JWKS del Authorization Server (sandbox, en vivo) | https://s3.us-east-1.amazonaws.com/keystore.sandbox.bancol.col-hub-prod.ozoneapi.co.uk/server |
+| API Market — Open Banking Authorization → "Documentación" (flujo paso a paso, 6 pasos, cada uno exige MTLS + private_key_jwt) | https://developer-portal-public-sbx.apps.ambientesbc.com/documentacion/Open%20Banking%20Authorization |
