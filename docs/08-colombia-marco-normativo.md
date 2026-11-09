@@ -1,6 +1,8 @@
 # 08 · Colombia — marco normativo completo
 
-**Fecha de corte: 10 de septiembre de 2026**
+**Fecha de corte: 10 de septiembre de 2026** · **Actualización parcial 9-nov-2026:** solo los
+plazos de los arts. 4 (D-0368) y 6 (D-0977), modificados por el **Decreto 1489 de 2026**; el
+resto no se re-verificó.
 
 ---
 
@@ -290,16 +292,18 @@ cumpliendo el Título 8 y el **Capítulo IX del Título I de la Parte I de la Ci
   (art. 104 de la Ley 2294 de 2023).
 - **Art. 3** — **cronograma para la estandarización** (ver [`09`](09-colombia-cronograma-y-analisis.md)).
 - **Art. 4** — plazos para la SFC:
-  1. Publicar el cronograma: **máximo 6 meses** desde la vigencia → **10-oct-2026**.
-  2. Poner en funcionamiento el **directorio** y sus lineamientos: **máximo 12 meses**
-     → **10-abr-2027**.
-  3. Definir los **indicadores** del art. 2.35.8.7.2: **máximo 12 meses** → **10-abr-2027**.
+  1. Publicar el cronograma: **máximo 12 meses** desde la entrada en vigor → **7/10-abr-2027**
+     *(texto original: 6 meses → 7/10-oct-2026)*.
+  2. Poner en funcionamiento el **directorio** y sus lineamientos: **máximo 18 meses**
+     → **7/10-oct-2027** *(original: 12 meses → abr-2027)*.
+  3. Definir los **indicadores** del art. 2.35.8.7.2: **máximo 18 meses** → **7/10-oct-2027**
+     *(original: 12 meses)*.
 - **Art. 5** — vigencia y derogatorias.
 
-> ⚠️ **NO VIGENTE — desde el 22-sep-2026** hay un **proyecto de decreto** de la URF (comentarios
-> hasta el 27-sep-2026) que propone modificar este mismo art. 4: llevar el plazo del
-> cronograma a 12 meses, y el del directorio/indicadores a 18 meses. Análisis completo,
-> justificación y discrepancia de fechas (7-oct vs. 10-oct) en
+> ✅ **MODIFICADO — Decreto 1489 de 2026** (6-oct-2026, Diario Oficial 53.650, rige desde el
+> 7-oct-2026). Su art. 1 sustituyó este art. 4 con los plazos de 12 / 18 / 18 meses que
+> aparecen arriba. Texto en `fuentes-primarias/decreto-1489-2026-texto.txt`. El decreto no
+> fija fechas calendario, por lo que la discrepancia 7 vs. 10 sigue abierta. Análisis en
 > [`09-colombia-cronograma-y-analisis.md`](09-colombia-cronograma-y-analisis.md), sección 7.
 
 ## 4. Decreto 0977 de 2026 — portabilidad financiera
@@ -371,12 +375,11 @@ finanzas abiertas** (arts. 2.35.8.4.1 y 2.35.8.4.2).
 - **Art. 5:** la SFC debe **incluir la portabilidad en el cronograma** dentro de los
   **2 meses siguientes** a la publicación del cronograma de estandarización.
 - **Art. 6 (transición):** la SFC publica los estándares del certificado y define la
-  información a reportar en **máximo 24 meses** desde la vigencia del decreto
-  (≈ **5 de agosto de 2028**).
+  información a reportar en **máximo 30 meses** desde la vigencia del decreto
+  (≈ **4/5 de febrero de 2029**) *(texto original: 24 meses ≈ 5-ago-2028)*.
 
-> ⚠️ **NO VIGENTE — desde el 22-sep-2026** el mismo proyecto de decreto de la URF (nota
-> arriba) propone ampliar este art. 6 de 24 a 30 meses (nuevo tope ≈ **4-feb-2029**). Ver
-> [`09`](09-colombia-cronograma-y-analisis.md), sección 7.3.
+> ✅ **MODIFICADO — Decreto 1489 de 2026, art. 2** (vigente desde el 7-oct-2026): ampló
+> este art. 6 de 24 a 30 meses. Ver [`09`](09-colombia-cronograma-y-analisis.md), secciones 7 y 7.3.
 
 ## 5. Circulares de la SFC
 

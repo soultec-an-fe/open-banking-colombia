@@ -1,15 +1,16 @@
 # 12 · Plan de trabajo
 
-**Fecha de corte: 23 de septiembre de 2026**
+**Fecha de corte: 23 de septiembre de 2026** · **Actualización parcial 9-nov-2026:** §1 y P1-3 (Decreto 1489 de 2026).
 
 ---
 
-## 1. Lo urgente: 4 días
+## 1. Lo urgente (actualizado 9-nov-2026)
 
 | # | Acción | Vence | Responsable |
 |---|---|---|---|
-| 1 | Decidir si se radican comentarios al **proyecto de decreto de ampliación de plazos** (art. 4 D-0368 / art. 6 D-0977 — 6 meses más para cronograma, Directorio, indicadores y portabilidad) | **27-sep-2026, 11:59 p.m.** | — |
-| 2 | Comentarios al **proyecto de cronograma** de la SFC — ventana **cerrada** (15-sep-2026). Pendiente confirmar si se radicó la matriz [`entregables/matriz-comentarios-cronograma-finanzas-abiertas.docx`](../entregables/matriz-comentarios-cronograma-finanzas-abiertas.docx) | 15-sep-2026 (cerrado) | — |
+| 1 | ~~Comentarios al proyecto de decreto de ampliación de plazos~~ — **cerrado**: se expidió como **Decreto 1489 de 2026** (6-oct-2026). Ya no hay ventana | 27-sep-2026 (cerrado) | — |
+| 2 | Comentarios al **proyecto de cronograma** de la SFC — ventana **cerrada** (15-sep-2026). Pendiente confirmar si se radicó la matriz [`entregables/matriz-comentarios-cronograma-finanzas-abiertas.docx`](../entregables/matriz-comentarios-cronograma-finanzas-abiertas.docx). La SFC aún no expide el cronograma (tope nuevo: **7/10-abr-2027**) | 15-sep-2026 (cerrado) | — |
+| 3 | Verificar el **texto del D-1489** contra el PDF del Diario Oficial o de MinHacienda (hoy se tomó del Normograma de Colpensiones) y vigilar la **circular de lineamientos del Directorio** (tope **7/10-oct-2027**) — ver [`11`](11-arquitectura-de-referencia.md) §8 | Sin fecha | — |
 
 Los seis comentarios técnicamente fundamentados ya están redactados en
 [`09-colombia-cronograma-y-analisis.md`](09-colombia-cronograma-y-analisis.md), sección 5.
@@ -83,7 +84,7 @@ Ver [`14`](14-iniciacion-de-pagos-colombia.md).
 |---|---|
 | P1-1 | **Gap analysis** contra el nuevo Capítulo IX + plan de adecuación (exigible en 30 días desde la expedición; tope 7-abr-2027) |
 | P1-2 | **Modelo de costos de infraestructura** y esquema tarifario por volumen, con factores objetivos, medibles y verificables (arts. 2.35.8.3.8 y 2.35.8.3.9) |
-| P1-3 | **Preparación de inscripción en el directorio** (operativo antes del 10-abr-2027): identificación, contacto, tarifas, claves y contacto operativo designado |
+| P1-3 | **Preparación de inscripción en el directorio** (tope legal del Directorio: **7/10-oct-2027**, según el D-1489): identificación, contacto, tarifas, claves y contacto operativo designado |
 | P1-4 | **Políticas de vinculación de Terceros No Vigilados**, aprobadas por junta directiva y publicadas en web (numeral 6.2 del proyecto Cap. IX) |
 | P1-5 | **Mapeo ISO 20022** del catálogo de datos propios |
 | P1-6 | **Gestión de vulnerabilidades API** alineada a OWASP API Top 10, NIST SP 800-204 y CSA |

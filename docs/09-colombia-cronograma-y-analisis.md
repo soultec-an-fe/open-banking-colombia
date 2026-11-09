@@ -1,17 +1,25 @@
 # 09 · Colombia — cronograma de estandarización y análisis crítico
 
-**Fecha de corte: 23 de septiembre de 2026**
+**Fecha de corte: 23 de septiembre de 2026** · **Actualización parcial 9-nov-2026:** solo
+el Decreto 1489 de 2026 (sección 7) y el estado de los proyectos en la web de la SFC; el
+resto del contenido no se re-verificó.
 
-> ⚠️ **Todo este documento analiza un PROYECTO en consulta pública.**
+> ✅ **VIGENTE desde el 7-oct-2026 — Decreto 1489 de 2026.** El proyecto de ampliación de
+> plazos se expidió el 6-oct-2026 (Diario Oficial 53.650). Los plazos de las secciones 1-6
+> **ya no son los legales**: cronograma a **12 meses**, Directorio e indicadores a **18
+> meses**, portabilidad a **30 meses**. Ver sección 7 y
+> `fuentes-primarias/decreto-1489-2026-texto.txt`. Las fechas proyectadas de las secciones
+> 2-3 (calculadas sobre la base de oct-2026) se corren ~6 meses.
+
+> ⚠️ **Todo lo demás de este documento analiza un PROYECTO en consulta pública.**
 > *Proyecto de Carta Circular: "Cronograma para la expedición de estándares de intercambio
 > de información en el sistema de finanzas abiertas"*, publicado el **31 de agosto de 2026**.
 > Comentarios cerraron el **15 de septiembre de 2026, 5:00 p.m.** — la SFC aún no expide
 > versión definitiva (ver sección 7 sobre por qué se está demorando).
 
-> ⚠️ **NO VIGENTE — nuevo desde el 22-sep-2026.** Un segundo proyecto, esta vez de
-> **decreto** (no de circular), propone **extender 6 meses** todos los plazos de este
-> cronograma. Ver sección 7. Mientras no se expida, las fechas de las secciones 1-6 de
-> este documento (basadas en el D-0368/2026 vigente) siguen siendo las legales.
+> 🕓 **Histórico (22-sep-2026).** El proyecto de **decreto** (no de circular) que propuso
+> extender 6 meses los plazos es el que se expidió como Decreto 1489 de 2026. Las secciones
+> 1-6 conservan el análisis sobre los plazos originales del D-0368/2026 como referencia.
 
 ---
 
@@ -63,10 +71,9 @@ Los plazos son **meses máximos desde la fecha de publicación del cronograma**.
 \* Fechas calculadas asumiendo publicación del cronograma el **10 de octubre de 2026**
 (fecha límite legal del art. 4.1 del D-0368/2026, contando desde la entrada en vigencia
 del 10-abr-2026 según su art. 5). Si la SFC publica antes, todo se corre.
-> ⚠️ Ver sección 7: el propio documento técnico de la URF (sep-2026) calcula este mismo
-> tope como **7 de octubre de 2026**, y el proyecto de decreto en curso propone moverlo
-> a **7 de abril de 2027**. Todas las fechas de esta tabla son **anteriores** a ese
-> proyecto y deben leerse como el escenario "sin ampliación".
+> ⚠️ **Desactualizado por el Decreto 1489 de 2026** (sección 7): el tope del cronograma pasó a
+> **7/10 de abril de 2027**. Todas las fechas de esta tabla corresponden al escenario "sin
+> ampliación" y deben **correrse ~6 meses**.
 
 **El cronograma es revisable:** *"podrá ser objeto de revisiones posteriores, de acuerdo con
 los desarrollos normativos, las capacidades de adopción del sistema"* y conforme al
@@ -256,35 +263,60 @@ mecanismo operativo definido.
 | 31-ago-2026 | Publicación del proyecto de cronograma | SFC | ✅ |
 | **15-sep-2026** | 🔴 Cierre de comentarios al cronograma | Proyecto de Carta Circular | ✅ Cerrado |
 | **22-sep-2026** | Publicación del **proyecto de decreto de ampliación de plazos** (art. 4 D-0368 y art. 6 D-0977) | URF | ✅ |
-| **27-sep-2026, 11:59 p.m.** | 🔴 **Cierre de comentarios al proyecto de decreto de ampliación** | URF | ⏳ **4 días** |
-| **7 / 10-oct-2026** | 🔴 **Tope legal vigente para publicar el cronograma** (7-oct según cómputo de la URF desde la fecha del decreto; 10-oct según la vigencia del art. 5) — ver discrepancia en sección 7.1 | D-0368 art. 4.1 | ⏳ |
-| ~dic-2026 | Tope para incluir portabilidad en el cronograma | D-0977 art. 5 | ⏳ |
+| **27-sep-2026, 11:59 p.m.** | Cierre de comentarios al proyecto de decreto de ampliación | URF | ✅ Cerrado |
+| **6-oct-2026** | **Decreto 1489 de 2026** (Diario Oficial 53.650); rige desde el día siguiente (**7-oct-2026**) | MinHacienda | ✅ **Vigente** |
+| ~~7 / 10-oct-2026~~ | ~~Tope para publicar el cronograma~~ — **reemplazado** por el nuevo plazo de 12 meses (ver abajo) | D-0368 art. 4.1 (modificado) | ♻️ Superado |
+| **7 / 10-abr-2027** | 🔴 **Nuevo tope para publicar el cronograma** (12 meses desde la entrada en vigor del D-0368) | D-0368 art. 4.1 (mod. D-1489) | ⏳ |
+| ~dic-2026 → ~jun-2027 | Tope para incluir portabilidad en el cronograma (2 meses después de publicarlo; se mueve con el cronograma) | D-0977 art. 5 | ⏳ |
 | Pendiente | Expedición de la nueva Circular Externa (Cap. IX, antes Proyecto 010/2026) | SFC | ⏳ |
 | +30 días de esa expedición | Entidades con casos de uso vigentes remiten **plan de adecuación** | Proyecto CE, 2.3 | ⏳ |
 | 7-abr-2027 | Adecuación de modelos existentes al nuevo Capítulo IX | Proyecto CE, 2.3 | ⏳ |
-| **7 / 10-abr-2027** | 🔴 **Directorio operativo + indicadores definidos** (vigente, sin ampliación) | D-0368 art. 4.2 y 4.3 | ⏳ |
-| ~jun-2027 | Estándar de portabilidad de consumo | Borrador cronograma | ⏳ |
-| ~5-ago-2028 | Tope legal vigente de estándares de portabilidad | D-0977 art. 6 | ⏳ |
+| ~~7 / 10-abr-2027~~ | ~~Directorio operativo + indicadores~~ — **ampliado** por el D-1489 | D-0368 art. 4.2 y 4.3 (original) | ♻️ Superado |
+| **7 / 10-oct-2027** | 🔴 **Directorio operativo + indicadores definidos** (18 meses) | D-0368 art. 4.2 y 4.3 (mod. D-1489) | ⏳ |
+| ~jun-2027 (+6 m) | Estándar de portabilidad de consumo (proyección del borrador; se corre con el cronograma) | Borrador cronograma | ⏳ |
+| **~4 / 5-feb-2029** | Tope legal de estándares de portabilidad (30 meses desde la vigencia del D-0977) | D-0977 art. 6 (mod. D-1489) | ⏳ |
 | ~2034–2039 | Historial transaccional e iniciación de pagos | Borrador cronograma | ⏳ |
 
-> Las filas en negrita con dos fechas separadas por "/" reflejan la discrepancia documentada
-> en la sección 7.1. Si el proyecto de decreto de ampliación se expide, todas estas fechas
-> se recalculan según la tabla de la sección 7.2.
+> Las filas en negrita con dos fechas separadas por "/" reflejan la discrepancia de 3 días
+> documentada en la sección 7.1, que **el Decreto 1489 no resuelve**.
 
-## 7. Proyecto de decreto de ampliación de plazos (22-sep-2026) — NO VIGENTE
+## 7. Decreto 1489 de 2026 — ampliación de plazos (VIGENTE desde el 7-oct-2026)
 
-> **Fuente primaria:** `fuentes-primarias/urf-documento-tecnico-ajuste-plazos-2026.pdf`
-> (Documento Técnico "Ajustes en los plazos de implementación del sistema de finanzas
-> abiertas obligatorio", URF, septiembre de 2026, 22 páginas). Publicado a comentarios por
-> la URF el **22-sep-2026**, cierra el **27-sep-2026, 11:59 p.m.**
-> (`urf.gov.co/normatividad/proyectos-de-decreto/2026`).
+> ✅ **Expedido el 6-oct-2026**, Diario Oficial No. 53.650, MinHacienda. Rige "a partir del
+> día siguiente a su publicación" (art. 3). Texto: `fuentes-primarias/decreto-1489-2026-texto.txt`
+> (tomado del Normograma de Colpensiones; **pendiente contrastar** con el PDF del Diario
+> Oficial o de MinHacienda). Antecedente: Documento Técnico de la URF,
+> `fuentes-primarias/urf-documento-tecnico-ajuste-plazos-2026.pdf`, publicado a comentarios
+> del 22 al 27-sep-2026. El Consejo Directivo de la URF aprobó el contenido el 1-oct-2026
+> (Sesión Extraordinaria 16).
 
-El proyecto modifica el **art. 4 del Decreto 368 de 2026** y el **art. 6 del Decreto 977 de
-2026** — es decir, toca los decretos mismos, no una circular de la SFC. **No modifica la
-obligatoriedad del sistema, los roles de los participantes ni las disposiciones
-sustantivas** del Decreto 2555 de 2010 incorporadas por esos dos decretos.
+El decreto modifica el **art. 4 del Decreto 368 de 2026** (art. 1) y el **art. 6 del Decreto
+977 de 2026** (art. 2) — toca los decretos mismos, no una circular de la SFC. Su objeto es
+solo el de los plazos: **no modifica la obligatoriedad del sistema, los roles ni las
+disposiciones sustantivas** del Decreto 2555 de 2010.
 
-### 7.1. Discrepancia detectada: 7-oct-2026 vs. 10-oct-2026
+| Instrumento | Plazo anterior | **Plazo vigente** (D-1489) |
+|---|---|---|
+| Cronograma de estandarización (art. 4 num. 1 D-0368) | 6 meses | **12 meses** |
+| Directorio de participantes en funcionamiento + lineamientos de acceso, inscripción, modificación y retiro (art. 4 num. 2) | 12 meses | **18 meses** |
+| Indicadores de seguimiento, art. 2.35.8.7.2 (art. 4 num. 3) | 12 meses | **18 meses** |
+| Estándares de portabilidad e información a reportar (art. 6 D-0977) | 24 meses | **30 meses** |
+
+Los plazos de D-0368 se cuentan "a partir de la entrada en vigor" de ese decreto; el de
+portabilidad, desde la vigencia del D-0977. El D-1489 **no fija fechas calendario**.
+
+> **Dato que cambia el cálculo.** La SFC pidió la ampliación mediante el **Oficio
+> URF-R-2026-000322 del 8-sep-2026**, y el decreto se expidió **antes** de que venciera el
+> plazo del cronograma (7/10-oct-2026), igual que las dos prórrogas de la CE 004/2024. Las
+> notas de prensa (INCP, Portafolio) reportan los vencimientos como 7-abr-2027, 7-oct-2027 y
+> 4-feb-2029, es decir, con la base del 7-abr-2026.
+
+### 7.1. Discrepancia: 7-oct-2026 vs. 10-oct-2026 — **sigue abierta**
+
+El art. 5 del D-0368/2026 dice que el decreto *"rige a partir del día siguiente a su
+publicación en el Diario Oficial"* (publicado 9-abr-2026 → vigencia **10-abr-2026**). Con
+esa lectura, los nuevos plazos vencen el **10-abr-2027** (cronograma) y el **10-oct-2027**
+(Directorio e indicadores).
 
 El art. 5 del D-0368/2026 dice que el decreto *"rige a partir del día siguiente a su
 publicación en el Diario Oficial"* (publicado 9-abr-2026 → vigencia **10-abr-2026**), lo que
@@ -297,9 +329,12 @@ redactó el decreto y ahora redacta su modificación— computa esos mismos plaz
 **vencidos el 7 de octubre de 2026** y **el 7 de abril de 2027**, contando aparentemente
 desde la fecha de expedición/firma del decreto (7-abr-2026) y no desde su entrada en
 vigencia (10-abr-2026). Es una discrepancia de 3 días en un documento oficial que sustenta
-un cambio normativo — **pendiente de verificación** contra el texto final del nuevo decreto
-cuando se expida. No hay manera de saber, sin ese texto, cuál de las dos fechas usará el
-Gobierno como línea base para contar los nuevos plazos.
+un cambio normativo. **Verificado el 9-nov-2026 contra el texto del D-1489:** el decreto
+solo dice "contados a partir de la entrada en vigor del presente decreto" (el D-0368) y no
+fija fechas, así que **la discrepancia no se resuelve por el texto**. Hasta que la SFC (o un
+concepto oficial) fije una línea base, este repo usa la convención "7 / 10": el 7 es el
+cómputo de la URF y la prensa; el 10 es la lectura literal de los arts. 4 y 5 del D-0368.
+Para planear, tome la fecha **más temprana** (7) como límite prudente.
 
 ### 7.2. Por qué la URF pide justo 6 meses (justificación resumida)
 
@@ -327,27 +362,36 @@ Unido tardó ~7 años (2016→2023) en cerrar su roadmap; Brasil pospuso su fase
 de transición y en junio de 2026 los extendió un año adicional.** Frente a eso, la URF
 argumenta que pedir 6 meses en Colombia es "acotado y proporcionado".
 
-### 7.3. Tabla de ajuste propuesto
+### 7.3. Equivalencia con la tabla del documento técnico de la URF
 
-| Instrumento | Plazo vigente | Vence hoy (según URF) | Plazo propuesto | Nuevo vencimiento propuesto |
+Fechas calculadas por la URF (base 7-abr-2026, **no** la vigencia del 10-abr). El D-1489 adoptó
+los plazos en meses de esta tabla tal cual; las fechas calendario siguen siendo las de la
+discrepancia 7.1.
+
+| Instrumento | Plazo anterior | Vencía (según URF) | **Plazo vigente** | Nuevo vencimiento (según URF / prensa) |
 |---|---|---|---|---|
-| Cronograma de expedición de estándares | 6 meses | 7-oct-2026 | 12 meses | 7-abr-2027 |
-| Directorio de Participantes | 12 meses | 7-abr-2027 | 18 meses | 7-oct-2027 |
-| Indicadores de seguimiento | 12 meses | 7-abr-2027 | 18 meses | 7-oct-2027 |
-| Estándares e información de portabilidad financiera | 24 meses | 4-ago-2028 | 30 meses | 4-feb-2029 |
+| Cronograma de expedición de estándares | 6 meses | 7-oct-2026 | **12 meses** | 7-abr-2027 |
+| Directorio de Participantes | 12 meses | 7-abr-2027 | **18 meses** | 7-oct-2027 |
+| Indicadores de seguimiento | 12 meses | 7-abr-2027 | **18 meses** | 7-oct-2027 |
+| Estándares e información de portabilidad financiera | 24 meses | 4-ago-2028 | **30 meses** | 4-feb-2029 |
 
-*Fuente: Tabla 1 del documento técnico de la URF, pág. 18.*
+*Fuente: Tabla 1 del documento técnico de la URF, pág. 18; plazos en meses verificados contra
+el texto del D-1489 (arts. 1 y 2).*
 
 ### 7.4. Qué significa para el cronograma de este documento (secciones 1-6)
 
-Si el decreto se expide tal como está el proyecto, el punto de partida del cronograma
-(fila "fecha proyectada" de la sección 2) se mueve de oct-2026 a **abr-2027**, y **todas**
-las fechas proyectadas de la sección 2 y 3 se corren ~6 meses hacia adelante. El **Hallazgo
-2** de la sección 4 (posible inconsistencia entre portabilidad comercial a 24 meses del
-cronograma vs. tope del art. 6 del D-0977) queda parcialmente atenuado si el tope de
-portabilidad también se mueve a feb-2029, pero **no se resuelve del todo** sin ver el texto
-final — sigue siendo un punto a vigilar, no a dar por cerrado.
+El punto de partida del cronograma (fila "fecha proyectada" de la sección 2) se mueve de
+oct-2026 a **abr-2027**, y **todas** las fechas proyectadas de las secciones 2 y 3 se corren
+~6 meses hacia adelante. **Estas secciones no se reescribieron**: conservan el cálculo sobre
+el plazo original y deben leerse con ese desplazamiento.
 
-**No se hicieron cambios a las secciones 1-6** de este documento: siguen describiendo el
-escenario vigente hoy. Este documento se actualizará con fechas definitivas solo cuando el
-decreto de ampliación se expida (o se archive) en el Diario Oficial.
+El **Hallazgo 2** de la sección 4 (portabilidad comercial a 24 meses del cronograma vs. tope
+del art. 6 del D-0977) **no se resuelve**: ambos extremos se corrieron 6 meses. Si la SFC
+publica el cronograma en el último día (abr-2027), el mes 24 cae ~abr-2029, unos **2 meses
+después** del nuevo tope (~feb-2029) — el mismo desfase de antes. Sigue siendo un punto a
+vigilar y a incluir en comentarios cuando se consulte el cronograma definitivo.
+
+**Qué sigue sin expedirse (a 9-nov-2026):** la web de la SFC aún lista como proyectos el
+Cronograma (Carta Circular, modificado 31-ago-2026) y el Capítulo IX (proyecto 10_2026); el
+listado se actualizó por última vez el 23-oct-2026. Esto indica, sin probarlo, que no se
+han expedido — verifique en el Diario Oficial antes de afirmarlo.

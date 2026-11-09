@@ -203,7 +203,7 @@ Trabajo que **no depende** de los estándares de la SFC:
 
 > Base: CE 004 de 2024, numeral 3.2.3 lit. c) (`fuentes-primarias/circular-externa-004-2024-anexo.pdf`,
 > página 3 del Capítulo IX). El contenido mínimo del certificado **no ha sido definido por la SFC**;
-> quedará en los lineamientos del directorio (plazo 10-abr-2027). Lo demás es práctica de UK/Brasil.
+> quedará en los lineamientos del directorio (plazo 7/10-oct-2027, ampliado por el D-1489). Lo demás es práctica de UK/Brasil.
 
 ### Dos pares de llaves, no uno
 
@@ -258,3 +258,71 @@ verifica revocación por OCSP y hace *pinning* de la CA, nunca del certificado h
 | **Transporte del artefacto de consentimiento** | Claim en PAR vs API separada | **Claim firmado (JWS) en el PAR** — evita una llamada extra y garantiza integridad |
 | **TLS** | 1.2 (suites de la circular) vs 1.3 | Soportar **ambas**: 1.2 con las dos suites listadas (cumplimiento literal) y 1.3 (buena práctica). Comentar el punto a la SFC |
 | **Versionado** | Global vs por dominio | **Por dominio** — el cronograma de la SFC libera categorías a distinto ritmo |
+
+## 8. El Directorio de participantes: cómo se consume (Colombia vs. Brasil, UK, UE, Chile)
+
+> **Fecha de corte de esta sección: 9 de noviembre de 2026.** Colombia: el Directorio es
+> **norma vigente en su diseño general pero sin lineamientos**; todo lo que sigue sobre su
+> *consumo técnico* en Colombia es **análisis, no norma**. Los datos de Brasil se observaron
+> el 9-nov-2026 en el endpoint público; los de UK, UE y Chile vienen de documentación
+> pública y de resultados de búsqueda (marcados como tales).
+
+### 8.1. Qué es (y qué no es) el Directorio colombiano
+
+- **Qué:** "herramienta de consulta" que identifica a los participantes en cada rol,
+  administrada por la SFC (D-0368, art. 2.35.8.5.1). **No** lista a todas las vigiladas: solo
+  a quienes participan en finanzas abiertas.
+- **Tres módulos** (art. 2.35.8.5.3): (1) Proveedores — identificación, costo de uso de la
+  infraestructura, contacto y *"datos necesarios para el acceso"*; (2) Receptores —
+  identificación, contacto y *"datos necesarios para su autenticación"* por el Proveedor;
+  (3) Vinculaciones voluntarias — Proveedor, Tercero No Vigilado, fecha y estado.
+- **Quién llena qué:** la SFC verifica estándares *antes* de inscribir a vigilados (art.
+  2.35.8.5.4) y tramita solicitudes en máximo 1 mes (art. 2.35.8.5.5). Un **No Vigilado no se
+  inscribe por sí mismo**: aparece cuando un Proveedor registra la vinculación (art.
+  2.35.8.5.7).
+- **Qué falta:** el proyecto de Capítulo IX remite los lineamientos a una circular posterior
+  (`fuentes-primarias/proyecto-capitulo-IX-CBJ-2026.txt`, Sección III). El Documento Técnico de
+  la URF de 2026 (`fuentes-primarias/urf-documento-tecnico-ajuste-plazos-2026.txt`, §4.3) dice
+  que está **por definir** si será solo registral o si incorporará capacidades de
+  *identificación, autenticación y conexión* para reducir los acuerdos bilaterales, y que
+  la SFC buscará cooperación con la CMF (Chile), el Banco Central de Brasil y la FCA.
+- **Plazo:** **7/10-oct-2027** (18 meses; antes 12), por el Decreto 1489 de 2026.
+- **Visión de 2024 (descartada en parte):** el documento técnico de la URF de 2024 (§6) lo
+  describía como plataforma pública que expone certificados digitales, *endpoints* de API y
+  contactos, con un módulo de **Terceros de Confianza** que **no quedó** en el decreto final.
+- No confundir con el **DICE** del Banco de la República (DSP-470), que es el directorio
+  centralizado de **llaves de Bre-B**, otro sistema.
+
+### 8.2. Cómo lo hacen otros
+
+| Jurisdicción | Rol del directorio | Consumo técnico |
+|---|---|---|
+| **Brasil** — Diretório de Participantes (Open Finance Brasil) | Ancla de confianza del ecosistema: fuente única de participantes y software acreditados | **API pública sin autenticación**: `https://data.directory.openbankingbrasil.org.br/participants` devolvió JSON (≈4,4 MB; 105 organizaciones activas y 219 servidores de autorización en el archivo del 9-nov-2026; no se verificó que sea el listado completo del ecosistema). Por organización: razón social, CNPJ, roles (`CONTA`, `DADOS`, `PAGTO`, `CCORR`); por servidor de autorización: `Issuer`, `OpenIDDiscoveryDocument`, URI del JWKS, `SupportsDCR`, `SupportsCiba`, APIs con familia y versión, certificaciones con vigencia y portal de desarrolladores. Además un *keystore* público con JWKS (`keystore.directory.openbankingbrasil.org.br/openbanking.jwks`) |
+| **Reino Unido** — Open Banking Directory (OBL) | Emite credenciales de software y firma el SSA | La fintech sube certificados eIDAS-like (OBWAC/OBSeal), crea un *software statement* y obtiene un **SSA** (JWT firmado por el directorio) que presenta a cada banco por **DCR**. Hay *directory sandbox* (guía de uso v2.5, feb-2025) |
+| **UE** — registro EBA (PSD2) | **Solo informativo**: agrega los registros de las autoridades nacionales; no incluye bancos. Lo mantiene la EBA desde 18-mar-2019 | No es el canal de autenticación. La identidad técnica viaja en el **certificado cualificado** (QWAC/QSealC, ETSI TS 119 495) con autoridad nacional, número de autorización y roles (`PSP_AI`, `PSP_PI`, `PSP_AS`, `PSP_IC`). *No se verificó cómo contrasta cada banco el certificado con el registro* |
+| **Chile** — Directorio de Participantes (CMF) | La CMF lo administra (NCG 514 de 2024, ajustada por la NCG 569) | Según presentaciones de la CMF (búsqueda, sin lectura del texto): pruebas a inicios de 2026 y, en agosto de 2026, aún en construcción |
+
+**Flujo típico en Brasil y UK (resumen):** (1) el Receptor registra su software en el
+directorio; (2) el directorio emite un SSA firmado (PS256); (3) el Receptor obtiene su
+certificado cliente, cuyo identificador referencia el software registrado; (4) presenta el SSA al
+Transmisor por DCR; (5) el Transmisor valida firma y certificado contra el directorio. Fuente:
+guías del Open Finance Brasil y de OBL, ver `docs/99`.
+
+### 8.3. Lectura para Colombia (análisis, no norma)
+
+1. **Tres modelos posibles:** *registral* (como la UE: lista pública, la confianza viaja en el
+   certificado), *ancla de confianza* (Brasil/UK: el directorio firma y alimenta el registro
+   de clientes) o un híbrido. Los campos "datos necesarios para el acceso/autenticación" del
+   art. 2.35.8.5.3 apuntan al segundo, pero la SFC no ha decidido.
+2. **Diseñar con el directorio como dependencia sustituible:** el AS debe poder alimentar su
+   *trust store* y su registro de clientes tanto desde un directorio con API como desde una
+   lista cargada a mano. Un *adaptador* aísla ese cambio.
+3. **Casos que el diseño debe cubrir** aunque aún no existan los endpoints: **suspensión o
+   retiro** de un participante (art. 2.35.8.5.5 num. 5 y 6) → revocar acceso rápido y cachear
+   con caducidad corta; **cambio de datos** → refresco periódico; y el **NIT** como llave de
+   cruce con el certificado mTLS (ver §6-bis).
+4. **Oportunidad regulatoria:** los lineamientos saldrán por circular (tope 7/10-oct-2027). Es el
+   momento de pedir, vía los canales de la SFC, un directorio **legible por máquina** y
+   público estilo Brasil, con SSA o equivalente y estado de certificación.
+5. **Para una fintech no vigilada:** sin vinculación de un Proveedor, no figura en el módulo 3;
+   el directorio no sustituye el acuerdo bilateral.

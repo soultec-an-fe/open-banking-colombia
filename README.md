@@ -1,6 +1,7 @@
 # Open Banking / Open Finance — Investigación y Documentación de Referencia
 
-> **Fecha de corte de la investigación: 23 de septiembre de 2026.**
+> **Fecha de corte de la investigación: 23 de septiembre de 2026.** *Actualización parcial del
+> 9 de noviembre de 2026: Decreto 1489 de 2026 y estado del directorio; el resto no se re-verificó.*
 > Toda afirmación normativa está fechada. Las normas en trámite (proyectos, consultas
 > públicas, litigios) se marcan explícitamente como **no vigentes**.
 
@@ -18,14 +19,21 @@ Colombia pasó de un esquema **voluntario** a uno **obligatorio** el 7 de abril 
 con el **Decreto 0368 de 2026**, y añadió **portabilidad financiera** como servicio del
 sistema con el **Decreto 0977 de 2026** (4 de agosto de 2026).
 
-Hay **tres ventanas regulatorias abiertas ahora mismo**:
+El **6 de octubre de 2026** se expidió el **Decreto 1489 de 2026**, que amplía 6 meses los
+plazos de la SFC (art. 4 del D-0368/2026 y art. 6 del D-0977/2026): cronograma a **12
+meses**, Directorio de participantes e indicadores a **18 meses**, portabilidad a **30
+meses**. Quedan **dos piezas pendientes de expedición** y una fecha en movimiento:
 
 | Qué | Estado | Fecha límite |
 |---|---|---|
-| **Proyecto de decreto — ampliación de 6 meses** a los plazos del art. 4 del D-0368/2026 y el art. 6 del D-0977/2026 (cronograma, Directorio, indicadores, portabilidad) | En consulta pública (publicado 22-sep-2026 por la URF) | **27 de septiembre de 2026, 11:59 p.m.** → `urf.gov.co/normatividad/proyectos-de-decreto/2026` |
-| Proyecto de Carta Circular — **cronograma de estándares** | Comentarios cerrados el 15-sep-2026; **aún no expedida** | Expedición pendiente |
+| **Decreto 1489 de 2026** — ampliación de plazos | ✅ **Vigente desde el 7-oct-2026** (texto en `fuentes-primarias/`) | — |
+| Proyecto de Carta Circular — **cronograma de estándares** | Comentarios cerrados el 15-sep-2026; **aún no expedida** (a 9-nov-2026 la SFC la sigue listando como proyecto) | Nuevo tope: **7/10 de abril de 2027** |
 | Proyecto de Circular Externa — **nuevo Capítulo IX CBJ** (mantiene **FAPI 2.0**, añade OpenAPI 3.1) | Comentarios cerrados el 11-ago-2026; **aún no expedida** | Expedición pendiente |
-| SFC debe publicar el cronograma definitivo | Obligación legal | **7/10 de octubre de 2026** (según fuente — ver `docs/09` §7.1); si se expide la ampliación, pasaría a **abril de 2027** |
+| **Directorio de participantes** operativo + indicadores | Lineamientos sin definir; ver [`docs/11` §8](docs/11-arquitectura-de-referencia.md) | Nuevo tope: **7/10 de octubre de 2027** |
+
+> Los "7/10" son la discrepancia de 3 días entre el cómputo de la URF (desde la expedición del
+> D-0368, 7-abr-2026) y la lectura literal de su art. 5 (vigencia el 10-abr-2026). El D-1489 no
+> la resuelve. Ver `docs/09` §7.1.
 
 👉 Ver el detalle y el análisis crítico del cronograma en
 [`docs/09-colombia-cronograma-y-analisis.md`](docs/09-colombia-cronograma-y-analisis.md).
@@ -84,4 +92,5 @@ directamente de la fuente oficial, para consulta sin conexión:
 | `circular-externa-004-2024.pdf` + `-anexo.pdf` | Circular Externa 004 de 2024 y su anexo con el Capítulo IX completo (PDF escaneado, leído por imagen) |
 | `circular-externa-009-2025.pdf` · `circular-externa-001-2026.pdf` | Las dos prórrogas del plazo de adopción de los estándares |
 | `urf-documento-tecnico-finanzas-abiertas-2024.txt` | Documento Técnico de la URF que sustentó el decreto — incluye reciprocidad y Terceros de Confianza, ambos eliminados |
+| `decreto-1489-2026-texto.txt` | Decreto 1489 de 2026 (6-oct-2026): amplía 6 meses los plazos del art. 4 D-0368 y art. 6 D-0977. **Vigente.** Tomado del Normograma de Colpensiones; pendiente contrastar con el Diario Oficial |
 | `decreto-1297-2022-texto.txt` | Decreto 1297 de 2022, incluido el Título 4 del Libro 17 (iniciación de pagos), **vigente** |

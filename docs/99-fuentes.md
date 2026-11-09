@@ -11,6 +11,8 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026, salvo las marcada
 
 | Fuente | URL |
 |---|---|
+| **(9-nov-2026) Decreto 1489 de 2026** (6-oct-2026, Diario Oficial 53.650) — amplía plazos de los arts. 4 D-0368 y 6 D-0977. Texto guardado en `fuentes-primarias/decreto-1489-2026-texto.txt`; **pendiente contrastar con PDF del Diario Oficial** | https://normativa.colpensiones.gov.co/compilacion/docs/decreto_1489_2026.htm |
+| Nota de prensa sobre el D-1489 (INCP, 14-oct-2026) — fechas 7-abr/7-oct-2027 y 4-feb-2029 (secundaria) | https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/se-prorrogo-el-plazo-para-reglamentar-el-sistema-de-finanzas-abiertas/ |
 | **Decreto 0368 de 2026** (texto completo, Diario Oficial 53.453) | https://normativa.colpensiones.gov.co/compilacion/docs/decreto_0368_2026.htm |
 | Decreto 368 de 2026 — Gestor Normativo, Función Pública | https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=275576 |
 | Decreto 0368 de 2026 — PDF oficial (DAPRE) | https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20No.%200368%20DEL%2007%20DE%20ABRIL%20DE%202026.pdf |
@@ -37,6 +39,9 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026, salvo las marcada
 | **Proyecto de Carta Circular — cronograma de estándares** (31-ago-2026, comentarios hasta 15-sep-2026) | https://www.superfinanciera.gov.co/publicaciones/10116237/proyecto-de-carta-circular-agosto-31-de-2026/ |
 | **Proyecto de Circular Externa 10 de 2026** — nuevo Capítulo IX de la CBJ (radicado 2026164106) | https://www.superfinanciera.gov.co/publicaciones/10116197/proyecto-de-circular-externa-10-2026/ |
 | Proyecto de Circular Externa 01 de 2026 | https://www.superfinanciera.gov.co/publicaciones/10116002/proyecto-de-circular-externa-01-2026/ |
+| **(9-nov-2026)** SFC — Proyectos de norma 2026 (listado; modificado 23-oct-2026; muestra el proyecto 10_2026 / Cap. IX aún como proyecto) | https://www.superfinanciera.gov.co/publicaciones/10082380 |
+| **(9-nov-2026)** SFC — Proyecto de carta circular (cronograma; modificado 31-ago-2026) | https://www.superfinanciera.gov.co/10116236 |
+| SFC — nota del foro de lanzamiento del D-0368 (10-jun-2026), cita el directorio como "listado oficial de los actores" | https://www.superfinanciera.gov.co/10116156 |
 | Proyectos de normatividad (índice SFC) | https://www.superfinanciera.gov.co/publicaciones/10088440/normativaproyectos-de-normatividad-10088440/ |
 | **(23-sep-2026) Proyecto de decreto — "Ajustes en los plazos de implementación del sistema de finanzas abiertas obligatorio"** (índice URF, comentarios 22 al 27-sep-2026) | https://www.urf.gov.co/normatividad/proyectos-de-decreto/2026 |
 | **(23-sep-2026) Documento Técnico del proyecto de decreto de ampliación de plazos** (URF, sep-2026, 22 p. — guardado en `fuentes-primarias/urf-documento-tecnico-ajuste-plazos-2026.pdf`) | https://www.urf.gov.co/documents/283253/3555757/003_Documento_Tecnico.pdf |
@@ -80,11 +85,15 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026, salvo las marcada
 | **Open Banking Read-Write API Specification v4.0** | https://openbankinguk.github.io/read-write-api-site3/v4.0/ |
 | Clifford Chance — Data (Use and Access) Act: marco de smart data schemes | https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2025/07/what-you-need-to-know-about-the-data-use-and-access-act-framework-for-smart-data.html |
 | CMS — "Smart Data schemes under the new Data (Use and Access) Act" | https://cms.law/en/gbr/legal-updates/smart-data-schemes-enhanced-data-sharing-in-the-uk-under-the-new-data-use-and-access-act |
+| **(9-nov-2026)** Open Banking Directory Usage — eIDAS release (Production) v2.5 | https://openbanking.atlassian.net/wiki/spaces/DZ/pages/3242196993/Open+Banking+Directory+Usage+-+eIDAS+release+Production+-+v2.5 |
+| Yapily — requisitos para UK (flujo SSA/OBWAC/OBSeal) | https://docs.yapily.com/getting-started/integration-setup/prerequisites/uk-prereqs |
 
 ## Unión Europea
 
 | Fuente | URL |
 |---|---|
+| **(9-nov-2026)** EBA — Registro de instituciones de pago y de dinero electrónico bajo PSD2 | https://www.eba.europa.eu/risk-and-data-analysis/data/registers/payment-institutions-register |
+| ETSI TS 119 495 v1.8.1 (abr-2026) — perfiles de certificados cualificados PSD2 | https://etsi.org/deliver/etsi_ts/119400_119499/119495/01.08.01_60/ts_119495v010801p.pdf |
 | Norton Rose Fulbright — "PSD3 and PSR: from provisional agreement to 2026 readiness" | https://www.nortonrosefulbright.com/en/knowledge/publications/cedd39c6/psd3-and-psr-from-provisional-agreement-to-2026-readiness |
 | The Paypers — "PSD3 and PSR: overview and key considerations" | https://thepaypers.com/regulations/explainers/explainer-psd3-and-psr-overview-and-key-considerations |
 | 421 insights — "Navigating PSD3, PSR and FIDA" | https://www.421.se/insight/navigating-psd3-psr-and-fida/ |
@@ -121,6 +130,12 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026, salvo las marcada
 | Finsiders Brasil — "Open Finance supera 100 milhões de clientes" | https://finsidersbrasil.com.br/economia-open/brasil-lidera-open-finance-no-mundo-com-100-milhoes-de-clientes/ |
 | Celcoin — Infraestrutura Open Finance | https://celcoin.com.br/articles/infraestrutura-open-finance-brasil/ |
 | GX Capital — "Open Finance entra em nova fase de aperfeiçoamento" | https://gx.capital/open-finance-entra-em-nova-fase-de-aperfeicoamento |
+| **(9-nov-2026)** Directorio de Participantes — endpoint público JSON (consultado sin autenticación) | https://data.directory.openbankingbrasil.org.br/participants |
+| Directorio — keystore público (JWKS) | https://keystore.directory.openbankingbrasil.org.br/openbanking.jwks |
+| Guía de operación del Directorio Central (v1.2.14, 28-feb-2023) | https://openfinancebrasil.atlassian.net/wiki/download/attachments/17378602/20230228_OpenFinance-Guia_Operacao_Diretorio_Central.pdf?api=v2 |
+| Open Finance Brasil — Dynamic Client Registration 2.0 | https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/246120449/EN+Open+Finance+Brasil+Financial-grade+API+Dynamic+Client+Registration+2.0+RC1+Implementers+Draft+3 |
+| Open Finance Brasil — Padrão de Certificados 2.1 | https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/246054913 |
+| Instrução Normativa BCB nº 588 (31-ene-2025) — directorio como elemento esencial (vía resultado de búsqueda, no leída) | https://www.normasbrasil.com.br/norma/instrucao-normativa-588-2025_472906.html |
 
 ## Chile / México / otros
 
@@ -128,6 +143,7 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026, salvo las marcada
 |---|---|
 | CMF — "Publica norma que regula el Sistema de Finanzas Abiertas" (NCG 514) | https://www.cmfchile.cl/portal/prensa/615/w3-article-82737.html |
 | CMF — "Modifica la normativa del SFA e incorpora anexo técnico" (1-jun-2026) | https://www.cmfchile.cl/portal/prensa/625/w4-article-110881.html |
+| CMF — presentaciones sobre el Directorio de Participantes (búsqueda 9-nov-2026; no leídas completas) | https://www.cmfchile.cl/portal/prensa/625/articles-113925_doc_pdf.pdf |
 | Carey Abogados — Análisis de la norma de finanzas abiertas de la CMF | https://www.carey.cl/cmf-publica-norma-que-regula-el-sistema-de-finanzas-abiertas |
 | Diario Financiero — "El SFA comenzará a regir en julio de 2026" | https://www.df.cl/mercados/banca-fintech/cmf-emite-norma-que-regula-el-sistema-de-finanzas-abiertas |
 
@@ -150,6 +166,8 @@ Todas las URLs fueron consultadas el 10 de septiembre de 2026, salvo las marcada
   10-oct detectada al cruzarlo con el art. 5 del D-0368/2026.
 - El **cronograma de estandarización** y el **nuevo Capítulo IX** se extrajeron de los
   documentos Word publicados por la SFC en sus páginas de proyectos de normatividad.
+- El **Decreto 1489 de 2026** se leyó completo (arts. 1 a 3 y considerandos) desde el Normograma de Colpensiones, tras ubicarlo por una nota de prensa del INCP. Las fechas calendario de esa nota **no** están en el decreto (solo los plazos en meses).
+- El endpoint público del directorio de Brasil se consultó directamente el 9-nov-2026; las guías de UK, UE y Chile se tomaron de resultados de búsqueda y **no** se leyeron completas.
 - Los análisis de firmas de abogados se usaron como contraste, no como fuente única.
 - Cuando una fuente secundaria afirmaba algo que no pudo verificarse contra la norma, se
   marcó explícitamente en el documento correspondiente.

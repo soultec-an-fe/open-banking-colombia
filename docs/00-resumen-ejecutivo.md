@@ -1,6 +1,6 @@
 # 00 · Resumen ejecutivo
 
-**Fecha de corte: 23 de septiembre de 2026**
+**Fecha de corte: 23 de septiembre de 2026** · **Actualización parcial 9-nov-2026:** Decreto 1489 de 2026 (plazos de la SFC) — el resto no se re-verificó.
 
 ---
 
@@ -21,7 +21,7 @@ clientes); y **Colombia** acaba de saltar del modelo voluntario al obligatorio.
 | **Circular Externa 004 de 2024** | 7-feb-2024, **vigente** | Crea el Capítulo IX de la CBJ. **Ya exige FAPI 2.0**, OAuth 2.0, ISO 20022, mTLS, `private_key_jwt`, PS256+. Plazo final de adopción: **7-ago-2026** |
 | **Proyecto de Circular Externa** (Cap. IX CBJ) | Consulta jul–ago 2026, **no expedida** | Subroga el Capítulo IX. Mantiene FAPI 2.0 y **añade** OpenAPI 3.1, DAMA, OWASP API Top 10 |
 | **Proyecto de Carta Circular** (cronograma) | Consulta cerrada **15-sep-2026**, aún sin expedir | Fija el orden y los plazos de expedición de estándares. |
-| **Proyecto de decreto de ampliación de plazos** (modifica art. 4 D-0368 y art. 6 D-0977) | Consulta **hasta 27-sep-2026** | Propone dar a la SFC 6 meses más (cronograma, Directorio, indicadores, portabilidad). Ver [`09`](09-colombia-cronograma-y-analisis.md) §7. |
+| **Decreto 1489 de 2026** (modifica art. 4 D-0368 y art. 6 D-0977) | 6-oct-2026, **vigente desde el 7-oct-2026** | Da a la SFC 6 meses más: cronograma a 12 meses, Directorio e indicadores a 18, portabilidad a 30. Ver [`09`](09-colombia-cronograma-y-analisis.md) §7. |
 
 ### Los tres actores del modelo colombiano
 
@@ -74,13 +74,14 @@ de condiciones. La tarifa se publica en el módulo de proveedores del directorio
 | 7-ago-2026 | 🔴 **Venció** el plazo final de la CE 004/2024 — incluida la adopción de **FAPI 2.0**. Sin tercera prórroga | CE 001 de 2026 |
 | 10-ago-2026 | Sismo — Emergencia Económica, Social y Ecológica declarada (motivo citado por la URF para pedir más plazo) | Decreto 1261 de 2026 |
 | **15-sep-2026** | 🔴 Cierre de comentarios al cronograma (cerrado, aún sin expedir) | Proyecto de Carta Circular |
-| **27-sep-2026, 11:59 p.m.** | 🔴 **Cierre de comentarios al proyecto de decreto que ampliaría estos plazos 6 meses** | Proyecto de decreto, URF |
-| **7/10-oct-2026** | 🔴 **Fecha límite vigente para que la SFC publique el cronograma** (dos fuentes oficiales calculan fechas distintas — ver [`09`](09-colombia-cronograma-y-analisis.md) §7.1). Si se expide la ampliación, pasaría a **abr-2027** | D-0368/2026, art. 4.1 |
-| ~dic-2026 | La SFC debe incluir portabilidad en el cronograma (2 meses después) | D-0977/2026, art. 5 |
+| **6-oct-2026** | ✅ **Decreto 1489 de 2026** amplía 6 meses los plazos de la SFC (rige desde el 7-oct-2026) | D-1489/2026 |
+| ~~7/10-oct-2026~~ | ~~Plazo para publicar el cronograma~~ — **ampliado** a 12 meses por el D-1489 | D-0368/2026, art. 4.1 (original) |
+| **7/10-abr-2027** | 🔴 **Nuevo tope para que la SFC publique el cronograma** (dos fuentes oficiales calculan fechas distintas — ver [`09`](09-colombia-cronograma-y-analisis.md) §7.1) | D-0368/2026, art. 4.1 (mod. D-1489) |
+| ~jun-2027 | La SFC debe incluir portabilidad en el cronograma (2 meses después de publicarlo) | D-0977/2026, art. 5 |
 | 7-abr-2027 | Adecuación de modelos existentes al nuevo Capítulo IX (según proyecto) | Proyecto CE, 2.3 |
-| **7/10-abr-2027** | 🔴 Directorio de participantes operativo + indicadores definidos (vigente). Si se amplía, pasaría a **oct-2027** | D-0368/2026, art. 4.2 y 4.3 |
+| **7/10-oct-2027** | 🔴 Directorio de participantes operativo + indicadores definidos (18 meses; antes 12) | D-0368/2026, art. 4.2 y 4.3 (mod. D-1489) |
 | ~jun-2027 | Estándar de portabilidad de crédito de consumo (mes 8 del cronograma) | Borrador cronograma |
-| ~ago-2028 | Tope legal vigente para estándares de portabilidad. Si se amplía, pasaría a **feb-2029** | D-0977/2026, art. 6 |
+| ~4/5-feb-2029 | Tope legal de estándares de portabilidad (30 meses; antes ~ago-2028) | D-0977/2026, art. 6 (mod. D-1489) |
 | ~2035–2038 | Historial transaccional e iniciación de pagos (meses 84–132 + 12 de implementación) | Borrador cronograma |
 
 ## 4. Los tres riesgos que hay que vigilar
@@ -90,8 +91,9 @@ de condiciones. La tarifa se publica en el módulo de proveedores del directorio
    de depósitos a la vista a 96 meses. Si se confirma así, el "open banking" transaccional
    colombiano no llega antes de 2035. → [análisis](09-colombia-cronograma-y-analisis.md)
 2. **Posible inconsistencia normativa**: la portabilidad comercial aparece en el mes 24
-   del cronograma (~oct-2028), pero el art. 6 del D-0977/2026 impone un tope de 24 meses
-   desde su vigencia (~5-ago-2028). El cronograma podría incumplir su propia habilitante.
+   del cronograma, pero el art. 6 del D-0977/2026 impone un tope desde su vigencia. Con el
+   D-1489 ambos se corrieron 6 meses: el desfase de ~2 meses **persiste** (mes 24 ≈ abr-2029
+   vs. tope ≈ feb-2029). El cronograma podría incumplir su propia habilitante.
 3. **Asimetría competitiva para no vigilados** *en finanzas abiertas*: sin derecho de acceso
    ni reciprocidad, el poder de negociación queda en los Proveedores de Datos. El único
    contrapeso son los deberes de no discriminación del art. 2.35.8.6.2 y la vigilancia de la
